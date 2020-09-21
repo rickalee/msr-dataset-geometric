@@ -1,0 +1,5001 @@
+i,j,val,ci,cj
+0,4078,2.00e-04,8 - eight,Dress
+1,4923,2.00e-04,8 - eight,Dress
+2,4880,2.00e-04,0 - zero,Coat
+3,4222,2.00e-04,1 - one,Ankle boot
+4,3146,2.00e-04,0 - zero,Coat
+5,4386,2.00e-04,8 - eight,T-shirt/top
+6,4778,2.00e-04,5 - five,T-shirt/top
+7,4870,2.00e-04,2 - two,Ankle boot
+8,2362,2.00e-04,6 - six,Dress
+9,2054,2.00e-04,7 - seven,Trouser
+10,3821,2.00e-04,7 - seven,Shirt
+11,3622,2.00e-04,2 - two,Bag
+12,4376,2.00e-04,7 - seven,Shirt
+13,3615,2.00e-04,3 - three,Ankle boot
+14,2016,2.00e-04,5 - five,Bag
+15,3465,2.00e-04,0 - zero,Coat
+16,4239,2.00e-04,6 - six,Dress
+17,4652,2.00e-04,0 - zero,Coat
+18,1132,2.00e-04,9 - nine,Trouser
+19,20,2.00e-04,7 - seven,Shirt
+20,2754,2.00e-04,1 - one,Trouser
+21,2372,2.00e-04,4 - four,Sneaker
+22,2330,2.00e-04,5 - five,T-shirt/top
+23,268,2.00e-04,4 - four,Sneaker
+24,1575,2.00e-04,2 - two,Ankle boot
+25,1789,2.00e-04,4 - four,Sneaker
+26,4971,2.00e-04,9 - nine,Trouser
+27,25,2.00e-04,6 - six,Coat
+28,4988,2.00e-04,8 - eight,Dress
+29,3747,2.00e-04,8 - eight,T-shirt/top
+30,1757,2.00e-04,7 - seven,T-shirt/top
+31,3942,2.00e-04,9 - nine,Trouser
+32,3387,2.00e-04,7 - seven,Shirt
+33,1007,2.00e-04,3 - three,Ankle boot
+34,4448,2.00e-04,8 - eight,T-shirt/top
+35,3874,2.00e-04,6 - six,Coat
+36,531,2.00e-04,5 - five,Ankle boot
+37,73,2.00e-04,7 - seven,Shirt
+38,1335,2.00e-04,3 - three,Pullover
+39,4542,2.00e-04,4 - four,Sneaker
+40,3695,2.00e-04,0 - zero,Coat
+41,2632,2.00e-04,6 - six,Dress
+42,4084,2.00e-04,4 - four,Bag
+43,264,2.00e-04,0 - zero,Coat
+44,4470,2.00e-04,1 - one,Sandal
+45,4198,2.00e-04,3 - three,Ankle boot
+46,4319,2.00e-04,8 - eight,T-shirt/top
+47,3337,2.00e-04,7 - seven,T-shirt/top
+48,3697,2.00e-04,4 - four,Sneaker
+49,3412,2.00e-04,2 - two,Ankle boot
+50,4529,2.00e-04,7 - seven,T-shirt/top
+51,4494,2.00e-04,4 - four,Sneaker
+52,1515,2.00e-04,7 - seven,Shirt
+53,348,2.00e-04,9 - nine,Trouser
+54,1003,2.00e-04,1 - one,Ankle boot
+55,2956,2.00e-04,4 - four,Sneaker
+56,3433,2.00e-04,7 - seven,Bag
+57,3822,2.00e-04,4 - four,Sneaker
+58,3278,2.00e-04,7 - seven,Trouser
+59,3643,2.00e-04,0 - zero,Coat
+60,4934,2.00e-04,8 - eight,Dress
+61,4403,2.00e-04,9 - nine,Dress
+62,3663,2.00e-04,7 - seven,T-shirt/top
+63,3345,2.00e-04,1 - one,Sandal
+64,2224,2.00e-04,3 - three,Dress
+65,4915,2.00e-04,1 - one,Sandal
+66,4572,2.00e-04,6 - six,Dress
+67,835,2.00e-04,7 - seven,Sandal
+68,4855,2.00e-04,7 - seven,T-shirt/top
+69,4351,2.00e-04,1 - one,Sneaker
+70,2719,2.00e-04,1 - one,Sandal
+71,3438,2.00e-04,4 - four,Sneaker
+72,3606,2.00e-04,9 - nine,Dress
+73,4233,2.00e-04,7 - seven,Shirt
+74,1449,2.00e-04,2 - two,Ankle boot
+75,3281,2.00e-04,5 - five,Sandal
+76,3559,2.00e-04,6 - six,Shirt
+77,4802,2.00e-04,4 - four,Sneaker
+78,4775,2.00e-04,4 - four,Sandal
+79,1933,2.00e-04,8 - eight,Pullover
+80,4188,2.00e-04,1 - one,Sandal
+81,4779,2.00e-04,9 - nine,Trouser
+82,475,2.00e-04,6 - six,Dress
+83,4493,2.00e-04,6 - six,Shirt
+84,2622,2.00e-04,1 - one,Trouser
+85,2101,2.00e-04,8 - eight,Pullover
+86,4129,2.00e-04,7 - seven,Dress
+87,3853,2.00e-04,3 - three,Ankle boot
+88,4818,2.00e-04,0 - zero,Coat
+89,3689,2.00e-04,8 - eight,Dress
+90,4525,2.00e-04,6 - six,Dress
+91,230,2.00e-04,1 - one,Sandal
+92,3072,2.00e-04,6 - six,Shirt
+93,4851,2.00e-04,1 - one,Dress
+94,3301,2.00e-04,4 - four,Sneaker
+95,1827,2.00e-04,6 - six,Shirt
+96,105,2.00e-04,3 - three,Pullover
+97,2017,2.00e-04,5 - five,Shirt
+98,4027,2.00e-04,0 - zero,Coat
+99,4016,2.00e-04,6 - six,Dress
+100,8,2.00e-04,8 - eight,Ankle boot
+101,3594,2.00e-04,6 - six,Pullover
+102,2005,2.00e-04,1 - one,Sandal
+103,2783,2.00e-04,2 - two,Ankle boot
+104,4724,2.00e-04,2 - two,Ankle boot
+105,2124,2.00e-04,6 - six,Bag
+106,778,2.00e-04,3 - three,Dress
+107,1814,2.00e-04,2 - two,Pullover
+108,3415,2.00e-04,3 - three,Ankle boot
+109,4082,2.00e-04,0 - zero,Coat
+110,2047,2.00e-04,9 - nine,Dress
+111,2552,2.00e-04,0 - zero,Coat
+112,1891,2.00e-04,4 - four,Sneaker
+113,4252,2.00e-04,4 - four,Sneaker
+114,4415,2.00e-04,7 - seven,T-shirt/top
+115,4594,2.00e-04,8 - eight,T-shirt/top
+116,1060,2.00e-04,9 - nine,Trouser
+117,2515,2.00e-04,7 - seven,Bag
+118,32,2.00e-04,7 - seven,Shirt
+119,4801,2.00e-04,9 - nine,Trouser
+120,4354,2.00e-04,7 - seven,Sandal
+121,4568,2.00e-04,4 - four,Sneaker
+122,2979,2.00e-04,2 - two,Pullover
+123,4468,2.00e-04,9 - nine,Trouser
+124,4287,2.00e-04,8 - eight,Dress
+125,3023,2.00e-04,8 - eight,Ankle boot
+126,4689,2.00e-04,7 - seven,Bag
+127,4071,2.00e-04,8 - eight,Shirt
+128,1511,2.00e-04,1 - one,Sneaker
+129,2788,2.00e-04,4 - four,Sneaker
+130,2508,2.00e-04,1 - one,Sandal
+131,2304,2.00e-04,4 - four,Bag
+132,4504,2.00e-04,7 - seven,Shirt
+133,1971,2.00e-04,2 - two,Ankle boot
+134,1473,2.00e-04,2 - two,Ankle boot
+135,4544,2.00e-04,7 - seven,T-shirt/top
+136,1649,2.00e-04,6 - six,Shirt
+137,3884,2.00e-04,2 - two,Ankle boot
+138,2460,2.00e-04,1 - one,Trouser
+139,579,2.00e-04,5 - five,Sandal
+140,3971,2.00e-04,7 - seven,Trouser
+141,2953,2.00e-04,7 - seven,Shirt
+142,3526,2.00e-04,1 - one,Sandal
+143,2505,2.00e-04,7 - seven,Shirt
+144,1082,2.00e-04,2 - two,Ankle boot
+145,1869,2.00e-04,3 - three,Coat
+146,2274,2.00e-04,9 - nine,Trouser
+147,720,2.00e-04,0 - zero,Coat
+148,3705,2.00e-04,6 - six,Shirt
+149,3741,2.00e-04,7 - seven,Shirt
+150,3410,2.00e-04,1 - one,Ankle boot
+151,3472,2.00e-04,5 - five,Sandal
+152,2835,2.00e-04,7 - seven,Shirt
+153,1476,2.00e-04,6 - six,Bag
+154,4877,2.00e-04,3 - three,Dress
+155,2879,2.00e-04,4 - four,Bag
+156,3987,2.00e-04,1 - one,Ankle boot
+157,572,2.00e-04,8 - eight,T-shirt/top
+158,1101,2.00e-04,3 - three,Coat
+159,4462,2.00e-04,2 - two,Ankle boot
+160,3305,2.00e-04,1 - one,Sandal
+161,2034,2.00e-04,6 - six,Bag
+162,2292,2.00e-04,1 - one,Trouser
+163,4908,2.00e-04,5 - five,Bag
+164,3641,2.00e-04,1 - one,Sandal
+165,2976,2.00e-04,3 - three,Pullover
+166,2804,2.00e-04,6 - six,Bag
+167,4593,2.00e-04,1 - one,Sandal
+168,3379,2.00e-04,4 - four,Sandal
+169,4762,2.00e-04,6 - six,Pullover
+170,2915,2.00e-04,4 - four,Sneaker
+171,4565,2.00e-04,7 - seven,Shirt
+172,4314,2.00e-04,6 - six,Dress
+173,4306,2.00e-04,3 - three,Shirt
+174,4445,2.00e-04,6 - six,Shirt
+175,4732,2.00e-04,1 - one,Sandal
+176,161,2.00e-04,0 - zero,Coat
+177,4316,2.00e-04,5 - five,T-shirt/top
+178,1483,2.00e-04,5 - five,Sandal
+179,4368,2.00e-04,9 - nine,Trouser
+180,3172,2.00e-04,8 - eight,T-shirt/top
+181,3047,2.00e-04,5 - five,Ankle boot
+182,4641,2.00e-04,8 - eight,Coat
+183,2149,2.00e-04,5 - five,Bag
+184,3386,2.00e-04,2 - two,Ankle boot
+185,2271,2.00e-04,4 - four,Sneaker
+186,3027,2.00e-04,6 - six,Pullover
+187,2320,2.00e-04,0 - zero,Coat
+188,3851,2.00e-04,2 - two,Bag
+189,388,2.00e-04,5 - five,Bag
+190,1423,2.00e-04,9 - nine,Dress
+191,524,2.00e-04,5 - five,Bag
+192,3707,2.00e-04,5 - five,Shirt
+193,4507,2.00e-04,6 - six,Bag
+194,2066,2.00e-04,3 - three,Coat
+195,4270,2.00e-04,0 - zero,Coat
+196,104,2.00e-04,5 - five,Bag
+197,2694,2.00e-04,0 - zero,Coat
+198,3597,2.00e-04,5 - five,T-shirt/top
+199,1974,2.00e-04,5 - five,Sandal
+200,1769,2.00e-04,9 - nine,Trouser
+201,1407,2.00e-04,3 - three,Shirt
+202,2509,2.00e-04,6 - six,Dress
+203,655,2.00e-04,6 - six,Dress
+204,3147,2.00e-04,1 - one,Sandal
+205,3888,2.00e-04,4 - four,Sneaker
+206,3875,2.00e-04,2 - two,Ankle boot
+207,604,2.00e-04,9 - nine,Trouser
+208,3229,2.00e-04,9 - nine,Trouser
+209,4180,2.00e-04,1 - one,Trouser
+210,3484,2.00e-04,6 - six,Dress
+211,4740,2.00e-04,7 - seven,T-shirt/top
+212,4852,2.00e-04,1 - one,Dress
+213,1658,2.00e-04,8 - eight,Pullover
+214,512,2.00e-04,6 - six,Pullover
+215,4628,2.00e-04,3 - three,Pullover
+216,4654,2.00e-04,2 - two,Ankle boot
+217,2931,2.00e-04,8 - eight,Dress
+218,3121,2.00e-04,2 - two,Ankle boot
+219,1781,2.00e-04,7 - seven,Sandal
+220,3240,2.00e-04,3 - three,Dress
+221,4332,2.00e-04,6 - six,Coat
+222,4676,2.00e-04,6 - six,Coat
+223,1475,2.00e-04,0 - zero,Coat
+224,3119,2.00e-04,5 - five,T-shirt/top
+225,907,2.00e-04,7 - seven,T-shirt/top
+226,2171,2.00e-04,6 - six,Sandal
+227,4497,2.00e-04,0 - zero,Pullover
+228,4471,2.00e-04,6 - six,Dress
+229,4157,2.00e-04,1 - one,Trouser
+230,1872,2.00e-04,1 - one,Sandal
+231,1710,2.00e-04,1 - one,Sneaker
+232,4520,2.00e-04,7 - seven,T-shirt/top
+233,4035,2.00e-04,5 - five,Shirt
+234,4524,2.00e-04,1 - one,Sandal
+235,3290,2.00e-04,8 - eight,T-shirt/top
+236,3040,2.00e-04,9 - nine,Trouser
+237,86,2.00e-04,5 - five,Sandal
+238,2568,2.00e-04,3 - three,Pullover
+239,2099,2.00e-04,4 - four,Sneaker
+240,4595,2.00e-04,8 - eight,Pullover
+241,2672,2.00e-04,6 - six,Shirt
+242,4690,2.00e-04,4 - four,Sneaker
+243,2826,2.00e-04,2 - two,Ankle boot
+244,4008,2.00e-04,7 - seven,Shirt
+245,4261,2.00e-04,8 - eight,Dress
+246,4621,2.00e-04,1 - one,Sandal
+247,4909,2.00e-04,2 - two,Ankle boot
+248,4343,2.00e-04,6 - six,Dress
+249,3212,2.00e-04,8 - eight,Dress
+250,1158,2.00e-04,9 - nine,Trouser
+251,753,2.00e-04,2 - two,Ankle boot
+252,2249,2.00e-04,3 - three,T-shirt/top
+253,3885,2.00e-04,4 - four,Sneaker
+254,4174,2.00e-04,9 - nine,Trouser
+255,4429,2.00e-04,8 - eight,Dress
+256,3584,2.00e-04,5 - five,Sandal
+257,3521,2.00e-04,1 - one,Sandal
+258,3369,2.00e-04,2 - two,Ankle boot
+259,4452,2.00e-04,8 - eight,Ankle boot
+260,4435,2.00e-04,7 - seven,T-shirt/top
+261,4146,2.00e-04,9 - nine,Trouser
+262,226,2.00e-04,9 - nine,Trouser
+263,228,2.00e-04,0 - zero,Coat
+264,4551,2.00e-04,2 - two,Bag
+265,4624,2.00e-04,7 - seven,Trouser
+266,4018,2.00e-04,3 - three,Pullover
+267,2213,2.00e-04,1 - one,Trouser
+268,3752,2.00e-04,1 - one,Sneaker
+269,3551,2.00e-04,7 - seven,Shirt
+270,3485,2.00e-04,0 - zero,Coat
+271,115,2.00e-04,5 - five,T-shirt/top
+272,4183,2.00e-04,7 - seven,Shirt
+273,4501,2.00e-04,3 - three,Pullover
+274,4580,2.00e-04,5 - five,Bag
+275,371,2.00e-04,9 - nine,Trouser
+276,496,2.00e-04,3 - three,Shirt
+277,4648,2.00e-04,3 - three,Pullover
+278,4108,2.00e-04,4 - four,Sneaker
+279,2311,2.00e-04,7 - seven,Shirt
+280,2142,2.00e-04,5 - five,T-shirt/top
+281,543,2.00e-04,0 - zero,Coat
+282,3623,2.00e-04,3 - three,Coat
+283,4431,2.00e-04,5 - five,Shirt
+284,761,2.00e-04,2 - two,Ankle boot
+285,3661,2.00e-04,2 - two,Ankle boot
+286,281,2.00e-04,2 - two,Ankle boot
+287,4221,2.00e-04,8 - eight,T-shirt/top
+288,4789,2.00e-04,7 - seven,Shirt
+289,4158,2.00e-04,0 - zero,Coat
+290,4496,2.00e-04,2 - two,Bag
+291,1839,2.00e-04,6 - six,Bag
+292,78,2.00e-04,9 - nine,Trouser
+293,4064,2.00e-04,6 - six,Coat
+294,751,2.00e-04,3 - three,Pullover
+295,3286,2.00e-04,2 - two,Ankle boot
+296,983,2.00e-04,5 - five,Bag
+297,674,2.00e-04,3 - three,Pullover
+298,4733,2.00e-04,1 - one,Sandal
+299,1706,2.00e-04,2 - two,Coat
+300,3956,2.00e-04,7 - seven,Shirt
+301,4043,2.00e-04,1 - one,Sandal
+302,4395,2.00e-04,7 - seven,Trouser
+303,437,2.00e-04,3 - three,Dress
+304,1688,2.00e-04,9 - nine,Trouser
+305,4917,2.00e-04,2 - two,Coat
+306,2477,2.00e-04,0 - zero,Pullover
+307,128,2.00e-04,3 - three,Pullover
+308,3288,2.00e-04,1 - one,Ankle boot
+309,796,2.00e-04,7 - seven,Trouser
+310,1422,2.00e-04,5 - five,Bag
+311,4096,2.00e-04,9 - nine,Dress
+312,1616,2.00e-04,1 - one,Sneaker
+313,3198,2.00e-04,4 - four,Sneaker
+314,2461,2.00e-04,9 - nine,Dress
+315,615,2.00e-04,3 - three,Pullover
+316,4011,2.00e-04,5 - five,Bag
+317,3869,2.00e-04,2 - two,Ankle boot
+318,596,2.00e-04,7 - seven,Bag
+319,1075,2.00e-04,1 - one,Sneaker
+320,2985,2.00e-04,6 - six,Pullover
+321,2853,2.00e-04,5 - five,Ankle boot
+322,1018,2.00e-04,1 - one,Ankle boot
+323,480,2.00e-04,0 - zero,Coat
+324,2529,2.00e-04,3 - three,Pullover
+325,623,2.00e-04,5 - five,Bag
+326,4164,2.00e-04,2 - two,Ankle boot
+327,2844,2.00e-04,7 - seven,Shirt
+328,3598,2.00e-04,4 - four,Sandal
+329,1131,2.00e-04,0 - zero,Coat
+330,4015,2.00e-04,9 - nine,Dress
+331,3463,2.00e-04,6 - six,Shirt
+332,3633,2.00e-04,2 - two,Ankle boot
+333,2410,2.00e-04,9 - nine,Trouser
+334,108,2.00e-04,9 - nine,Trouser
+335,553,2.00e-04,1 - one,Sneaker
+336,3781,2.00e-04,2 - two,Ankle boot
+337,3588,2.00e-04,6 - six,Dress
+338,3499,2.00e-04,4 - four,Sneaker
+339,2329,2.00e-04,2 - two,Ankle boot
+340,4739,2.00e-04,7 - seven,T-shirt/top
+341,4098,2.00e-04,0 - zero,Pullover
+342,2495,2.00e-04,5 - five,Pullover
+343,4281,2.00e-04,3 - three,Pullover
+344,3163,2.00e-04,7 - seven,Trouser
+345,4149,2.00e-04,5 - five,Bag
+346,4208,2.00e-04,5 - five,Shirt
+347,4074,2.00e-04,2 - two,Ankle boot
+348,3974,2.00e-04,7 - seven,T-shirt/top
+349,2313,2.00e-04,6 - six,Sandal
+350,4357,2.00e-04,4 - four,Sneaker
+351,285,2.00e-04,4 - four,Sneaker
+352,55,2.00e-04,4 - four,Sneaker
+353,142,2.00e-04,8 - eight,Ankle boot
+354,4175,2.00e-04,1 - one,Sandal
+355,290,2.00e-04,8 - eight,Dress
+356,2695,2.00e-04,6 - six,Dress
+357,1058,2.00e-04,6 - six,Dress
+358,3935,2.00e-04,1 - one,Sandal
+359,4636,2.00e-04,8 - eight,Dress
+360,813,2.00e-04,8 - eight,Dress
+361,2387,2.00e-04,5 - five,T-shirt/top
+362,2044,2.00e-04,5 - five,Bag
+363,4484,2.00e-04,6 - six,Shirt
+364,2239,2.00e-04,4 - four,Sneaker
+365,3898,2.00e-04,8 - eight,Dress
+366,2242,2.00e-04,0 - zero,Coat
+367,1699,2.00e-04,6 - six,Dress
+368,3404,2.00e-04,0 - zero,Coat
+369,4516,2.00e-04,7 - seven,T-shirt/top
+370,4459,2.00e-04,6 - six,Shirt
+371,776,2.00e-04,9 - nine,Dress
+372,205,2.00e-04,0 - zero,Coat
+373,4673,2.00e-04,5 - five,T-shirt/top
+374,4414,2.00e-04,1 - one,Sandal
+375,3789,2.00e-04,5 - five,Bag
+376,4230,2.00e-04,9 - nine,Dress
+377,1968,2.00e-04,8 - eight,T-shirt/top
+378,2351,2.00e-04,2 - two,Ankle boot
+379,1848,2.00e-04,6 - six,Shirt
+380,4041,2.00e-04,0 - zero,Coat
+381,3939,2.00e-04,3 - three,Coat
+382,4268,2.00e-04,8 - eight,T-shirt/top
+383,3908,2.00e-04,1 - one,Trouser
+384,1457,2.00e-04,3 - three,Pullover
+385,4502,2.00e-04,8 - eight,T-shirt/top
+386,2920,2.00e-04,0 - zero,Coat
+387,3909,2.00e-04,2 - two,Coat
+388,1064,2.00e-04,9 - nine,Trouser
+389,3316,2.00e-04,1 - one,Trouser
+390,4653,2.00e-04,1 - one,Dress
+391,2640,2.00e-04,2 - two,Bag
+392,3701,2.00e-04,8 - eight,Dress
+393,3161,2.00e-04,8 - eight,Dress
+394,4417,2.00e-04,1 - one,Sandal
+395,2277,2.00e-04,7 - seven,Shirt
+396,4294,2.00e-04,9 - nine,Dress
+397,3461,2.00e-04,0 - zero,Coat
+398,4408,2.00e-04,1 - one,Sandal
+399,4360,2.00e-04,0 - zero,Coat
+400,3865,2.00e-04,3 - three,Pullover
+401,4806,2.00e-04,2 - two,Ankle boot
+402,3667,2.00e-04,3 - three,Pullover
+403,1856,2.00e-04,9 - nine,Shirt
+404,2610,2.00e-04,5 - five,T-shirt/top
+405,4196,2.00e-04,0 - zero,Coat
+406,2222,2.00e-04,5 - five,Ankle boot
+407,4147,2.00e-04,3 - three,Coat
+408,4793,2.00e-04,3 - three,Dress
+409,3143,2.00e-04,4 - four,Sneaker
+410,1239,2.00e-04,0 - zero,Coat
+411,893,2.00e-04,2 - two,Bag
+412,1597,2.00e-04,5 - five,T-shirt/top
+413,207,2.00e-04,7 - seven,Bag
+414,3105,2.00e-04,8 - eight,Ankle boot
+415,4091,2.00e-04,2 - two,Bag
+416,3509,2.00e-04,0 - zero,Coat
+417,3723,2.00e-04,2 - two,Ankle boot
+418,4603,2.00e-04,7 - seven,Sandal
+419,1579,2.00e-04,6 - six,Pullover
+420,4536,2.00e-04,7 - seven,Trouser
+421,4057,2.00e-04,6 - six,Pullover
+422,1854,2.00e-04,0 - zero,Coat
+423,1103,2.00e-04,1 - one,Trouser
+424,4295,2.00e-04,9 - nine,Shirt
+425,303,2.00e-04,2 - two,Ankle boot
+426,1799,2.00e-04,7 - seven,Shirt
+427,3011,2.00e-04,1 - one,Ankle boot
+428,4900,2.00e-04,4 - four,Sneaker
+429,1509,2.00e-04,2 - two,Ankle boot
+430,3635,2.00e-04,4 - four,Sneaker
+431,3704,2.00e-04,3 - three,T-shirt/top
+432,2427,2.00e-04,0 - zero,Coat
+433,4375,2.00e-04,4 - four,Sneaker
+434,4107,2.00e-04,7 - seven,T-shirt/top
+435,3083,2.00e-04,7 - seven,Shirt
+436,2045,2.00e-04,3 - three,Pullover
+437,4367,2.00e-04,0 - zero,Coat
+438,2097,2.00e-04,2 - two,Ankle boot
+439,3964,2.00e-04,7 - seven,Shirt
+440,4492,2.00e-04,9 - nine,Trouser
+441,1486,2.00e-04,6 - six,Dress
+442,4889,2.00e-04,0 - zero,Coat
+443,407,2.00e-04,6 - six,Dress
+444,2118,2.00e-04,3 - three,Pullover
+445,1415,2.00e-04,2 - two,Ankle boot
+446,2338,2.00e-04,2 - two,Ankle boot
+447,3393,2.00e-04,8 - eight,Dress
+448,2701,2.00e-04,3 - three,Ankle boot
+449,1321,2.00e-04,3 - three,Pullover
+450,2135,2.00e-04,1 - one,Ankle boot
+451,3740,2.00e-04,2 - two,Ankle boot
+452,414,2.00e-04,4 - four,Sneaker
+453,4254,2.00e-04,2 - two,Ankle boot
+454,4922,2.00e-04,8 - eight,T-shirt/top
+455,4645,2.00e-04,8 - eight,Ankle boot
+456,3502,2.00e-04,4 - four,Sneaker
+457,3536,2.00e-04,3 - three,Pullover
+458,2663,2.00e-04,2 - two,Ankle boot
+459,291,2.00e-04,7 - seven,Shirt
+460,4878,2.00e-04,0 - zero,Coat
+461,1840,2.00e-04,5 - five,Ankle boot
+462,1972,2.00e-04,1 - one,Sandal
+463,3717,2.00e-04,5 - five,Bag
+464,2752,2.00e-04,5 - five,Sandal
+465,2820,2.00e-04,0 - zero,Coat
+466,4400,2.00e-04,2 - two,Ankle boot
+467,2906,2.00e-04,9 - nine,Trouser
+468,4101,2.00e-04,5 - five,Pullover
+469,2952,2.00e-04,7 - seven,Sandal
+470,3427,2.00e-04,3 - three,Pullover
+471,1580,2.00e-04,3 - three,Ankle boot
+472,1052,2.00e-04,9 - nine,Trouser
+473,2420,2.00e-04,6 - six,Bag
+474,3646,2.00e-04,2 - two,Pullover
+475,3726,2.00e-04,4 - four,Sneaker
+476,2767,2.00e-04,1 - one,Sandal
+477,2490,2.00e-04,7 - seven,Shirt
+478,1211,2.00e-04,1 - one,Dress
+479,3927,2.00e-04,5 - five,Bag
+480,3808,2.00e-04,2 - two,Bag
+481,2714,2.00e-04,8 - eight,Trouser
+482,902,2.00e-04,5 - five,Bag
+483,2727,2.00e-04,5 - five,Bag
+484,3312,2.00e-04,2 - two,Bag
+485,3263,2.00e-04,9 - nine,Trouser
+486,438,2.00e-04,3 - three,Pullover
+487,4439,2.00e-04,7 - seven,Shirt
+488,3381,2.00e-04,0 - zero,Coat
+489,3665,2.00e-04,1 - one,Trouser
+490,4827,2.00e-04,2 - two,Ankle boot
+491,2048,2.00e-04,3 - three,Shirt
+492,4755,2.00e-04,7 - seven,T-shirt/top
+493,3466,2.00e-04,0 - zero,Bag
+494,541,2.00e-04,2 - two,Ankle boot
+495,2674,2.00e-04,1 - one,Sneaker
+496,4605,2.00e-04,0 - zero,Coat
+497,2895,2.00e-04,2 - two,Ankle boot
+498,4820,2.00e-04,4 - four,Sneaker
+499,4187,2.00e-04,9 - nine,Trouser
+500,4465,2.00e-04,7 - seven,T-shirt/top
+501,3797,2.00e-04,1 - one,Trouser
+502,4242,2.00e-04,3 - three,Dress
+503,4895,2.00e-04,9 - nine,Trouser
+504,2910,2.00e-04,2 - two,Coat
+505,4590,2.00e-04,6 - six,Bag
+506,3550,2.00e-04,4 - four,Sandal
+507,1893,2.00e-04,0 - zero,Pullover
+508,817,2.00e-04,4 - four,Sneaker
+509,3611,2.00e-04,4 - four,Sneaker
+510,1096,2.00e-04,3 - three,Pullover
+511,4754,2.00e-04,0 - zero,Coat
+512,4184,2.00e-04,9 - nine,Bag
+513,612,2.00e-04,1 - one,Ankle boot
+514,2998,2.00e-04,7 - seven,T-shirt/top
+515,4338,2.00e-04,9 - nine,Trouser
+516,3108,2.00e-04,2 - two,Ankle boot
+517,3737,2.00e-04,6 - six,Dress
+518,1816,2.00e-04,5 - five,Bag
+519,4305,2.00e-04,3 - three,Shirt
+520,1425,2.00e-04,0 - zero,Coat
+521,4304,2.00e-04,4 - four,Sneaker
+522,117,2.00e-04,7 - seven,T-shirt/top
+523,89,2.00e-04,4 - four,Shirt
+524,1108,2.00e-04,3 - three,Coat
+525,3839,2.00e-04,8 - eight,T-shirt/top
+526,1373,2.00e-04,4 - four,Sneaker
+527,1056,2.00e-04,7 - seven,T-shirt/top
+528,2884,2.00e-04,6 - six,Bag
+529,1702,2.00e-04,1 - one,Sandal
+530,1016,2.00e-04,4 - four,Shirt
+531,3342,2.00e-04,1 - one,Sneaker
+532,2613,2.00e-04,4 - four,Bag
+533,3054,2.00e-04,0 - zero,Coat
+534,2721,2.00e-04,1 - one,Trouser
+535,847,2.00e-04,4 - four,Sneaker
+536,1992,2.00e-04,3 - three,Dress
+537,4402,2.00e-04,2 - two,Ankle boot
+538,3236,2.00e-04,3 - three,Pullover
+539,4423,2.00e-04,1 - one,Sandal
+540,3021,2.00e-04,0 - zero,Coat
+541,2481,2.00e-04,4 - four,Sneaker
+542,3850,2.00e-04,7 - seven,Shirt
+543,2397,2.00e-04,4 - four,Sneaker
+544,2654,2.00e-04,7 - seven,T-shirt/top
+545,3858,2.00e-04,3 - three,Pullover
+546,3806,2.00e-04,1 - one,Sandal
+547,4070,2.00e-04,3 - three,Pullover
+548,4119,2.00e-04,1 - one,Sandal
+549,4308,2.00e-04,4 - four,Sneaker
+550,856,2.00e-04,7 - seven,Sandal
+551,2365,2.00e-04,9 - nine,Trouser
+552,592,2.00e-04,7 - seven,T-shirt/top
+553,2729,2.00e-04,3 - three,Ankle boot
+554,1666,2.00e-04,3 - three,Dress
+555,176,2.00e-04,2 - two,Ankle boot
+556,472,2.00e-04,5 - five,Shirt
+557,3528,2.00e-04,5 - five,Shirt
+558,4861,2.00e-04,1 - one,Trouser
+559,3206,2.00e-04,6 - six,Shirt
+560,4037,2.00e-04,1 - one,Trouser
+561,1698,2.00e-04,4 - four,Sandal
+562,4025,2.00e-04,9 - nine,Trouser
+563,3947,2.00e-04,6 - six,Coat
+564,3071,2.00e-04,5 - five,Sandal
+565,395,2.00e-04,9 - nine,Dress
+566,4372,2.00e-04,0 - zero,Coat
+567,1296,2.00e-04,9 - nine,Trouser
+568,3870,2.00e-04,3 - three,Dress
+569,1413,2.00e-04,4 - four,Sandal
+570,2137,2.00e-04,0 - zero,Coat
+571,4207,2.00e-04,3 - three,Pullover
+572,3566,2.00e-04,3 - three,Coat
+573,3493,2.00e-04,6 - six,Dress
+574,1571,2.00e-04,6 - six,Coat
+575,3676,2.00e-04,2 - two,Ankle boot
+576,167,2.00e-04,3 - three,Pullover
+577,3460,2.00e-04,8 - eight,Dress
+578,3348,2.00e-04,3 - three,Pullover
+579,4631,2.00e-04,5 - five,Sandal
+580,4206,2.00e-04,9 - nine,Shirt
+581,4421,2.00e-04,9 - nine,Trouser
+582,1242,2.00e-04,4 - four,Sneaker
+583,4334,2.00e-04,0 - zero,Coat
+584,2512,2.00e-04,1 - one,Sandal
+585,1216,2.00e-04,8 - eight,Dress
+586,4783,2.00e-04,1 - one,Trouser
+587,4876,2.00e-04,9 - nine,Trouser
+588,1944,2.00e-04,3 - three,Ankle boot
+589,884,2.00e-04,5 - five,Dress
+590,2697,2.00e-04,7 - seven,T-shirt/top
+591,3184,2.00e-04,8 - eight,Coat
+592,3985,2.00e-04,1 - one,Sneaker
+593,301,2.00e-04,2 - two,Ankle boot
+594,3085,2.00e-04,7 - seven,Shirt
+595,4259,2.00e-04,2 - two,Ankle boot
+596,3776,2.00e-04,0 - zero,Pullover
+597,1219,2.00e-04,6 - six,Dress
+598,1255,2.00e-04,2 - two,Ankle boot
+599,1044,2.00e-04,2 - two,Ankle boot
+600,3881,2.00e-04,5 - five,Bag
+601,3430,2.00e-04,5 - five,Pullover
+602,3039,2.00e-04,0 - zero,Coat
+603,1774,2.00e-04,8 - eight,Dress
+604,1341,2.00e-04,6 - six,Bag
+605,2878,2.00e-04,5 - five,T-shirt/top
+606,3123,2.00e-04,3 - three,Pullover
+607,4731,2.00e-04,8 - eight,T-shirt/top
+608,3725,2.00e-04,7 - seven,Sandal
+609,1297,2.00e-04,8 - eight,Dress
+610,2035,2.00e-04,2 - two,Ankle boot
+611,3349,2.00e-04,1 - one,Sneaker
+612,2594,2.00e-04,4 - four,Sneaker
+613,4068,2.00e-04,5 - five,Shirt
+614,3153,2.00e-04,8 - eight,Trouser
+615,2934,2.00e-04,6 - six,Pullover
+616,2633,2.00e-04,1 - one,Sandal
+617,4139,2.00e-04,1 - one,Sandal
+618,4282,2.00e-04,7 - seven,Shirt
+619,3856,2.00e-04,1 - one,Sandal
+620,417,2.00e-04,0 - zero,Coat
+621,3306,2.00e-04,9 - nine,Dress
+622,1386,2.00e-04,6 - six,Shirt
+623,1803,2.00e-04,1 - one,Sneaker
+624,4250,2.00e-04,5 - five,Sandal
+625,2926,2.00e-04,2 - two,Pullover
+626,2422,2.00e-04,9 - nine,Trouser
+627,2649,2.00e-04,4 - four,Sneaker
+628,3034,2.00e-04,7 - seven,Shirt
+629,1198,2.00e-04,9 - nine,Trouser
+630,4785,2.00e-04,5 - five,Sandal
+631,2453,2.00e-04,9 - nine,Trouser
+632,44,2.00e-04,7 - seven,T-shirt/top
+633,1737,2.00e-04,0 - zero,Coat
+634,2533,2.00e-04,2 - two,Ankle boot
+635,4859,2.00e-04,1 - one,Sandal
+636,4104,2.00e-04,3 - three,Ankle boot
+637,1394,2.00e-04,3 - three,Pullover
+638,4559,2.00e-04,5 - five,Bag
+639,4152,2.00e-04,1 - one,Ankle boot
+640,1111,2.00e-04,7 - seven,Shirt
+641,482,2.00e-04,0 - zero,Bag
+642,838,2.00e-04,0 - zero,Coat
+643,3492,2.00e-04,1 - one,Sandal
+644,1982,2.00e-04,7 - seven,T-shirt/top
+645,4373,2.00e-04,8 - eight,Trouser
+646,567,2.00e-04,4 - four,Sneaker
+647,3245,2.00e-04,3 - three,Pullover
+648,3529,2.00e-04,1 - one,Dress
+649,2470,2.00e-04,9 - nine,Shirt
+650,4381,2.00e-04,7 - seven,T-shirt/top
+651,1001,2.00e-04,3 - three,Pullover
+652,593,2.00e-04,5 - five,Bag
+653,3886,2.00e-04,5 - five,T-shirt/top
+654,4120,2.00e-04,6 - six,Coat
+655,4136,2.00e-04,9 - nine,Shirt
+656,1532,2.00e-04,5 - five,Bag
+657,3241,2.00e-04,7 - seven,T-shirt/top
+658,2036,2.00e-04,0 - zero,Coat
+659,3914,2.00e-04,9 - nine,Trouser
+660,2113,2.00e-04,9 - nine,Trouser
+661,3728,2.00e-04,7 - seven,Dress
+662,1857,2.00e-04,7 - seven,T-shirt/top
+663,3416,2.00e-04,2 - two,Ankle boot
+664,3232,2.00e-04,0 - zero,Coat
+665,2973,2.00e-04,0 - zero,Coat
+666,3009,2.00e-04,1 - one,Sneaker
+667,1611,2.00e-04,7 - seven,Shirt
+668,3610,2.00e-04,8 - eight,T-shirt/top
+669,3917,2.00e-04,0 - zero,Pullover
+670,3549,2.00e-04,2 - two,Ankle boot
+671,1664,2.00e-04,7 - seven,Trouser
+672,3842,2.00e-04,1 - one,Sandal
+673,3296,2.00e-04,7 - seven,T-shirt/top
+674,3247,2.00e-04,7 - seven,T-shirt/top
+675,1718,2.00e-04,8 - eight,Ankle boot
+676,2053,2.00e-04,3 - three,Pullover
+677,2762,2.00e-04,6 - six,Bag
+678,3391,2.00e-04,3 - three,Dress
+679,3117,2.00e-04,4 - four,Sneaker
+680,1633,2.00e-04,0 - zero,Coat
+681,2073,2.00e-04,7 - seven,Shirt
+682,2825,2.00e-04,1 - one,Sandal
+683,3722,2.00e-04,9 - nine,Shirt
+684,578,2.00e-04,9 - nine,Trouser
+685,4996,2.00e-04,4 - four,Sneaker
+686,3905,2.00e-04,6 - six,Pullover
+687,1534,2.00e-04,4 - four,Sneaker
+688,1680,2.00e-04,8 - eight,Trouser
+689,3812,2.00e-04,4 - four,Sneaker
+690,2031,2.00e-04,5 - five,Bag
+691,1654,2.00e-04,7 - seven,Shirt
+692,138,2.00e-04,7 - seven,Trouser
+693,2856,2.00e-04,4 - four,Sneaker
+694,2154,2.00e-04,6 - six,Bag
+695,3109,2.00e-04,2 - two,Pullover
+696,770,2.00e-04,1 - one,Sandal
+697,2700,2.00e-04,2 - two,Coat
+698,702,2.00e-04,8 - eight,T-shirt/top
+699,224,2.00e-04,1 - one,Sandal
+700,1551,2.00e-04,0 - zero,Pullover
+701,1213,2.00e-04,6 - six,Shirt
+702,3151,2.00e-04,4 - four,Bag
+703,2146,2.00e-04,1 - one,Trouser
+704,2055,2.00e-04,5 - five,Shirt
+705,3844,2.00e-04,4 - four,Sneaker
+706,681,2.00e-04,6 - six,Coat
+707,3959,2.00e-04,2 - two,Ankle boot
+708,3975,2.00e-04,1 - one,Sneaker
+709,3883,2.00e-04,7 - seven,Shirt
+710,4675,2.00e-04,3 - three,Pullover
+711,1586,2.00e-04,8 - eight,Dress
+712,2347,2.00e-04,7 - seven,Sandal
+713,4004,2.00e-04,6 - six,Bag
+714,3190,2.00e-04,5 - five,Bag
+715,2264,2.00e-04,0 - zero,Coat
+716,4487,2.00e-04,6 - six,Shirt
+717,2627,2.00e-04,0 - zero,Coat
+718,4515,2.00e-04,8 - eight,Dress
+719,4473,2.00e-04,3 - three,Pullover
+720,4512,2.00e-04,8 - eight,Dress
+721,3194,2.00e-04,0 - zero,Coat
+722,4619,2.00e-04,2 - two,Ankle boot
+723,3795,2.00e-04,4 - four,Sneaker
+724,3218,2.00e-04,5 - five,Shirt
+725,2789,2.00e-04,2 - two,Ankle boot
+726,3769,2.00e-04,3 - three,Shirt
+727,3329,2.00e-04,5 - five,Bag
+728,3371,2.00e-04,3 - three,Dress
+729,1820,2.00e-04,7 - seven,T-shirt/top
+730,4124,2.00e-04,6 - six,Shirt
+731,308,2.00e-04,7 - seven,Shirt
+732,2720,2.00e-04,2 - two,Ankle boot
+733,3366,2.00e-04,1 - one,Ankle boot
+734,4021,2.00e-04,6 - six,Bag
+735,4672,2.00e-04,3 - three,Pullover
+736,550,2.00e-04,4 - four,Sneaker
+737,3604,2.00e-04,2 - two,Bag
+738,3058,2.00e-04,5 - five,T-shirt/top
+739,1665,2.00e-04,7 - seven,T-shirt/top
+740,3378,2.00e-04,4 - four,Sneaker
+741,504,2.00e-04,6 - six,Shirt
+742,2578,2.00e-04,5 - five,T-shirt/top
+743,3816,2.00e-04,8 - eight,T-shirt/top
+744,17,2.00e-04,2 - two,Bag
+745,2647,2.00e-04,6 - six,Dress
+746,202,2.00e-04,0 - zero,Coat
+747,2359,2.00e-04,1 - one,Sandal
+748,1985,2.00e-04,7 - seven,Shirt
+749,3051,2.00e-04,1 - one,Sandal
+750,3388,2.00e-04,2 - two,Ankle boot
+751,762,2.00e-04,9 - nine,Trouser
+752,3706,2.00e-04,9 - nine,Trouser
+753,4634,2.00e-04,4 - four,Sneaker
+754,4225,2.00e-04,4 - four,Bag
+755,3362,2.00e-04,1 - one,Sneaker
+756,1188,2.00e-04,0 - zero,Coat
+757,4905,2.00e-04,3 - three,Coat
+758,933,2.00e-04,0 - zero,Coat
+759,1745,2.00e-04,6 - six,Coat
+760,4767,2.00e-04,5 - five,Bag
+761,697,2.00e-04,6 - six,Bag
+762,2615,2.00e-04,6 - six,Bag
+763,2897,2.00e-04,0 - zero,Coat
+764,2938,2.00e-04,8 - eight,T-shirt/top
+765,1566,2.00e-04,0 - zero,Bag
+766,3452,2.00e-04,1 - one,Sneaker
+767,4140,2.00e-04,7 - seven,T-shirt/top
+768,3664,2.00e-04,5 - five,Sandal
+769,3642,2.00e-04,1 - one,Sneaker
+770,3134,2.00e-04,2 - two,Bag
+771,4003,2.00e-04,7 - seven,Sandal
+772,2760,2.00e-04,7 - seven,Shirt
+773,3928,2.00e-04,9 - nine,Trouser
+774,2850,2.00e-04,8 - eight,Dress
+775,174,2.00e-04,7 - seven,T-shirt/top
+776,355,2.00e-04,1 - one,Sandal
+777,2845,2.00e-04,0 - zero,Coat
+778,2001,2.00e-04,1 - one,Sneaker
+779,2565,2.00e-04,2 - two,Ankle boot
+780,826,2.00e-04,5 - five,Bag
+781,1924,2.00e-04,1 - one,Trouser
+782,833,2.00e-04,3 - three,Shirt
+783,3580,2.00e-04,9 - nine,Shirt
+784,528,2.00e-04,2 - two,Coat
+785,4325,2.00e-04,5 - five,Shirt
+786,1150,2.00e-04,4 - four,Bag
+787,3624,2.00e-04,5 - five,Bag
+788,450,2.00e-04,5 - five,Shirt
+789,4161,2.00e-04,1 - one,Sandal
+790,724,2.00e-04,2 - two,Ankle boot
+791,3790,2.00e-04,3 - three,Pullover
+792,4635,2.00e-04,2 - two,Pullover
+793,3376,2.00e-04,3 - three,Pullover
+794,1408,2.00e-04,3 - three,T-shirt/top
+795,1498,2.00e-04,6 - six,Dress
+796,1063,2.00e-04,9 - nine,Trouser
+797,2898,2.00e-04,0 - zero,Bag
+798,1507,2.00e-04,0 - zero,Coat
+799,4087,2.00e-04,5 - five,Bag
+800,1462,2.00e-04,7 - seven,T-shirt/top
+801,2290,2.00e-04,1 - one,Sandal
+802,652,2.00e-04,0 - zero,Coat
+803,3826,2.00e-04,3 - three,T-shirt/top
+804,2111,2.00e-04,5 - five,T-shirt/top
+805,485,2.00e-04,7 - seven,Shirt
+806,1823,2.00e-04,8 - eight,T-shirt/top
+807,1846,2.00e-04,5 - five,T-shirt/top
+808,2787,2.00e-04,8 - eight,Pullover
+809,2745,2.00e-04,2 - two,Bag
+810,378,2.00e-04,7 - seven,Sandal
+811,1378,2.00e-04,7 - seven,Trouser
+812,3943,2.00e-04,9 - nine,Trouser
+813,2764,2.00e-04,4 - four,Sneaker
+814,2317,2.00e-04,5 - five,Bag
+815,4979,2.00e-04,1 - one,Sandal
+816,2606,2.00e-04,2 - two,Shirt
+817,3988,2.00e-04,5 - five,Shirt
+818,1864,2.00e-04,3 - three,Shirt
+819,188,2.00e-04,9 - nine,Trouser
+820,3533,2.00e-04,9 - nine,Trouser
+821,2506,2.00e-04,3 - three,Dress
+822,3144,2.00e-04,5 - five,Shirt
+823,542,2.00e-04,8 - eight,Dress
+824,3618,2.00e-04,6 - six,Coat
+825,2921,2.00e-04,7 - seven,Trouser
+826,3255,2.00e-04,1 - one,Sneaker
+827,3489,2.00e-04,0 - zero,Pullover
+828,876,2.00e-04,0 - zero,Coat
+829,4199,2.00e-04,9 - nine,Trouser
+830,997,2.00e-04,6 - six,Bag
+831,3721,2.00e-04,8 - eight,Dress
+832,985,2.00e-04,9 - nine,Trouser
+833,4863,2.00e-04,2 - two,Ankle boot
+834,1137,2.00e-04,0 - zero,Coat
+835,3192,2.00e-04,2 - two,Ankle boot
+836,4633,2.00e-04,9 - nine,Trouser
+837,2777,2.00e-04,0 - zero,Pullover
+838,3969,2.00e-04,1 - one,Ankle boot
+839,157,2.00e-04,6 - six,Sneaker
+840,2500,2.00e-04,4 - four,Sneaker
+841,953,2.00e-04,8 - eight,T-shirt/top
+842,3691,2.00e-04,6 - six,Dress
+843,1057,2.00e-04,9 - nine,Trouser
+844,537,2.00e-04,2 - two,Ankle boot
+845,2687,2.00e-04,2 - two,Ankle boot
+846,2319,2.00e-04,6 - six,Bag
+847,1290,2.00e-04,1 - one,Trouser
+848,1329,2.00e-04,1 - one,Sandal
+849,2571,2.00e-04,7 - seven,T-shirt/top
+850,3804,2.00e-04,8 - eight,T-shirt/top
+851,1345,2.00e-04,6 - six,Bag
+852,4661,2.00e-04,2 - two,Ankle boot
+853,187,2.00e-04,4 - four,Sneaker
+854,671,2.00e-04,3 - three,Coat
+855,2680,2.00e-04,7 - seven,Shirt
+856,4810,2.00e-04,6 - six,Dress
+857,4026,2.00e-04,4 - four,Shirt
+858,3534,2.00e-04,1 - one,Sneaker
+859,2412,2.00e-04,9 - nine,Trouser
+860,4830,2.00e-04,4 - four,Sneaker
+861,1271,2.00e-04,6 - six,Dress
+862,4032,2.00e-04,3 - three,Coat
+863,3050,2.00e-04,4 - four,Sneaker
+864,3897,2.00e-04,8 - eight,Dress
+865,802,2.00e-04,0 - zero,Coat
+866,2110,2.00e-04,5 - five,Bag
+867,606,2.00e-04,7 - seven,Sandal
+868,4564,2.00e-04,0 - zero,Coat
+869,4363,2.00e-04,3 - three,Coat
+870,3567,2.00e-04,5 - five,Shirt
+871,112,2.00e-04,0 - zero,Coat
+872,4906,2.00e-04,8 - eight,Dress
+873,3136,2.00e-04,0 - zero,Coat
+874,279,2.00e-04,6 - six,Dress
+875,4533,2.00e-04,6 - six,Shirt
+876,3820,2.00e-04,0 - zero,Coat
+877,2148,2.00e-04,2 - two,Ankle boot
+878,4604,2.00e-04,3 - three,T-shirt/top
+879,1556,2.00e-04,2 - two,Bag
+880,2302,2.00e-04,9 - nine,Dress
+881,1025,2.00e-04,6 - six,Coat
+882,3967,2.00e-04,6 - six,Dress
+883,946,2.00e-04,1 - one,Ankle boot
+884,3901,2.00e-04,7 - seven,Shirt
+885,2665,2.00e-04,2 - two,Pullover
+886,2553,2.00e-04,6 - six,Dress
+887,1829,2.00e-04,3 - three,Coat
+888,2489,2.00e-04,6 - six,Dress
+889,4438,2.00e-04,8 - eight,T-shirt/top
+890,4467,2.00e-04,3 - three,Coat
+891,571,2.00e-04,7 - seven,Shirt
+892,3648,2.00e-04,1 - one,Sandal
+893,1133,2.00e-04,3 - three,Pullover
+894,3944,2.00e-04,1 - one,Sandal
+895,840,2.00e-04,4 - four,Sneaker
+896,1811,2.00e-04,4 - four,Bag
+897,4716,2.00e-04,4 - four,Sneaker
+898,1977,2.00e-04,9 - nine,Trouser
+899,2000,2.00e-04,6 - six,Bag
+900,1743,2.00e-04,2 - two,Ankle boot
+901,410,2.00e-04,9 - nine,Trouser
+902,3314,2.00e-04,6 - six,Dress
+903,1775,2.00e-04,1 - one,Sneaker
+904,250,2.00e-04,7 - seven,Sandal
+905,48,2.00e-04,2 - two,Pullover
+906,2732,2.00e-04,4 - four,Bag
+907,4052,2.00e-04,2 - two,Ankle boot
+908,1023,2.00e-04,9 - nine,Trouser
+909,3295,2.00e-04,1 - one,Sneaker
+910,718,2.00e-04,9 - nine,Trouser
+911,3469,2.00e-04,4 - four,Sandal
+912,326,2.00e-04,8 - eight,Pullover
+913,2612,2.00e-04,4 - four,Sandal
+914,4195,2.00e-04,0 - zero,Coat
+915,3383,2.00e-04,6 - six,Bag
+916,3767,2.00e-04,1 - one,Sneaker
+917,3585,2.00e-04,3 - three,Pullover
+918,4715,2.00e-04,0 - zero,Coat
+919,3576,2.00e-04,4 - four,Shirt
+920,4791,2.00e-04,8 - eight,T-shirt/top
+921,93,2.00e-04,2 - two,Ankle boot
+922,834,2.00e-04,5 - five,T-shirt/top
+923,399,2.00e-04,5 - five,Bag
+924,4688,2.00e-04,7 - seven,Shirt
+925,3766,2.00e-04,5 - five,T-shirt/top
+926,1981,2.00e-04,3 - three,Pullover
+927,3111,2.00e-04,9 - nine,Trouser
+928,2294,2.00e-04,6 - six,Dress
+929,3877,2.00e-04,0 - zero,Coat
+930,4686,2.00e-04,4 - four,Bag
+931,2581,2.00e-04,5 - five,Ankle boot
+932,3480,2.00e-04,5 - five,Bag
+933,815,2.00e-04,9 - nine,Trouser
+934,4893,2.00e-04,0 - zero,Coat
+935,3364,2.00e-04,6 - six,Ankle boot
+936,4005,2.00e-04,4 - four,Bag
+937,144,2.00e-04,8 - eight,Dress
+938,2268,2.00e-04,9 - nine,Trouser
+939,2309,2.00e-04,8 - eight,T-shirt/top
+940,4099,2.00e-04,4 - four,Sneaker
+941,2661,2.00e-04,7 - seven,Trouser
+942,1098,2.00e-04,8 - eight,Pullover
+943,4456,2.00e-04,3 - three,Pullover
+944,4857,2.00e-04,9 - nine,Dress
+945,2948,2.00e-04,0 - zero,Coat
+946,1100,2.00e-04,2 - two,Pullover
+947,3751,2.00e-04,4 - four,Sneaker
+948,2084,2.00e-04,1 - one,Sandal
+949,551,2.00e-04,5 - five,Bag
+950,3712,2.00e-04,7 - seven,Shirt
+951,1125,2.00e-04,0 - zero,Coat
+952,419,2.00e-04,2 - two,Bag
+953,3934,2.00e-04,3 - three,Coat
+954,2757,2.00e-04,7 - seven,T-shirt/top
+955,428,2.00e-04,7 - seven,T-shirt/top
+956,3890,2.00e-04,6 - six,Dress
+957,3743,2.00e-04,1 - one,Trouser
+958,538,2.00e-04,4 - four,Sandal
+959,2537,2.00e-04,2 - two,Ankle boot
+960,2833,2.00e-04,6 - six,Shirt
+961,3298,2.00e-04,9 - nine,Trouser
+962,3197,2.00e-04,0 - zero,Coat
+963,1762,2.00e-04,2 - two,Ankle boot
+964,3916,2.00e-04,3 - three,Pullover
+965,19,2.00e-04,5 - five,Sandal
+966,2758,2.00e-04,6 - six,Coat
+967,3990,2.00e-04,5 - five,Bag
+968,4845,2.00e-04,6 - six,Bag
+969,2792,2.00e-04,1 - one,Sneaker
+970,2824,2.00e-04,6 - six,Shirt
+971,254,2.00e-04,1 - one,Trouser
+972,2582,2.00e-04,8 - eight,Coat
+973,4374,2.00e-04,5 - five,Bag
+974,3675,2.00e-04,4 - four,Sneaker
+975,4040,2.00e-04,0 - zero,Coat
+976,3873,2.00e-04,7 - seven,Dress
+977,3165,2.00e-04,0 - zero,Coat
+978,329,2.00e-04,6 - six,Bag
+979,3384,2.00e-04,5 - five,Sandal
+980,2947,2.00e-04,5 - five,Shirt
+981,3532,2.00e-04,9 - nine,Trouser
+982,827,2.00e-04,3 - three,T-shirt/top
+983,2254,2.00e-04,2 - two,Ankle boot
+984,1674,2.00e-04,9 - nine,Trouser
+985,135,2.00e-04,9 - nine,Trouser
+986,2472,2.00e-04,6 - six,Dress
+987,2841,2.00e-04,5 - five,T-shirt/top
+988,957,2.00e-04,9 - nine,Trouser
+989,3313,2.00e-04,1 - one,Sandal
+990,4942,2.00e-04,7 - seven,Shirt
+991,3631,2.00e-04,1 - one,Trouser
+992,4142,2.00e-04,9 - nine,Trouser
+993,1356,2.00e-04,3 - three,Dress
+994,4964,2.00e-04,4 - four,Sneaker
+995,755,2.00e-04,8 - eight,T-shirt/top
+996,436,2.00e-04,7 - seven,Shirt
+997,2943,2.00e-04,6 - six,Sandal
+998,2747,2.00e-04,6 - six,Sneaker
+999,4366,2.00e-04,1 - one,Sandal
+1000,2428,2.00e-04,7 - seven,Trouser
+1001,3657,2.00e-04,4 - four,Bag
+1002,1966,2.00e-04,5 - five,Sandal
+1003,3876,2.00e-04,4 - four,Sneaker
+1004,1479,2.00e-04,3 - three,Ankle boot
+1005,4609,2.00e-04,5 - five,Sandal
+1006,2004,2.00e-04,6 - six,Sneaker
+1007,4475,2.00e-04,0 - zero,Pullover
+1008,1984,2.00e-04,4 - four,Sneaker
+1009,4113,2.00e-04,1 - one,Sandal
+1010,38,2.00e-04,9 - nine,Trouser
+1011,149,2.00e-04,4 - four,Sneaker
+1012,1906,2.00e-04,4 - four,Bag
+1013,3672,2.00e-04,2 - two,Ankle boot
+1014,3962,2.00e-04,1 - one,Trouser
+1015,3860,2.00e-04,7 - seven,Shirt
+1016,56,2.00e-04,4 - four,Sneaker
+1017,2391,2.00e-04,8 - eight,Dress
+1018,3613,2.00e-04,5 - five,Shirt
+1019,2807,2.00e-04,5 - five,Bag
+1020,1675,2.00e-04,1 - one,Sneaker
+1021,2702,2.00e-04,4 - four,Sneaker
+1022,2196,2.00e-04,3 - three,T-shirt/top
+1023,3180,2.00e-04,4 - four,Sneaker
+1024,3678,2.00e-04,5 - five,T-shirt/top
+1025,2696,2.00e-04,8 - eight,T-shirt/top
+1026,2822,2.00e-04,0 - zero,Bag
+1027,877,2.00e-04,8 - eight,Pullover
+1028,4407,2.00e-04,1 - one,Sandal
+1029,1178,2.00e-04,8 - eight,Dress
+1030,1375,2.00e-04,3 - three,Dress
+1031,2352,2.00e-04,6 - six,Shirt
+1032,1020,2.00e-04,1 - one,Sandal
+1033,90,2.00e-04,2 - two,Ankle boot
+1034,4540,2.00e-04,0 - zero,Pullover
+1035,2954,2.00e-04,7 - seven,T-shirt/top
+1036,944,2.00e-04,3 - three,Dress
+1037,3413,2.00e-04,8 - eight,T-shirt/top
+1038,3718,2.00e-04,1 - one,Dress
+1039,3730,2.00e-04,8 - eight,Dress
+1040,4596,2.00e-04,3 - three,Ankle boot
+1041,3356,2.00e-04,3 - three,T-shirt/top
+1042,1032,2.00e-04,3 - three,Dress
+1043,1576,2.00e-04,6 - six,Dress
+1044,4276,2.00e-04,7 - seven,Shirt
+1045,1922,2.00e-04,2 - two,Ankle boot
+1046,3076,2.00e-04,6 - six,Bag
+1047,4647,2.00e-04,2 - two,Ankle boot
+1048,3882,2.00e-04,2 - two,Ankle boot
+1049,514,2.00e-04,8 - eight,Dress
+1050,3397,2.00e-04,5 - five,Sandal
+1051,972,2.00e-04,9 - nine,Shirt
+1052,586,2.00e-04,1 - one,Dress
+1053,1465,2.00e-04,8 - eight,Ankle boot
+1054,2348,2.00e-04,3 - three,Pullover
+1055,3650,2.00e-04,0 - zero,Bag
+1056,1671,2.00e-04,3 - three,Pullover
+1057,650,2.00e-04,5 - five,Sandal
+1058,2354,2.00e-04,3 - three,Pullover
+1059,3003,2.00e-04,3 - three,Ankle boot
+1060,2458,2.00e-04,8 - eight,Ankle boot
+1061,1931,2.00e-04,2 - two,Ankle boot
+1062,4285,2.00e-04,0 - zero,Coat
+1063,786,2.00e-04,1 - one,Sneaker
+1064,2465,2.00e-04,3 - three,Pullover
+1065,535,2.00e-04,2 - two,Ankle boot
+1066,3548,2.00e-04,6 - six,Shirt
+1067,3764,2.00e-04,6 - six,Shirt
+1068,3720,2.00e-04,9 - nine,Dress
+1069,1927,2.00e-04,3 - three,Pullover
+1070,360,2.00e-04,7 - seven,Shirt
+1071,173,2.00e-04,9 - nine,Trouser
+1072,4469,2.00e-04,1 - one,Sandal
+1073,2604,2.00e-04,7 - seven,T-shirt/top
+1074,2377,2.00e-04,9 - nine,Shirt
+1075,3320,2.00e-04,0 - zero,Coat
+1076,783,2.00e-04,4 - four,Sandal
+1077,4155,2.00e-04,2 - two,Bag
+1078,1316,2.00e-04,0 - zero,Coat
+1079,3125,2.00e-04,0 - zero,Coat
+1080,2599,2.00e-04,5 - five,Bag
+1081,4190,2.00e-04,0 - zero,Coat
+1082,2746,2.00e-04,5 - five,Bag
+1083,4974,2.00e-04,7 - seven,T-shirt/top
+1084,3075,2.00e-04,6 - six,Dress
+1085,1516,2.00e-04,0 - zero,Pullover
+1086,3640,2.00e-04,9 - nine,Shirt
+1087,3887,2.00e-04,7 - seven,Trouser
+1088,3644,2.00e-04,9 - nine,Trouser
+1089,4106,2.00e-04,0 - zero,Pullover
+1090,1054,2.00e-04,7 - seven,T-shirt/top
+1091,3847,2.00e-04,8 - eight,T-shirt/top
+1092,3954,2.00e-04,0 - zero,Coat
+1093,947,2.00e-04,9 - nine,Trouser
+1094,767,2.00e-04,4 - four,Sneaker
+1095,332,2.00e-04,7 - seven,T-shirt/top
+1096,3453,2.00e-04,5 - five,Bag
+1097,619,2.00e-04,9 - nine,Trouser
+1098,1732,2.00e-04,7 - seven,T-shirt/top
+1099,2991,2.00e-04,7 - seven,Shirt
+1100,1847,2.00e-04,8 - eight,Dress
+1101,3828,2.00e-04,7 - seven,T-shirt/top
+1102,2436,2.00e-04,3 - three,Pullover
+1103,1324,2.00e-04,9 - nine,Shirt
+1104,2717,2.00e-04,6 - six,Bag
+1105,87,2.00e-04,2 - two,Ankle boot
+1106,1821,2.00e-04,4 - four,Sandal
+1107,4813,2.00e-04,4 - four,Sneaker
+1108,3221,2.00e-04,2 - two,Bag
+1109,4131,2.00e-04,5 - five,T-shirt/top
+1110,4729,2.00e-04,6 - six,Shirt
+1111,4727,2.00e-04,7 - seven,T-shirt/top
+1112,1088,2.00e-04,6 - six,Pullover
+1113,3575,2.00e-04,7 - seven,T-shirt/top
+1114,213,2.00e-04,7 - seven,Shirt
+1115,4045,2.00e-04,2 - two,Ankle boot
+1116,2597,2.00e-04,2 - two,Ankle boot
+1117,4479,2.00e-04,0 - zero,Pullover
+1118,4703,2.00e-04,2 - two,Ankle boot
+1119,4430,2.00e-04,8 - eight,T-shirt/top
+1120,3092,2.00e-04,9 - nine,T-shirt/top
+1121,688,2.00e-04,5 - five,T-shirt/top
+1122,1525,2.00e-04,8 - eight,T-shirt/top
+1123,4495,2.00e-04,2 - two,Ankle boot
+1124,1640,2.00e-04,9 - nine,Shirt
+1125,3520,2.00e-04,3 - three,Pullover
+1126,3310,2.00e-04,2 - two,Ankle boot
+1127,2006,2.00e-04,1 - one,Ankle boot
+1128,460,2.00e-04,0 - zero,Pullover
+1129,3160,2.00e-04,4 - four,Bag
+1130,2705,2.00e-04,8 - eight,Dress
+1131,4936,2.00e-04,3 - three,Coat
+1132,2854,2.00e-04,2 - two,Ankle boot
+1133,3451,2.00e-04,0 - zero,Coat
+1134,4509,2.00e-04,3 - three,Pullover
+1135,3574,2.00e-04,1 - one,Sandal
+1136,2668,2.00e-04,5 - five,Shirt
+1137,3132,2.00e-04,7 - seven,T-shirt/top
+1138,1460,2.00e-04,5 - five,Sandal
+1139,3590,2.00e-04,6 - six,Coat
+1140,2892,2.00e-04,1 - one,Sandal
+1141,4128,2.00e-04,3 - three,Ankle boot
+1142,4489,2.00e-04,7 - seven,Shirt
+1143,1644,2.00e-04,0 - zero,Coat
+1144,2407,2.00e-04,1 - one,Sandal
+1145,2919,2.00e-04,0 - zero,Coat
+1146,1170,2.00e-04,5 - five,Bag
+1147,4109,2.00e-04,4 - four,Sneaker
+1148,2999,2.00e-04,6 - six,Bag
+1149,3056,2.00e-04,0 - zero,Coat
+1150,2946,2.00e-04,2 - two,Bag
+1151,4960,2.00e-04,9 - nine,Trouser
+1152,1487,2.00e-04,1 - one,Trouser
+1153,2297,2.00e-04,2 - two,Ankle boot
+1154,4460,2.00e-04,3 - three,Pullover
+1155,1574,2.00e-04,1 - one,Sandal
+1156,96,2.00e-04,4 - four,Sneaker
+1157,2139,2.00e-04,0 - zero,Coat
+1158,214,2.00e-04,8 - eight,Dress
+1159,3911,2.00e-04,1 - one,Ankle boot
+1160,3203,2.00e-04,2 - two,Bag
+1161,2429,2.00e-04,0 - zero,Coat
+1162,2080,2.00e-04,9 - nine,Trouser
+1163,3244,2.00e-04,2 - two,Ankle boot
+1164,2902,2.00e-04,5 - five,Ankle boot
+1165,2715,2.00e-04,0 - zero,Coat
+1166,1785,2.00e-04,3 - three,Pullover
+1167,3963,2.00e-04,2 - two,Ankle boot
+1168,4651,2.00e-04,0 - zero,Pullover
+1169,80,2.00e-04,1 - one,Sandal
+1170,1888,2.00e-04,9 - nine,Trouser
+1171,4881,2.00e-04,8 - eight,Dress
+1172,4288,2.00e-04,6 - six,Coat
+1173,1880,2.00e-04,6 - six,Shirt
+1174,2007,2.00e-04,1 - one,Sandal
+1175,4278,2.00e-04,5 - five,Bag
+1176,3562,2.00e-04,1 - one,Sandal
+1177,88,2.00e-04,4 - four,Sandal
+1178,4932,2.00e-04,3 - three,Coat
+1179,1147,2.00e-04,6 - six,Dress
+1180,2656,2.00e-04,5 - five,Sandal
+1181,4110,2.00e-04,9 - nine,Trouser
+1182,1258,2.00e-04,6 - six,Shirt
+1183,2341,2.00e-04,3 - three,Dress
+1184,1410,2.00e-04,6 - six,Bag
+1185,4589,2.00e-04,6 - six,Shirt
+1186,240,2.00e-04,7 - seven,Shirt
+1187,2364,2.00e-04,4 - four,Sandal
+1188,4412,2.00e-04,2 - two,Ankle boot
+1189,158,2.00e-04,1 - one,Sandal
+1190,3992,2.00e-04,3 - three,Pullover
+1191,3760,2.00e-04,5 - five,Shirt
+1192,2405,2.00e-04,0 - zero,Coat
+1193,148,2.00e-04,7 - seven,Trouser
+1194,3390,2.00e-04,4 - four,Sneaker
+1195,4382,2.00e-04,3 - three,Pullover
+1196,369,2.00e-04,9 - nine,T-shirt/top
+1197,1694,2.00e-04,9 - nine,Shirt
+1198,4117,2.00e-04,4 - four,Bag
+1199,1594,2.00e-04,9 - nine,Shirt
+1200,3365,2.00e-04,0 - zero,Bag
+1201,4503,2.00e-04,0 - zero,Coat
+1202,2223,2.00e-04,0 - zero,Coat
+1203,993,2.00e-04,2 - two,Ankle boot
+1204,4178,2.00e-04,4 - four,Sneaker
+1205,4355,2.00e-04,9 - nine,Shirt
+1206,4116,2.00e-04,8 - eight,T-shirt/top
+1207,4844,2.00e-04,8 - eight,T-shirt/top
+1208,610,2.00e-04,2 - two,Ankle boot
+1209,3242,2.00e-04,2 - two,Ankle boot
+1210,539,2.00e-04,2 - two,Ankle boot
+1211,1989,2.00e-04,4 - four,Sneaker
+1212,2652,2.00e-04,4 - four,Sneaker
+1213,4159,2.00e-04,1 - one,Sandal
+1214,1245,2.00e-04,7 - seven,Trouser
+1215,304,2.00e-04,3 - three,Coat
+1216,687,2.00e-04,4 - four,Bag
+1217,1662,2.00e-04,2 - two,Ankle boot
+1218,801,2.00e-04,3 - three,Pullover
+1219,4331,2.00e-04,9 - nine,Trouser
+1220,490,2.00e-04,0 - zero,Coat
+1221,750,2.00e-04,1 - one,Sneaker
+1222,4684,2.00e-04,0 - zero,Coat
+1223,2219,2.00e-04,4 - four,Sneaker
+1224,1453,2.00e-04,4 - four,Bag
+1225,4226,2.00e-04,3 - three,Ankle boot
+1226,2129,2.00e-04,0 - zero,Pullover
+1227,4951,2.00e-04,9 - nine,Dress
+1228,4770,2.00e-04,2 - two,Pullover
+1229,3929,2.00e-04,0 - zero,Coat
+1230,4720,2.00e-04,7 - seven,Trouser
+1231,3892,2.00e-04,9 - nine,Trouser
+1232,3777,2.00e-04,6 - six,Shirt
+1233,3798,2.00e-04,9 - nine,Dress
+1234,2520,2.00e-04,3 - three,Dress
+1235,4162,2.00e-04,1 - one,Sandal
+1236,4216,2.00e-04,2 - two,Ankle boot
+1237,3530,2.00e-04,4 - four,Sneaker
+1238,1305,2.00e-04,5 - five,Sandal
+1239,4241,2.00e-04,5 - five,Bag
+1240,857,2.00e-04,8 - eight,Ankle boot
+1241,1186,2.00e-04,1 - one,Sandal
+1242,4384,2.00e-04,1 - one,Sneaker
+1243,3216,2.00e-04,4 - four,Sandal
+1244,707,2.00e-04,1 - one,Sandal
+1245,2122,2.00e-04,6 - six,Bag
+1246,3074,2.00e-04,1 - one,Dress
+1247,2786,2.00e-04,7 - seven,T-shirt/top
+1248,1921,2.00e-04,8 - eight,Ankle boot
+1249,784,2.00e-04,3 - three,Pullover
+1250,2971,2.00e-04,0 - zero,Pullover
+1251,4728,2.00e-04,7 - seven,Shirt
+1252,2866,2.00e-04,7 - seven,Shirt
+1253,2657,2.00e-04,3 - three,T-shirt/top
+1254,3557,2.00e-04,4 - four,Sneaker
+1255,3110,2.00e-04,0 - zero,Coat
+1256,2880,2.00e-04,8 - eight,Dress
+1257,2027,2.00e-04,4 - four,Sneaker
+1258,4687,2.00e-04,8 - eight,Dress
+1259,2093,2.00e-04,3 - three,Shirt
+1260,2966,2.00e-04,3 - three,Pullover
+1261,4944,2.00e-04,7 - seven,Sandal
+1262,2421,2.00e-04,2 - two,Pullover
+1263,4231,2.00e-04,9 - nine,Trouser
+1264,3504,2.00e-04,3 - three,Coat
+1265,3553,2.00e-04,9 - nine,Shirt
+1266,4926,2.00e-04,9 - nine,Trouser
+1267,2823,2.00e-04,7 - seven,T-shirt/top
+1268,1564,2.00e-04,9 - nine,Trouser
+1269,34,2.00e-04,8 - eight,Dress
+1270,4346,2.00e-04,9 - nine,Dress
+1271,359,2.00e-04,4 - four,Sneaker
+1272,196,2.00e-04,9 - nine,Trouser
+1273,1280,2.00e-04,5 - five,Sandal
+1274,2057,2.00e-04,5 - five,Bag
+1275,1645,2.00e-04,1 - one,Sandal
+1276,379,2.00e-04,9 - nine,Dress
+1277,820,2.00e-04,4 - four,Bag
+1278,4347,2.00e-04,1 - one,Sandal
+1279,4664,2.00e-04,4 - four,Sneaker
+1280,2863,2.00e-04,0 - zero,Coat
+1281,3761,2.00e-04,3 - three,Pullover
+1282,1247,2.00e-04,4 - four,Sneaker
+1283,763,2.00e-04,6 - six,Coat
+1284,43,2.00e-04,5 - five,Bag
+1285,1647,2.00e-04,8 - eight,Dress
+1286,3948,2.00e-04,4 - four,Sneaker
+1287,195,2.00e-04,5 - five,T-shirt/top
+1288,2675,2.00e-04,9 - nine,Dress
+1289,4976,2.00e-04,7 - seven,Shirt
+1290,2485,2.00e-04,3 - three,Pullover
+1291,186,2.00e-04,4 - four,Sneaker
+1292,2794,2.00e-04,7 - seven,Trouser
+1293,4679,2.00e-04,1 - one,Sandal
+1294,159,2.00e-04,3 - three,Coat
+1295,3600,2.00e-04,0 - zero,Coat
+1296,3209,2.00e-04,1 - one,Dress
+1297,2530,2.00e-04,4 - four,Sneaker
+1298,1995,2.00e-04,3 - three,Pullover
+1299,3976,2.00e-04,0 - zero,Bag
+1300,4112,2.00e-04,3 - three,Pullover
+1301,1555,2.00e-04,7 - seven,T-shirt/top
+1302,210,2.00e-04,3 - three,Pullover
+1303,4723,2.00e-04,1 - one,Dress
+1304,958,2.00e-04,1 - one,Trouser
+1305,4245,2.00e-04,9 - nine,Trouser
+1306,2862,2.00e-04,2 - two,Ankle boot
+1307,2194,2.00e-04,1 - one,Sandal
+1308,1281,2.00e-04,2 - two,Ankle boot
+1309,4237,2.00e-04,4 - four,Sneaker
+1310,1851,2.00e-04,8 - eight,Ankle boot
+1311,1618,2.00e-04,4 - four,Bag
+1312,990,2.00e-04,0 - zero,Coat
+1313,1792,2.00e-04,8 - eight,T-shirt/top
+1314,4539,2.00e-04,1 - one,Sandal
+1315,4253,2.00e-04,1 - one,Trouser
+1316,2435,2.00e-04,6 - six,Pullover
+1317,4483,2.00e-04,9 - nine,Shirt
+1318,1256,2.00e-04,4 - four,Sneaker
+1319,2575,2.00e-04,1 - one,Sandal
+1320,1795,2.00e-04,0 - zero,Pullover
+1321,2438,2.00e-04,7 - seven,T-shirt/top
+1322,1614,2.00e-04,7 - seven,Shirt
+1323,1331,2.00e-04,5 - five,Bag
+1324,1371,2.00e-04,0 - zero,Pullover
+1325,4617,2.00e-04,2 - two,Bag
+1326,2860,2.00e-04,4 - four,Bag
+1327,2221,2.00e-04,6 - six,Shirt
+1328,396,2.00e-04,3 - three,Pullover
+1329,1870,2.00e-04,4 - four,Sandal
+1330,4759,2.00e-04,5 - five,Bag
+1331,2711,2.00e-04,6 - six,Bag
+1332,871,2.00e-04,2 - two,Ankle boot
+1333,3166,2.00e-04,9 - nine,Dress
+1334,2431,2.00e-04,2 - two,Ankle boot
+1335,4086,2.00e-04,2 - two,Coat
+1336,1362,2.00e-04,4 - four,Sneaker
+1337,2619,2.00e-04,4 - four,Sneaker
+1338,4500,2.00e-04,8 - eight,T-shirt/top
+1339,4312,2.00e-04,0 - zero,Coat
+1340,4965,2.00e-04,0 - zero,Coat
+1341,1596,2.00e-04,5 - five,Sandal
+1342,1160,2.00e-04,6 - six,Shirt
+1343,443,2.00e-04,1 - one,Sneaker
+1344,4528,2.00e-04,4 - four,Sandal
+1345,4257,2.00e-04,7 - seven,T-shirt/top
+1346,397,2.00e-04,1 - one,Sandal
+1347,934,2.00e-04,1 - one,Sandal
+1348,2556,2.00e-04,7 - seven,Bag
+1349,2641,2.00e-04,9 - nine,Bag
+1350,1626,2.00e-04,6 - six,Sneaker
+1351,1925,2.00e-04,2 - two,Ankle boot
+1352,2376,2.00e-04,8 - eight,Dress
+1353,1109,2.00e-04,1 - one,Sandal
+1354,886,2.00e-04,5 - five,Shirt
+1355,1074,2.00e-04,1 - one,Sandal
+1356,3406,2.00e-04,0 - zero,Pullover
+1357,483,2.00e-04,9 - nine,Dress
+1358,3729,2.00e-04,3 - three,Dress
+1359,1409,2.00e-04,6 - six,Sneaker
+1360,1450,2.00e-04,4 - four,Sneaker
+1361,3603,2.00e-04,9 - nine,Trouser
+1362,1461,2.00e-04,9 - nine,Dress
+1363,3694,2.00e-04,0 - zero,Coat
+1364,4712,2.00e-04,1 - one,Sandal
+1365,346,2.00e-04,0 - zero,Coat
+1366,2480,2.00e-04,5 - five,Bag
+1367,4745,2.00e-04,8 - eight,Dress
+1368,1438,2.00e-04,6 - six,Bag
+1369,2828,2.00e-04,3 - three,Coat
+1370,2070,2.00e-04,7 - seven,Bag
+1371,2972,2.00e-04,1 - one,Sandal
+1372,2226,2.00e-04,7 - seven,Trouser
+1373,2050,2.00e-04,0 - zero,Coat
+1374,95,2.00e-04,2 - two,Ankle boot
+1375,366,2.00e-04,6 - six,Sneaker
+1376,2096,2.00e-04,3 - three,Pullover
+1377,4260,2.00e-04,4 - four,Sneaker
+1378,2781,2.00e-04,9 - nine,Trouser
+1379,162,2.00e-04,8 - eight,T-shirt/top
+1380,3061,2.00e-04,7 - seven,Shirt
+1381,3543,2.00e-04,6 - six,Pullover
+1382,3564,2.00e-04,4 - four,Sandal
+1383,3020,2.00e-04,7 - seven,Sandal
+1384,4613,2.00e-04,2 - two,Ankle boot
+1385,2116,2.00e-04,3 - three,Pullover
+1386,3855,2.00e-04,1 - one,Sandal
+1387,4458,2.00e-04,5 - five,Bag
+1388,4154,2.00e-04,8 - eight,T-shirt/top
+1389,2815,2.00e-04,9 - nine,Trouser
+1390,2532,2.00e-04,1 - one,Sandal
+1391,1110,2.00e-04,9 - nine,Trouser
+1392,520,2.00e-04,4 - four,Bag
+1393,413,2.00e-04,5 - five,Bag
+1394,502,2.00e-04,5 - five,Bag
+1395,3936,2.00e-04,4 - four,Sneaker
+1396,364,2.00e-04,2 - two,Ankle boot
+1397,3002,2.00e-04,5 - five,Bag
+1398,3503,2.00e-04,4 - four,Sneaker
+1399,3462,2.00e-04,8 - eight,Dress
+1400,1997,2.00e-04,1 - one,Dress
+1401,1383,2.00e-04,4 - four,Sneaker
+1402,53,2.00e-04,9 - nine,Trouser
+1403,4695,2.00e-04,5 - five,Bag
+1404,2872,2.00e-04,6 - six,Shirt
+1405,3024,2.00e-04,8 - eight,Dress
+1406,1078,2.00e-04,9 - nine,Trouser
+1407,3765,2.00e-04,1 - one,Sandal
+1408,2074,2.00e-04,9 - nine,Trouser
+1409,2623,2.00e-04,8 - eight,Dress
+1410,4297,2.00e-04,4 - four,Sneaker
+1411,2816,2.00e-04,4 - four,Sneaker
+1412,3424,2.00e-04,5 - five,Dress
+1413,2395,2.00e-04,9 - nine,Trouser
+1414,189,2.00e-04,8 - eight,Dress
+1415,3309,2.00e-04,7 - seven,T-shirt/top
+1416,101,2.00e-04,0 - zero,Coat
+1417,3230,2.00e-04,1 - one,Sandal
+1418,4819,2.00e-04,8 - eight,Dress
+1419,278,2.00e-04,4 - four,Sneaker
+1420,2401,2.00e-04,9 - nine,Trouser
+1421,4153,2.00e-04,6 - six,Dress
+1422,2655,2.00e-04,3 - three,Pullover
+1423,336,2.00e-04,7 - seven,Shirt
+1424,2454,2.00e-04,2 - two,Ankle boot
+1425,2107,2.00e-04,6 - six,Bag
+1426,1584,2.00e-04,6 - six,Bag
+1427,258,2.00e-04,1 - one,Sandal
+1428,4918,2.00e-04,9 - nine,Dress
+1429,231,2.00e-04,7 - seven,Dress
+1430,1145,2.00e-04,9 - nine,Trouser
+1431,2404,2.00e-04,8 - eight,Dress
+1432,1983,2.00e-04,3 - three,Shirt
+1433,4063,2.00e-04,6 - six,Bag
+1434,2598,2.00e-04,7 - seven,Shirt
+1435,2749,2.00e-04,2 - two,Ankle boot
+1436,251,2.00e-04,6 - six,Coat
+1437,1159,2.00e-04,1 - one,Trouser
+1438,2743,2.00e-04,1 - one,Sandal
+1439,1027,2.00e-04,0 - zero,Coat
+1440,3449,2.00e-04,6 - six,Dress
+1441,2528,2.00e-04,6 - six,Sandal
+1442,3734,2.00e-04,9 - nine,Trouser
+1443,1350,2.00e-04,4 - four,Sandal
+1444,2676,2.00e-04,0 - zero,Coat
+1445,12,2.00e-04,9 - nine,Trouser
+1446,3138,2.00e-04,1 - one,Sneaker
+1447,1172,2.00e-04,2 - two,Ankle boot
+1448,2740,2.00e-04,9 - nine,Trouser
+1449,3311,2.00e-04,5 - five,Shirt
+1450,1754,2.00e-04,7 - seven,Shirt
+1451,2959,2.00e-04,4 - four,Bag
+1452,4012,2.00e-04,2 - two,Ankle boot
+1453,4048,2.00e-04,8 - eight,T-shirt/top
+1454,3871,2.00e-04,9 - nine,Shirt
+1455,510,2.00e-04,1 - one,Sandal
+1456,3299,2.00e-04,5 - five,Pullover
+1457,4249,2.00e-04,7 - seven,T-shirt/top
+1458,1026,2.00e-04,3 - three,Dress
+1459,1928,2.00e-04,8 - eight,Dress
+1460,2577,2.00e-04,2 - two,Bag
+1461,431,2.00e-04,2 - two,Ankle boot
+1462,4398,2.00e-04,4 - four,Bag
+1463,2724,2.00e-04,3 - three,Dress
+1464,3060,2.00e-04,6 - six,Pullover
+1465,3273,2.00e-04,0 - zero,Pullover
+1466,4925,2.00e-04,5 - five,Bag
+1467,3612,2.00e-04,4 - four,Bag
+1468,1446,2.00e-04,8 - eight,T-shirt/top
+1469,816,2.00e-04,9 - nine,Trouser
+1470,2014,2.00e-04,9 - nine,Trouser
+1471,1369,2.00e-04,2 - two,Ankle boot
+1472,2019,2.00e-04,4 - four,Sneaker
+1473,919,2.00e-04,2 - two,Ankle boot
+1474,2270,2.00e-04,9 - nine,Trouser
+1475,2933,2.00e-04,9 - nine,Dress
+1476,1289,2.00e-04,0 - zero,Pullover
+1477,4094,2.00e-04,1 - one,Sandal
+1478,1035,2.00e-04,4 - four,Sneaker
+1479,1376,2.00e-04,3 - three,Shirt
+1480,3630,2.00e-04,2 - two,Ankle boot
+1481,920,2.00e-04,1 - one,Ankle boot
+1482,1241,2.00e-04,3 - three,T-shirt/top
+1483,3380,2.00e-04,1 - one,Sandal
+1484,2504,2.00e-04,6 - six,Shirt
+1485,4236,2.00e-04,3 - three,Pullover
+1486,4322,2.00e-04,9 - nine,Shirt
+1487,921,2.00e-04,0 - zero,Coat
+1488,4191,2.00e-04,3 - three,Dress
+1489,4563,2.00e-04,7 - seven,T-shirt/top
+1490,383,2.00e-04,8 - eight,Shirt
+1491,1418,2.00e-04,9 - nine,Dress
+1492,4986,2.00e-04,8 - eight,Dress
+1493,1046,2.00e-04,2 - two,Ankle boot
+1494,3455,2.00e-04,0 - zero,Coat
+1495,3031,2.00e-04,9 - nine,Shirt
+1496,4145,2.00e-04,7 - seven,T-shirt/top
+1497,1716,2.00e-04,6 - six,Pullover
+1498,693,2.00e-04,6 - six,Shirt
+1499,3938,2.00e-04,7 - seven,Sandal
+1500,1561,2.00e-04,8 - eight,Dress
+1501,4929,2.00e-04,4 - four,Bag
+1502,1002,2.00e-04,1 - one,Sandal
+1503,3287,2.00e-04,3 - three,Coat
+1504,3794,2.00e-04,4 - four,Bag
+1505,1617,2.00e-04,8 - eight,T-shirt/top
+1506,4141,2.00e-04,0 - zero,Coat
+1507,2726,2.00e-04,6 - six,Pullover
+1508,153,2.00e-04,4 - four,Sneaker
+1509,4886,2.00e-04,8 - eight,Dress
+1510,3417,2.00e-04,7 - seven,T-shirt/top
+1511,3788,2.00e-04,7 - seven,Shirt
+1512,392,2.00e-04,1 - one,Trouser
+1513,4796,2.00e-04,7 - seven,T-shirt/top
+1514,372,2.00e-04,3 - three,Pullover
+1515,4518,2.00e-04,7 - seven,Trouser
+1516,4341,2.00e-04,6 - six,Bag
+1517,2256,2.00e-04,9 - nine,Trouser
+1518,4696,2.00e-04,6 - six,Shirt
+1519,1496,2.00e-04,8 - eight,Dress
+1520,3283,2.00e-04,8 - eight,Dress
+1521,3605,2.00e-04,2 - two,Ankle boot
+1522,3474,2.00e-04,1 - one,Sandal
+1523,4726,2.00e-04,9 - nine,Trouser
+1524,3385,2.00e-04,2 - two,Ankle boot
+1525,566,2.00e-04,6 - six,Bag
+1526,2653,2.00e-04,5 - five,Sandal
+1527,2356,2.00e-04,2 - two,Ankle boot
+1528,837,2.00e-04,3 - three,Dress
+1529,4441,2.00e-04,3 - three,T-shirt/top
+1530,1269,2.00e-04,8 - eight,Ankle boot
+1531,4790,2.00e-04,1 - one,Sneaker
+1532,1624,2.00e-04,1 - one,Trouser
+1533,2886,2.00e-04,7 - seven,Shirt
+1534,2228,2.00e-04,4 - four,Sneaker
+1535,641,2.00e-04,9 - nine,Shirt
+1536,3843,2.00e-04,4 - four,Shirt
+1537,3510,2.00e-04,6 - six,Pullover
+1538,1314,2.00e-04,9 - nine,Trouser
+1539,106,2.00e-04,6 - six,Shirt
+1540,3552,2.00e-04,9 - nine,Trouser
+1541,2874,2.00e-04,9 - nine,Trouser
+1542,4829,2.00e-04,4 - four,Sandal
+1543,3787,2.00e-04,2 - two,Ankle boot
+1544,313,2.00e-04,3 - three,Pullover
+1545,1669,2.00e-04,1 - one,Trouser
+1546,4326,2.00e-04,4 - four,Sneaker
+1547,3441,2.00e-04,3 - three,Ankle boot
+1548,2043,2.00e-04,3 - three,Ankle boot
+1549,4243,2.00e-04,4 - four,Bag
+1550,1894,2.00e-04,6 - six,Shirt
+1551,3248,2.00e-04,0 - zero,Coat
+1552,2580,2.00e-04,2 - two,Pullover
+1553,406,2.00e-04,5 - five,Bag
+1554,2343,2.00e-04,5 - five,Shirt
+1555,262,2.00e-04,7 - seven,T-shirt/top
+1556,498,2.00e-04,4 - four,Sneaker
+1557,2123,2.00e-04,1 - one,Sandal
+1558,791,2.00e-04,4 - four,Bag
+1559,513,2.00e-04,6 - six,T-shirt/top
+1560,858,2.00e-04,6 - six,Bag
+1561,3921,2.00e-04,5 - five,Shirt
+1562,2336,2.00e-04,5 - five,Sandal
+1563,354,2.00e-04,7 - seven,Bag
+1564,4317,2.00e-04,6 - six,Dress
+1565,387,2.00e-04,7 - seven,Bag
+1566,2600,2.00e-04,4 - four,Sneaker
+1567,3375,2.00e-04,0 - zero,Coat
+1568,2499,2.00e-04,6 - six,Bag
+1569,193,2.00e-04,7 - seven,Bag
+1570,2184,2.00e-04,7 - seven,Shirt
+1571,404,2.00e-04,7 - seven,Shirt
+1572,2778,2.00e-04,2 - two,Ankle boot
+1573,558,2.00e-04,0 - zero,Coat
+1574,4990,2.00e-04,8 - eight,Dress
+1575,1919,2.00e-04,1 - one,Ankle boot
+1576,1444,2.00e-04,2 - two,Bag
+1577,4902,2.00e-04,4 - four,Sneaker
+1578,3680,2.00e-04,5 - five,Shirt
+1579,3360,2.00e-04,1 - one,Sandal
+1580,864,2.00e-04,4 - four,Sneaker
+1581,2589,2.00e-04,5 - five,Sandal
+1582,4061,2.00e-04,7 - seven,Dress
+1583,3015,2.00e-04,8 - eight,T-shirt/top
+1584,1780,2.00e-04,4 - four,Sneaker
+1585,1361,2.00e-04,8 - eight,T-shirt/top
+1586,2437,2.00e-04,4 - four,Sneaker
+1587,3200,2.00e-04,3 - three,Pullover
+1588,4173,2.00e-04,3 - three,Pullover
+1589,3176,2.00e-04,6 - six,Pullover
+1590,307,2.00e-04,8 - eight,Dress
+1591,4630,2.00e-04,7 - seven,Trouser
+1592,1693,2.00e-04,2 - two,Ankle boot
+1593,1920,2.00e-04,6 - six,Dress
+1594,4235,2.00e-04,7 - seven,T-shirt/top
+1595,3382,2.00e-04,9 - nine,Shirt
+1596,4847,2.00e-04,2 - two,Pullover
+1597,3264,2.00e-04,0 - zero,Coat
+1598,3690,2.00e-04,5 - five,Bag
+1599,2361,2.00e-04,4 - four,Sandal
+1600,734,2.00e-04,9 - nine,Trouser
+1601,463,2.00e-04,6 - six,Sneaker
+1602,2416,2.00e-04,8 - eight,T-shirt/top
+1603,4738,2.00e-04,9 - nine,Trouser
+1604,3685,2.00e-04,3 - three,Pullover
+1605,3317,2.00e-04,8 - eight,Dress
+1606,3202,2.00e-04,9 - nine,Trouser
+1607,4121,2.00e-04,0 - zero,Coat
+1608,3377,2.00e-04,8 - eight,Dress
+1609,461,2.00e-04,2 - two,Ankle boot
+1610,1875,2.00e-04,7 - seven,Shirt
+1611,3746,2.00e-04,1 - one,Sandal
+1612,1815,2.00e-04,2 - two,Ankle boot
+1613,85,2.00e-04,3 - three,Pullover
+1614,2385,2.00e-04,7 - seven,Dress
+1615,2774,2.00e-04,5 - five,T-shirt/top
+1616,4090,2.00e-04,4 - four,Sneaker
+1617,2109,2.00e-04,7 - seven,Trouser
+1618,10,2.00e-04,3 - three,Pullover
+1619,3256,2.00e-04,3 - three,Ankle boot
+1620,3966,2.00e-04,8 - eight,Dress
+1621,1733,2.00e-04,3 - three,Pullover
+1622,3845,2.00e-04,8 - eight,Dress
+1623,3007,2.00e-04,3 - three,Dress
+1624,3422,2.00e-04,0 - zero,Coat
+1625,2344,2.00e-04,2 - two,Ankle boot
+1626,3284,2.00e-04,8 - eight,Dress
+1627,2375,2.00e-04,5 - five,T-shirt/top
+1628,3294,2.00e-04,1 - one,Sneaker
+1629,2813,2.00e-04,5 - five,T-shirt/top
+1630,1759,2.00e-04,6 - six,Bag
+1631,351,2.00e-04,9 - nine,Trouser
+1632,4639,2.00e-04,3 - three,Shirt
+1633,4543,2.00e-04,0 - zero,Coat
+1634,4042,2.00e-04,8 - eight,T-shirt/top
+1635,1209,2.00e-04,2 - two,Ankle boot
+1636,4711,2.00e-04,3 - three,Coat
+1637,1683,2.00e-04,0 - zero,Pullover
+1638,1790,2.00e-04,7 - seven,T-shirt/top
+1639,689,2.00e-04,2 - two,Ankle boot
+1640,3774,2.00e-04,7 - seven,T-shirt/top
+1641,3179,2.00e-04,4 - four,Sneaker
+1642,1184,2.00e-04,1 - one,Sandal
+1643,4947,2.00e-04,8 - eight,Dress
+1644,4665,2.00e-04,6 - six,Dress
+1645,4389,2.00e-04,8 - eight,Dress
+1646,1495,2.00e-04,1 - one,Sandal
+1647,1629,2.00e-04,9 - nine,Dress
+1648,2360,2.00e-04,7 - seven,Shirt
+1649,3811,2.00e-04,5 - five,Shirt
+1650,3148,2.00e-04,0 - zero,Coat
+1651,1332,2.00e-04,8 - eight,Dress
+1652,4,2.00e-04,7 - seven,T-shirt/top
+1653,3838,2.00e-04,9 - nine,Trouser
+1654,1722,2.00e-04,5 - five,Shirt
+1655,3809,2.00e-04,7 - seven,Sandal
+1656,4671,2.00e-04,0 - zero,Coat
+1657,2185,2.00e-04,3 - three,T-shirt/top
+1658,2664,2.00e-04,7 - seven,T-shirt/top
+1659,2445,2.00e-04,3 - three,Pullover
+1660,3700,2.00e-04,8 - eight,Coat
+1661,1176,2.00e-04,9 - nine,Dress
+1662,640,2.00e-04,4 - four,Sneaker
+1663,901,2.00e-04,4 - four,Sneaker
+1664,1319,2.00e-04,2 - two,Ankle boot
+1665,4984,2.00e-04,1 - one,Sneaker
+1666,2616,2.00e-04,7 - seven,T-shirt/top
+1667,3156,2.00e-04,4 - four,Sneaker
+1668,3626,2.00e-04,0 - zero,Coat
+1669,4941,2.00e-04,6 - six,Bag
+1670,1990,2.00e-04,4 - four,Bag
+1671,4678,2.00e-04,1 - one,Sneaker
+1672,3753,2.00e-04,4 - four,Sneaker
+1673,631,2.00e-04,7 - seven,Bag
+1674,3965,2.00e-04,2 - two,Ankle boot
+1675,1909,2.00e-04,6 - six,Shirt
+1676,516,2.00e-04,0 - zero,Pullover
+1677,70,2.00e-04,2 - two,Ankle boot
+1678,4506,2.00e-04,8 - eight,T-shirt/top
+1679,2978,2.00e-04,6 - six,Coat
+1680,2098,2.00e-04,3 - three,T-shirt/top
+1681,234,2.00e-04,8 - eight,Dress
+1682,4734,2.00e-04,5 - five,Bag
+1683,0,2.00e-04,8 - eight,T-shirt/top
+1684,900,2.00e-04,6 - six,Dress
+1685,2681,2.00e-04,9 - nine,Trouser
+1686,2002,2.00e-04,5 - five,Bag
+1687,1202,2.00e-04,0 - zero,Coat
+1688,2772,2.00e-04,2 - two,Ankle boot
+1689,18,2.00e-04,5 - five,T-shirt/top
+1690,1235,2.00e-04,8 - eight,Ankle boot
+1691,740,2.00e-04,0 - zero,Coat
+1692,587,2.00e-04,6 - six,Shirt
+1693,4707,2.00e-04,8 - eight,T-shirt/top
+1694,2873,2.00e-04,7 - seven,Shirt
+1695,999,2.00e-04,7 - seven,Shirt
+1696,165,2.00e-04,1 - one,Sandal
+1697,3107,2.00e-04,6 - six,Dress
+1698,2295,2.00e-04,5 - five,Shirt
+1699,800,2.00e-04,8 - eight,Pullover
+1700,2288,2.00e-04,8 - eight,T-shirt/top
+1701,4168,2.00e-04,0 - zero,Coat
+1702,2327,2.00e-04,0 - zero,Coat
+1703,4491,2.00e-04,6 - six,Coat
+1704,3279,2.00e-04,6 - six,Bag
+1705,772,2.00e-04,1 - one,Sandal
+1706,878,2.00e-04,1 - one,Sandal
+1707,1945,2.00e-04,4 - four,Shirt
+1708,3145,2.00e-04,2 - two,Ankle boot
+1709,3358,2.00e-04,3 - three,T-shirt/top
+1710,2187,2.00e-04,5 - five,T-shirt/top
+1711,4910,2.00e-04,5 - five,Bag
+1712,4170,2.00e-04,0 - zero,Coat
+1713,4614,2.00e-04,8 - eight,Dress
+1714,241,2.00e-04,8 - eight,Dress
+1715,1835,2.00e-04,0 - zero,Bag
+1716,736,2.00e-04,0 - zero,Coat
+1717,2982,2.00e-04,9 - nine,Trouser
+1718,474,2.00e-04,3 - three,Pullover
+1719,4115,2.00e-04,3 - three,Pullover
+1720,3516,2.00e-04,4 - four,Sneaker
+1721,422,2.00e-04,6 - six,Bag
+1722,2790,2.00e-04,5 - five,Bag
+1723,4320,2.00e-04,7 - seven,T-shirt/top
+1724,3879,2.00e-04,5 - five,Bag
+1725,4866,2.00e-04,3 - three,Pullover
+1726,99,2.00e-04,1 - one,Sandal
+1727,1758,2.00e-04,1 - one,Trouser
+1728,2564,2.00e-04,4 - four,Sneaker
+1729,1000,2.00e-04,1 - one,Trouser
+1730,3920,2.00e-04,2 - two,Ankle boot
+1731,4948,2.00e-04,7 - seven,Trouser
+1732,1563,2.00e-04,2 - two,Ankle boot
+1733,1978,2.00e-04,1 - one,Sandal
+1734,4757,2.00e-04,0 - zero,Coat
+1735,69,2.00e-04,3 - three,Coat
+1736,4709,2.00e-04,7 - seven,Shirt
+1737,2225,2.00e-04,6 - six,Bag
+1738,1203,2.00e-04,4 - four,Sneaker
+1739,2572,2.00e-04,4 - four,Sneaker
+1740,1238,2.00e-04,4 - four,Sneaker
+1741,3715,2.00e-04,1 - one,Trouser
+1742,1112,2.00e-04,4 - four,Sneaker
+1743,125,2.00e-04,9 - nine,Trouser
+1744,1405,2.00e-04,9 - nine,Trouser
+1745,1764,2.00e-04,2 - two,Ankle boot
+1746,4212,2.00e-04,5 - five,Bag
+1747,2545,2.00e-04,2 - two,Ankle boot
+1748,684,2.00e-04,8 - eight,Ankle boot
+1749,4203,2.00e-04,7 - seven,Shirt
+1750,2896,2.00e-04,8 - eight,Pullover
+1751,2451,2.00e-04,9 - nine,Trouser
+1752,3367,2.00e-04,0 - zero,Coat
+1753,4957,2.00e-04,3 - three,Pullover
+1754,1505,2.00e-04,3 - three,Shirt
+1755,427,2.00e-04,2 - two,Ankle boot
+1756,2103,2.00e-04,1 - one,Dress
+1757,1573,2.00e-04,9 - nine,Dress
+1758,649,2.00e-04,9 - nine,Trouser
+1759,3258,2.00e-04,2 - two,Ankle boot
+1760,4722,2.00e-04,3 - three,Ankle boot
+1761,2840,2.00e-04,8 - eight,Ankle boot
+1762,1806,2.00e-04,8 - eight,Ankle boot
+1763,3324,2.00e-04,2 - two,Ankle boot
+1764,4588,2.00e-04,9 - nine,Trouser
+1765,367,2.00e-04,5 - five,Pullover
+1766,2136,2.00e-04,2 - two,Coat
+1767,66,2.00e-04,8 - eight,Coat
+1768,700,2.00e-04,2 - two,Ankle boot
+1769,232,2.00e-04,5 - five,Ankle boot
+1770,1105,2.00e-04,2 - two,Ankle boot
+1771,3572,2.00e-04,4 - four,Sneaker
+1772,1086,2.00e-04,8 - eight,Dress
+1773,2707,2.00e-04,0 - zero,Coat
+1774,4009,2.00e-04,8 - eight,Dress
+1775,2369,2.00e-04,6 - six,Dress
+1776,2321,2.00e-04,2 - two,Ankle boot
+1777,16,2.00e-04,5 - five,Sandal
+1778,199,2.00e-04,6 - six,Dress
+1779,2417,2.00e-04,9 - nine,Trouser
+1780,807,2.00e-04,1 - one,Sneaker
+1781,58,2.00e-04,4 - four,Sneaker
+1782,752,2.00e-04,2 - two,Bag
+1783,350,2.00e-04,4 - four,Sneaker
+1784,2927,2.00e-04,8 - eight,Ankle boot
+1785,2567,2.00e-04,1 - one,Sandal
+1786,4598,2.00e-04,2 - two,Bag
+1787,4333,2.00e-04,9 - nine,Trouser
+1788,1340,2.00e-04,2 - two,Ankle boot
+1789,507,2.00e-04,0 - zero,Coat
+1790,2935,2.00e-04,2 - two,Ankle boot
+1791,3591,2.00e-04,0 - zero,Coat
+1792,1262,2.00e-04,3 - three,Pullover
+1793,4053,2.00e-04,6 - six,Pullover
+1794,683,2.00e-04,3 - three,Pullover
+1795,3246,2.00e-04,3 - three,Pullover
+1796,4904,2.00e-04,2 - two,Ankle boot
+1797,2389,2.00e-04,9 - nine,Shirt
+1798,2773,2.00e-04,1 - one,Sneaker
+1799,2346,2.00e-04,1 - one,Sneaker
+1800,673,2.00e-04,3 - three,Dress
+1801,894,2.00e-04,8 - eight,T-shirt/top
+1802,1593,2.00e-04,8 - eight,Ankle boot
+1803,2776,2.00e-04,7 - seven,Sandal
+1804,1127,2.00e-04,3 - three,Shirt
+1805,319,2.00e-04,9 - nine,Trouser
+1806,4451,2.00e-04,4 - four,Sneaker
+1807,3372,2.00e-04,1 - one,Sandal
+1808,1129,2.00e-04,7 - seven,T-shirt/top
+1809,2699,2.00e-04,6 - six,Dress
+1810,1673,2.00e-04,9 - nine,Trouser
+1811,1510,2.00e-04,0 - zero,Coat
+1812,948,2.00e-04,0 - zero,Coat
+1813,659,2.00e-04,7 - seven,T-shirt/top
+1814,2383,2.00e-04,5 - five,T-shirt/top
+1815,3307,2.00e-04,9 - nine,Shirt
+1816,4862,2.00e-04,0 - zero,Coat
+1817,3149,2.00e-04,4 - four,Sneaker
+1818,2713,2.00e-04,4 - four,Sneaker
+1819,1429,2.00e-04,6 - six,Pullover
+1820,1295,2.00e-04,6 - six,Dress
+1821,1874,2.00e-04,6 - six,Bag
+1822,2669,2.00e-04,6 - six,Bag
+1823,4167,2.00e-04,4 - four,Sneaker
+1824,4324,2.00e-04,6 - six,Pullover
+1825,3454,2.00e-04,4 - four,Sneaker
+1826,2685,2.00e-04,6 - six,Shirt
+1827,4318,2.00e-04,1 - one,Trouser
+1828,1220,2.00e-04,0 - zero,Coat
+1829,2276,2.00e-04,7 - seven,Shirt
+1830,52,2.00e-04,2 - two,Bag
+1831,3742,2.00e-04,1 - one,Sandal
+1832,500,2.00e-04,7 - seven,Bag
+1833,2780,2.00e-04,4 - four,Sneaker
+1834,4607,2.00e-04,5 - five,Shirt
+1835,3210,2.00e-04,2 - two,Pullover
+1836,1229,2.00e-04,2 - two,Ankle boot
+1837,1094,2.00e-04,8 - eight,Pullover
+1838,1678,2.00e-04,5 - five,T-shirt/top
+1839,1348,2.00e-04,9 - nine,Trouser
+1840,798,2.00e-04,1 - one,Sneaker
+1841,852,2.00e-04,1 - one,Sandal
+1842,4856,2.00e-04,1 - one,Sandal
+1843,2679,2.00e-04,7 - seven,Sandal
+1844,850,2.00e-04,1 - one,Sandal
+1845,163,2.00e-04,5 - five,Sandal
+1846,4982,2.00e-04,5 - five,Sandal
+1847,4409,2.00e-04,1 - one,Sandal
+1848,1070,2.00e-04,0 - zero,Coat
+1849,1512,2.00e-04,9 - nine,Trouser
+1850,2650,2.00e-04,2 - two,Ankle boot
+1851,114,2.00e-04,1 - one,Sandal
+1852,2585,2.00e-04,1 - one,Sandal
+1853,398,2.00e-04,2 - two,Ankle boot
+1854,1217,2.00e-04,1 - one,Sandal
+1855,664,2.00e-04,9 - nine,Trouser
+1856,3100,2.00e-04,7 - seven,Shirt
+1857,1140,2.00e-04,8 - eight,Dress
+1858,2298,2.00e-04,0 - zero,Coat
+1859,1960,2.00e-04,0 - zero,Pullover
+1860,4511,2.00e-04,4 - four,Sneaker
+1861,2479,2.00e-04,6 - six,Dress
+1862,3660,2.00e-04,8 - eight,T-shirt/top
+1863,265,2.00e-04,1 - one,Trouser
+1864,2586,2.00e-04,2 - two,Pullover
+1865,1387,2.00e-04,3 - three,Dress
+1866,4799,2.00e-04,6 - six,Bag
+1867,2909,2.00e-04,3 - three,Pullover
+1868,3537,2.00e-04,5 - five,Shirt
+1869,2112,2.00e-04,4 - four,Bag
+1870,82,2.00e-04,4 - four,Sneaker
+1871,660,2.00e-04,8 - eight,T-shirt/top
+1872,597,2.00e-04,3 - three,Pullover
+1873,4478,2.00e-04,6 - six,Bag
+1874,4725,2.00e-04,0 - zero,Coat
+1875,4584,2.00e-04,1 - one,Trouser
+1876,1660,2.00e-04,3 - three,Pullover
+1877,1166,2.00e-04,2 - two,Ankle boot
+1878,3748,2.00e-04,4 - four,Sneaker
+1879,4296,2.00e-04,4 - four,Sneaker
+1880,2104,2.00e-04,5 - five,Shirt
+1881,2503,2.00e-04,7 - seven,T-shirt/top
+1882,2434,2.00e-04,1 - one,Trouser
+1883,2203,2.00e-04,2 - two,Ankle boot
+1884,4753,2.00e-04,9 - nine,Trouser
+1885,2174,2.00e-04,3 - three,Pullover
+1886,2882,2.00e-04,0 - zero,Coat
+1887,1005,2.00e-04,1 - one,Sandal
+1888,1953,2.00e-04,1 - one,Sandal
+1889,4144,2.00e-04,7 - seven,T-shirt/top
+1890,464,2.00e-04,2 - two,Bag
+1891,2648,2.00e-04,5 - five,Shirt
+1892,2995,2.00e-04,7 - seven,Trouser
+1893,4449,2.00e-04,2 - two,Pullover
+1894,4871,2.00e-04,1 - one,Sandal
+1895,822,2.00e-04,8 - eight,T-shirt/top
+1896,1012,2.00e-04,1 - one,Sandal
+1897,2806,2.00e-04,0 - zero,Coat
+1898,4433,2.00e-04,2 - two,Bag
+1899,4134,2.00e-04,3 - three,Pullover
+1900,459,2.00e-04,5 - five,Sandal
+1901,3442,2.00e-04,2 - two,Ankle boot
+1902,2156,2.00e-04,9 - nine,Trouser
+1903,4263,2.00e-04,5 - five,T-shirt/top
+1904,1752,2.00e-04,8 - eight,Ankle boot
+1905,2269,2.00e-04,8 - eight,Dress
+1906,4794,2.00e-04,6 - six,Sandal
+1907,1514,2.00e-04,0 - zero,Coat
+1908,2531,2.00e-04,0 - zero,Coat
+1909,3617,2.00e-04,9 - nine,Trouser
+1910,2593,2.00e-04,1 - one,Sandal
+1911,987,2.00e-04,4 - four,Sneaker
+1912,738,2.00e-04,4 - four,Sneaker
+1913,3113,2.00e-04,6 - six,Bag
+1914,2488,2.00e-04,6 - six,Shirt
+1915,1264,2.00e-04,3 - three,Pullover
+1916,248,2.00e-04,1 - one,Sandal
+1917,4163,2.00e-04,3 - three,Ankle boot
+1918,1782,2.00e-04,8 - eight,T-shirt/top
+1919,2986,2.00e-04,4 - four,Sandal
+1920,4912,2.00e-04,2 - two,Ankle boot
+1921,4573,2.00e-04,1 - one,Sneaker
+1922,923,2.00e-04,7 - seven,T-shirt/top
+1923,4761,2.00e-04,0 - zero,Pullover
+1924,739,2.00e-04,8 - eight,T-shirt/top
+1925,1432,2.00e-04,6 - six,Bag
+1926,4577,2.00e-04,2 - two,Ankle boot
+1927,1484,2.00e-04,8 - eight,Dress
+1928,2693,2.00e-04,7 - seven,T-shirt/top
+1929,4353,2.00e-04,5 - five,Bag
+1930,832,2.00e-04,1 - one,Sandal
+1931,4125,2.00e-04,9 - nine,Trouser
+1932,4666,2.00e-04,6 - six,Dress
+1933,2883,2.00e-04,4 - four,Sneaker
+1934,286,2.00e-04,6 - six,Bag
+1935,3476,2.00e-04,9 - nine,Trouser
+1936,3468,2.00e-04,8 - eight,Dress
+1937,3403,2.00e-04,2 - two,Pullover
+1938,1770,2.00e-04,6 - six,Shirt
+1939,2706,2.00e-04,8 - eight,T-shirt/top
+1940,2566,2.00e-04,5 - five,Sandal
+1941,1333,2.00e-04,9 - nine,Shirt
+1942,1800,2.00e-04,1 - one,Trouser
+1943,1646,2.00e-04,2 - two,Bag
+1944,1943,2.00e-04,4 - four,Bag
+1945,4023,2.00e-04,7 - seven,Bag
+1946,3659,2.00e-04,8 - eight,Dress
+1947,2731,2.00e-04,1 - one,Sandal
+1948,1272,2.00e-04,0 - zero,Coat
+1949,628,2.00e-04,6 - six,Pullover
+1950,2974,2.00e-04,8 - eight,T-shirt/top
+1951,3583,2.00e-04,7 - seven,Shirt
+1952,1155,2.00e-04,0 - zero,Bag
+1953,109,2.00e-04,3 - three,Pullover
+1954,3961,2.00e-04,5 - five,Bag
+1955,3496,2.00e-04,6 - six,Shirt
+1956,1951,2.00e-04,2 - two,Ankle boot
+1957,3276,2.00e-04,3 - three,Ankle boot
+1958,3063,2.00e-04,1 - one,Sandal
+1959,4481,2.00e-04,2 - two,Ankle boot
+1960,889,2.00e-04,4 - four,Shirt
+1961,64,2.00e-04,8 - eight,Coat
+1962,13,2.00e-04,2 - two,Ankle boot
+1963,4838,2.00e-04,0 - zero,Pullover
+1964,4983,2.00e-04,0 - zero,Pullover
+1965,4513,2.00e-04,7 - seven,T-shirt/top
+1966,1501,2.00e-04,9 - nine,Trouser
+1967,4569,2.00e-04,4 - four,Sneaker
+1968,2900,2.00e-04,5 - five,Shirt
+1969,1073,2.00e-04,6 - six,Shirt
+1970,2204,2.00e-04,1 - one,Sandal
+1971,2858,2.00e-04,7 - seven,T-shirt/top
+1972,4680,2.00e-04,5 - five,Bag
+1973,3487,2.00e-04,1 - one,Sandal
+1974,2497,2.00e-04,6 - six,Dress
+1975,2305,2.00e-04,8 - eight,Trouser
+1976,2498,2.00e-04,4 - four,Sneaker
+1977,1901,2.00e-04,1 - one,Sandal
+1978,2468,2.00e-04,5 - five,Sandal
+1979,3196,2.00e-04,3 - three,Pullover
+1980,4427,2.00e-04,6 - six,Dress
+1981,2253,2.00e-04,9 - nine,Trouser
+1982,2809,2.00e-04,6 - six,Bag
+1983,3735,2.00e-04,1 - one,Sandal
+1984,311,2.00e-04,5 - five,T-shirt/top
+1985,4302,2.00e-04,8 - eight,Dress
+1986,2234,2.00e-04,4 - four,Sneaker
+1987,1831,2.00e-04,4 - four,Sneaker
+1988,648,2.00e-04,4 - four,Sneaker
+1989,4440,2.00e-04,7 - seven,Trouser
+1990,3538,2.00e-04,6 - six,Bag
+1991,547,2.00e-04,2 - two,Ankle boot
+1992,2260,2.00e-04,6 - six,Bag
+1993,183,2.00e-04,9 - nine,Trouser
+1994,4586,2.00e-04,2 - two,Pullover
+1995,245,2.00e-04,2 - two,Ankle boot
+1996,1720,2.00e-04,7 - seven,T-shirt/top
+1997,3139,2.00e-04,0 - zero,Coat
+1998,2957,2.00e-04,8 - eight,T-shirt/top
+1999,1950,2.00e-04,4 - four,Sneaker
+2000,4083,2.00e-04,7 - seven,T-shirt/top
+2001,741,2.00e-04,8 - eight,T-shirt/top
+2002,1388,2.00e-04,9 - nine,Trouser
+2003,4093,2.00e-04,7 - seven,Shirt
+2004,3013,2.00e-04,2 - two,Ankle boot
+2005,3688,2.00e-04,7 - seven,Shirt
+2006,3016,2.00e-04,9 - nine,Trouser
+2007,605,2.00e-04,9 - nine,Trouser
+2008,1113,2.00e-04,1 - one,Sandal
+2009,4265,2.00e-04,0 - zero,Coat
+2010,3792,2.00e-04,7 - seven,Shirt
+2011,1897,2.00e-04,6 - six,Dress
+2012,1941,2.00e-04,8 - eight,T-shirt/top
+2013,954,2.00e-04,0 - zero,Coat
+2014,4843,2.00e-04,7 - seven,Shirt
+2015,812,2.00e-04,1 - one,Sandal
+2016,1322,2.00e-04,3 - three,Pullover
+2017,3889,2.00e-04,1 - one,Trouser
+2018,2912,2.00e-04,9 - nine,Shirt
+2019,3164,2.00e-04,9 - nine,Shirt
+2020,3402,2.00e-04,9 - nine,Trouser
+2021,3931,2.00e-04,5 - five,Sandal
+2022,978,2.00e-04,4 - four,Sneaker
+2023,2775,2.00e-04,1 - one,Trouser
+2024,3679,2.00e-04,8 - eight,Dress
+2025,2885,2.00e-04,4 - four,Sneaker
+2026,421,2.00e-04,5 - five,T-shirt/top
+2027,2160,2.00e-04,4 - four,Sneaker
+2028,227,2.00e-04,6 - six,Bag
+2029,3999,2.00e-04,9 - nine,Shirt
+2030,1899,2.00e-04,6 - six,Bag
+2031,4029,2.00e-04,1 - one,Sneaker
+2032,3401,2.00e-04,4 - four,Sandal
+2033,4670,2.00e-04,5 - five,Bag
+2034,703,2.00e-04,8 - eight,T-shirt/top
+2035,638,2.00e-04,8 - eight,Dress
+2036,1339,2.00e-04,3 - three,Dress
+2037,749,2.00e-04,0 - zero,Coat
+2038,639,2.00e-04,8 - eight,Dress
+2039,403,2.00e-04,2 - two,Ankle boot
+2040,4698,2.00e-04,0 - zero,Coat
+2041,2739,2.00e-04,7 - seven,T-shirt/top
+2042,3065,2.00e-04,8 - eight,Dress
+2043,1267,2.00e-04,2 - two,Ankle boot
+2044,868,2.00e-04,0 - zero,Coat
+2045,602,2.00e-04,2 - two,Ankle boot
+2046,7,2.00e-04,5 - five,Dress
+2047,261,2.00e-04,4 - four,Bag
+2048,2188,2.00e-04,3 - three,Trouser
+2049,2003,2.00e-04,8 - eight,Pullover
+2050,4211,2.00e-04,8 - eight,T-shirt/top
+2051,3335,2.00e-04,6 - six,Shirt
+2052,4378,2.00e-04,8 - eight,T-shirt/top
+2053,212,2.00e-04,4 - four,Sneaker
+2054,2969,2.00e-04,5 - five,Sandal
+2055,1015,2.00e-04,7 - seven,Shirt
+2056,3802,2.00e-04,8 - eight,Dress
+2057,30,2.00e-04,0 - zero,Pullover
+2058,1958,2.00e-04,6 - six,Dress
+2059,4080,2.00e-04,1 - one,Trouser
+2060,4681,2.00e-04,0 - zero,Coat
+2061,4981,2.00e-04,7 - seven,Trouser
+2062,253,2.00e-04,9 - nine,Trouser
+2063,3062,2.00e-04,5 - five,Ankle boot
+2064,50,2.00e-04,4 - four,Sneaker
+2065,2728,2.00e-04,5 - five,Sandal
+2066,4455,2.00e-04,7 - seven,Shirt
+2067,4089,2.00e-04,9 - nine,Trouser
+2068,2068,2.00e-04,1 - one,Sandal
+2069,2793,2.00e-04,8 - eight,Ankle boot
+2070,2430,2.00e-04,9 - nine,Trouser
+2071,119,2.00e-04,1 - one,Sandal
+2072,3823,2.00e-04,5 - five,Sandal
+2073,3835,2.00e-04,6 - six,Dress
+2074,2179,2.00e-04,9 - nine,Trouser
+2075,2847,2.00e-04,9 - nine,Trouser
+2076,358,2.00e-04,1 - one,Sandal
+2077,352,2.00e-04,5 - five,Bag
+2078,3177,2.00e-04,3 - three,Pullover
+2079,1703,2.00e-04,6 - six,Dress
+2080,4028,2.00e-04,0 - zero,Coat
+2081,3158,2.00e-04,7 - seven,T-shirt/top
+2082,4600,2.00e-04,0 - zero,Coat
+2083,2085,2.00e-04,5 - five,Bag
+2084,2629,2.00e-04,9 - nine,Dress
+2085,4816,2.00e-04,1 - one,Sandal
+2086,727,2.00e-04,0 - zero,Bag
+2087,4273,2.00e-04,4 - four,Sneaker
+2088,2558,2.00e-04,5 - five,T-shirt/top
+2089,4903,2.00e-04,6 - six,Pullover
+2090,698,2.00e-04,1 - one,Ankle boot
+2091,717,2.00e-04,0 - zero,Pullover
+2092,1578,2.00e-04,8 - eight,Dress
+2093,505,2.00e-04,5 - five,T-shirt/top
+2094,1392,2.00e-04,9 - nine,Shirt
+2095,2486,2.00e-04,8 - eight,T-shirt/top
+2096,4359,2.00e-04,7 - seven,Shirt
+2097,1440,2.00e-04,0 - zero,Pullover
+2098,2798,2.00e-04,3 - three,T-shirt/top
+2099,1326,2.00e-04,4 - four,Sneaker
+2100,2810,2.00e-04,2 - two,Bag
+2101,2250,2.00e-04,0 - zero,Coat
+2102,3437,2.00e-04,3 - three,Pullover
+2103,4434,2.00e-04,7 - seven,Shirt
+2104,239,2.00e-04,8 - eight,Dress
+2105,3891,2.00e-04,5 - five,Sandal
+2106,473,2.00e-04,6 - six,Ankle boot
+2107,787,2.00e-04,0 - zero,Coat
+2108,3389,2.00e-04,2 - two,Ankle boot
+2109,3819,2.00e-04,2 - two,Ankle boot
+2110,3457,2.00e-04,8 - eight,T-shirt/top
+2111,2211,2.00e-04,5 - five,Ankle boot
+2112,331,2.00e-04,3 - three,Pullover
+2113,2618,2.00e-04,3 - three,Shirt
+2114,4655,2.00e-04,7 - seven,Trouser
+2115,930,2.00e-04,0 - zero,Coat
+2116,3328,2.00e-04,9 - nine,Shirt
+2117,2744,2.00e-04,3 - three,Pullover
+2118,2821,2.00e-04,1 - one,Sandal
+2119,2457,2.00e-04,1 - one,Sneaker
+2120,2785,2.00e-04,9 - nine,Trouser
+2121,476,2.00e-04,1 - one,Sneaker
+2122,3361,2.00e-04,0 - zero,Coat
+2123,2861,2.00e-04,6 - six,Dress
+2124,3762,2.00e-04,4 - four,Sneaker
+2125,2818,2.00e-04,1 - one,Ankle boot
+2126,2388,2.00e-04,6 - six,Dress
+2127,938,2.00e-04,2 - two,Ankle boot
+2128,1763,2.00e-04,6 - six,Dress
+2129,1756,2.00e-04,8 - eight,Dress
+2130,4177,2.00e-04,2 - two,Bag
+2131,4280,2.00e-04,6 - six,Coat
+2132,4933,2.00e-04,5 - five,Bag
+2133,3079,2.00e-04,1 - one,Sandal
+2134,1095,2.00e-04,9 - nine,Trouser
+2135,4240,2.00e-04,9 - nine,Dress
+2136,1970,2.00e-04,6 - six,Pullover
+2137,1915,2.00e-04,6 - six,Bag
+2138,3186,2.00e-04,4 - four,Sneaker
+2139,4970,2.00e-04,7 - seven,T-shirt/top
+2140,2994,2.00e-04,7 - seven,Shirt
+2141,2322,2.00e-04,4 - four,Shirt
+2142,3745,2.00e-04,0 - zero,Pullover
+2143,4194,2.00e-04,9 - nine,Trouser
+2144,154,2.00e-04,3 - three,T-shirt/top
+2145,2209,2.00e-04,6 - six,Dress
+2146,1712,2.00e-04,9 - nine,Trouser
+2147,1205,2.00e-04,4 - four,Shirt
+2148,2869,2.00e-04,0 - zero,Coat
+2149,3234,2.00e-04,0 - zero,Coat
+2150,1520,2.00e-04,0 - zero,Coat
+2151,4051,2.00e-04,2 - two,Coat
+2152,3091,2.00e-04,0 - zero,Coat
+2153,887,2.00e-04,4 - four,Trouser
+2154,243,2.00e-04,8 - eight,T-shirt/top
+2155,67,2.00e-04,4 - four,Sneaker
+2156,1844,2.00e-04,2 - two,Ankle boot
+2157,3045,2.00e-04,2 - two,Ankle boot
+2158,2518,2.00e-04,5 - five,T-shirt/top
+2159,4055,2.00e-04,5 - five,Bag
+2160,478,2.00e-04,6 - six,Bag
+2161,2378,2.00e-04,4 - four,Sneaker
+2162,1902,2.00e-04,4 - four,Sneaker
+2163,4399,2.00e-04,4 - four,Sneaker
+2164,540,2.00e-04,7 - seven,T-shirt/top
+2165,140,2.00e-04,4 - four,Sneaker
+2166,170,2.00e-04,8 - eight,Dress
+2167,4931,2.00e-04,2 - two,Pullover
+2168,2689,2.00e-04,6 - six,Bag
+2169,831,2.00e-04,8 - eight,Dress
+2170,3662,2.00e-04,4 - four,Sandal
+2171,68,2.00e-04,1 - one,Trouser
+2172,111,2.00e-04,5 - five,T-shirt/top
+2173,3978,2.00e-04,9 - nine,Trouser
+2174,3154,2.00e-04,3 - three,Pullover
+2175,2441,2.00e-04,5 - five,Bag
+2176,2117,2.00e-04,6 - six,Shirt
+2177,601,2.00e-04,2 - two,Ankle boot
+2178,4937,2.00e-04,5 - five,Shirt
+2179,28,2.00e-04,4 - four,Sneaker
+2180,3601,2.00e-04,1 - one,Sandal
+2181,4935,2.00e-04,1 - one,Sandal
+2182,4773,2.00e-04,3 - three,Pullover
+2183,530,2.00e-04,4 - four,Sneaker
+2184,780,2.00e-04,8 - eight,Dress
+2185,1740,2.00e-04,3 - three,Pullover
+2186,1050,2.00e-04,2 - two,Ankle boot
+2187,3933,2.00e-04,3 - three,Pullover
+2188,408,2.00e-04,0 - zero,Bag
+2189,2716,2.00e-04,1 - one,Trouser
+2190,136,2.00e-04,7 - seven,T-shirt/top
+2191,3315,2.00e-04,9 - nine,Trouser
+2192,4576,2.00e-04,6 - six,Pullover
+2193,4286,2.00e-04,6 - six,Bag
+2194,1139,2.00e-04,7 - seven,Dress
+2195,580,2.00e-04,4 - four,Sneaker
+2196,1504,2.00e-04,2 - two,Pullover
+2197,3228,2.00e-04,5 - five,Shirt
+2198,168,2.00e-04,5 - five,T-shirt/top
+2199,3941,2.00e-04,3 - three,Coat
+2200,4404,2.00e-04,5 - five,Bag
+2201,4557,2.00e-04,1 - one,Sandal
+2202,1206,2.00e-04,6 - six,Bag
+2203,4890,2.00e-04,0 - zero,Coat
+2204,1567,2.00e-04,5 - five,T-shirt/top
+2205,2466,2.00e-04,6 - six,Bag
+2206,1695,2.00e-04,3 - three,Pullover
+2207,4069,2.00e-04,7 - seven,T-shirt/top
+2208,4103,2.00e-04,3 - three,Dress
+2209,4105,2.00e-04,6 - six,Dress
+2210,2132,2.00e-04,8 - eight,Dress
+2211,317,2.00e-04,9 - nine,Trouser
+2212,663,2.00e-04,6 - six,Shirt
+2213,4741,2.00e-04,1 - one,Trouser
+2214,3081,2.00e-04,7 - seven,T-shirt/top
+2215,3778,2.00e-04,5 - five,Bag
+2216,4291,2.00e-04,9 - nine,Trouser
+2217,1547,2.00e-04,6 - six,Coat
+2218,4606,2.00e-04,1 - one,Sandal
+2219,344,2.00e-04,0 - zero,Pullover
+2220,2539,2.00e-04,6 - six,Shirt
+2221,2914,2.00e-04,5 - five,Ankle boot
+2222,2345,2.00e-04,7 - seven,Shirt
+2223,2761,2.00e-04,3 - three,Pullover
+2224,909,2.00e-04,2 - two,Ankle boot
+2225,3866,2.00e-04,4 - four,Sneaker
+2226,4764,2.00e-04,9 - nine,Sandal
+2227,3338,2.00e-04,8 - eight,Ankle boot
+2228,3445,2.00e-04,9 - nine,Trouser
+2229,1962,2.00e-04,2 - two,Ankle boot
+2230,3782,2.00e-04,0 - zero,Coat
+2231,1912,2.00e-04,8 - eight,Dress
+2232,2121,2.00e-04,3 - three,Shirt
+2233,3097,2.00e-04,7 - seven,T-shirt/top
+2234,2951,2.00e-04,7 - seven,T-shirt/top
+2235,3238,2.00e-04,0 - zero,Coat
+2236,2482,2.00e-04,0 - zero,Pullover
+2237,1306,2.00e-04,7 - seven,T-shirt/top
+2238,2041,2.00e-04,7 - seven,Trouser
+2239,4076,2.00e-04,0 - zero,Pullover
+2240,2232,2.00e-04,2 - two,Ankle boot
+2241,2392,2.00e-04,6 - six,Bag
+2242,1620,2.00e-04,2 - two,Coat
+2243,1895,2.00e-04,6 - six,Dress
+2244,4033,2.00e-04,7 - seven,Shirt
+2245,2368,2.00e-04,4 - four,Sneaker
+2246,3339,2.00e-04,7 - seven,T-shirt/top
+2247,1956,2.00e-04,7 - seven,T-shirt/top
+2248,4546,2.00e-04,1 - one,Dress
+2249,4717,2.00e-04,4 - four,Sneaker
+2250,4553,2.00e-04,6 - six,Coat
+2251,3459,2.00e-04,8 - eight,T-shirt/top
+2252,1976,2.00e-04,2 - two,Coat
+2253,2173,2.00e-04,3 - three,Ankle boot
+2254,2690,2.00e-04,2 - two,Ankle boot
+2255,4535,2.00e-04,9 - nine,Shirt
+2256,2446,2.00e-04,6 - six,Dress
+2257,2628,2.00e-04,5 - five,Shirt
+2258,4323,2.00e-04,1 - one,Trouser
+2259,4860,2.00e-04,0 - zero,Bag
+2260,3207,2.00e-04,8 - eight,Pullover
+2261,2244,2.00e-04,9 - nine,Trouser
+2262,1223,2.00e-04,5 - five,Shirt
+2263,3683,2.00e-04,7 - seven,Bag
+2264,2012,2.00e-04,4 - four,Sneaker
+2265,1263,2.00e-04,5 - five,Bag
+2266,447,2.00e-04,7 - seven,Shirt
+2267,1747,2.00e-04,1 - one,Sneaker
+2268,940,2.00e-04,5 - five,Shirt
+2269,2212,2.00e-04,4 - four,Sneaker
+2270,3783,2.00e-04,8 - eight,Dress
+2271,1980,2.00e-04,5 - five,Bag
+2272,1700,2.00e-04,4 - four,Pullover
+2273,1173,2.00e-04,1 - one,Trouser
+2274,4587,2.00e-04,5 - five,Shirt
+2275,4527,2.00e-04,4 - four,Sneaker
+2276,2494,2.00e-04,9 - nine,Trouser
+2277,844,2.00e-04,3 - three,Pullover
+2278,4823,2.00e-04,5 - five,T-shirt/top
+2279,4179,2.00e-04,5 - five,Bag
+2280,2108,2.00e-04,5 - five,T-shirt/top
+2281,2766,2.00e-04,0 - zero,Coat
+2282,3687,2.00e-04,2 - two,Ankle boot
+2283,2987,2.00e-04,6 - six,Shirt
+2284,2961,2.00e-04,5 - five,Bag
+2285,1845,2.00e-04,2 - two,Ankle boot
+2286,1041,2.00e-04,8 - eight,Pullover
+2287,4828,2.00e-04,0 - zero,Coat
+2288,2829,2.00e-04,1 - one,Sandal
+2289,3754,2.00e-04,9 - nine,Trouser
+2290,3093,2.00e-04,6 - six,Bag
+2291,1810,2.00e-04,7 - seven,Shirt
+2292,1582,2.00e-04,9 - nine,Trouser
+2293,2077,2.00e-04,9 - nine,Trouser
+2294,4165,2.00e-04,6 - six,Bag
+2295,2063,2.00e-04,5 - five,Bag
+2296,271,2.00e-04,7 - seven,Shirt
+2297,4949,2.00e-04,2 - two,Pullover
+2298,4952,2.00e-04,3 - three,Pullover
+2299,492,2.00e-04,2 - two,Ankle boot
+2300,2236,2.00e-04,3 - three,Shirt
+2301,2901,2.00e-04,4 - four,Sandal
+2302,2220,2.00e-04,7 - seven,Shirt
+2303,704,2.00e-04,2 - two,Ankle boot
+2304,4172,2.00e-04,0 - zero,Coat
+2305,497,2.00e-04,6 - six,Shirt
+2306,2086,2.00e-04,5 - five,Pullover
+2307,2273,2.00e-04,3 - three,Pullover
+2308,4751,2.00e-04,9 - nine,Trouser
+2309,790,2.00e-04,3 - three,Dress
+2310,2072,2.00e-04,4 - four,Sneaker
+2311,4742,2.00e-04,3 - three,Pullover
+2312,4330,2.00e-04,0 - zero,Pullover
+2313,2899,2.00e-04,3 - three,Pullover
+2314,4632,2.00e-04,2 - two,Pullover
+2315,3277,2.00e-04,5 - five,Shirt
+2316,177,2.00e-04,9 - nine,Trouser
+2317,2525,2.00e-04,2 - two,Ankle boot
+2318,3261,2.00e-04,3 - three,Coat
+2319,1793,2.00e-04,9 - nine,Trouser
+2320,4545,2.00e-04,1 - one,Sandal
+2321,848,2.00e-04,1 - one,Sneaker
+2322,4865,2.00e-04,6 - six,Shirt
+2323,2197,2.00e-04,2 - two,Ankle boot
+2324,4872,2.00e-04,0 - zero,Pullover
+2325,782,2.00e-04,6 - six,Bag
+2326,3923,2.00e-04,5 - five,Shirt
+2327,4277,2.00e-04,2 - two,Ankle boot
+2328,3070,2.00e-04,2 - two,Ankle boot
+2329,2708,2.00e-04,7 - seven,Trouser
+2330,3435,2.00e-04,2 - two,Bag
+2331,3354,2.00e-04,2 - two,Ankle boot
+2332,4361,2.00e-04,3 - three,Coat
+2333,2507,2.00e-04,6 - six,Shirt
+2334,4646,2.00e-04,8 - eight,Dress
+2335,2261,2.00e-04,9 - nine,Trouser
+2336,3252,2.00e-04,4 - four,Sneaker
+2337,2859,2.00e-04,5 - five,T-shirt/top
+2338,1639,2.00e-04,7 - seven,Shirt
+2339,1648,2.00e-04,4 - four,Sneaker
+2340,2323,2.00e-04,2 - two,Bag
+2341,2210,2.00e-04,8 - eight,T-shirt/top
+2342,1784,2.00e-04,8 - eight,Coat
+2343,3558,2.00e-04,0 - zero,Coat
+2344,2516,2.00e-04,2 - two,Pullover
+2345,1926,2.00e-04,5 - five,Shirt
+2346,3226,2.00e-04,9 - nine,Trouser
+2347,686,2.00e-04,4 - four,Sneaker
+2348,3434,2.00e-04,6 - six,Dress
+2349,2299,2.00e-04,5 - five,T-shirt/top
+2350,1797,2.00e-04,2 - two,Ankle boot
+2351,2526,2.00e-04,3 - three,Dress
+2352,4840,2.00e-04,6 - six,Dress
+2353,3946,2.00e-04,3 - three,Pullover
+2354,384,2.00e-04,9 - nine,Trouser
+2355,1535,2.00e-04,9 - nine,Bag
+2356,3784,2.00e-04,2 - two,Ankle boot
+2357,4328,2.00e-04,2 - two,Ankle boot
+2358,2962,2.00e-04,8 - eight,Coat
+2359,3621,2.00e-04,7 - seven,Dress
+2360,4623,2.00e-04,1 - one,Sandal
+2361,4377,2.00e-04,0 - zero,Coat
+2362,4077,2.00e-04,6 - six,Sneaker
+2363,2159,2.00e-04,4 - four,Bag
+2364,1467,2.00e-04,0 - zero,Coat
+2365,3896,2.00e-04,7 - seven,T-shirt/top
+2366,4126,2.00e-04,3 - three,Coat
+2367,1819,2.00e-04,6 - six,Dress
+2368,3849,2.00e-04,8 - eight,Dress
+2369,2942,2.00e-04,1 - one,Dress
+2370,2562,2.00e-04,9 - nine,Dress
+2371,3444,2.00e-04,5 - five,Shirt
+2372,3634,2.00e-04,1 - one,Trouser
+2373,1310,2.00e-04,7 - seven,Trouser
+2374,3731,2.00e-04,2 - two,Ankle boot
+2375,2521,2.00e-04,4 - four,Sneaker
+2376,3162,2.00e-04,7 - seven,T-shirt/top
+2377,1397,2.00e-04,2 - two,Bag
+2378,4677,2.00e-04,8 - eight,T-shirt/top
+2379,1739,2.00e-04,4 - four,Sneaker
+2380,477,2.00e-04,3 - three,T-shirt/top
+2381,1014,2.00e-04,7 - seven,T-shirt/top
+2382,4667,2.00e-04,9 - nine,Trouser
+2383,2560,2.00e-04,6 - six,Pullover
+2384,3044,2.00e-04,0 - zero,Coat
+2385,811,2.00e-04,6 - six,Bag
+2386,235,2.00e-04,1 - one,Sandal
+2387,3213,2.00e-04,9 - nine,Trouser
+2388,1156,2.00e-04,7 - seven,T-shirt/top
+2389,3096,2.00e-04,6 - six,Bag
+2390,3038,2.00e-04,0 - zero,Coat
+2391,3187,2.00e-04,1 - one,Ankle boot
+2392,4548,2.00e-04,1 - one,Dress
+2393,3716,2.00e-04,8 - eight,Pullover
+2394,4864,2.00e-04,9 - nine,Shirt
+2395,4437,2.00e-04,2 - two,Ankle boot
+2396,3515,2.00e-04,8 - eight,T-shirt/top
+2397,2,2.00e-04,1 - one,Sandal
+2398,745,2.00e-04,9 - nine,Trouser
+2399,1089,2.00e-04,9 - nine,Dress
+2400,2386,2.00e-04,5 - five,Dress
+2401,2924,2.00e-04,8 - eight,Dress
+2402,277,2.00e-04,6 - six,Dress
+2403,2903,2.00e-04,8 - eight,Dress
+2404,4962,2.00e-04,0 - zero,Coat
+2405,2725,2.00e-04,1 - one,Sandal
+2406,3029,2.00e-04,1 - one,Sneaker
+2407,1841,2.00e-04,5 - five,Sandal
+2408,941,2.00e-04,1 - one,Trouser
+2409,1651,2.00e-04,1 - one,Sandal
+2410,1825,2.00e-04,0 - zero,Coat
+2411,1850,2.00e-04,8 - eight,T-shirt/top
+2412,449,2.00e-04,7 - seven,Bag
+2413,3082,2.00e-04,2 - two,Ankle boot
+2414,1011,2.00e-04,0 - zero,Coat
+2415,2403,2.00e-04,7 - seven,T-shirt/top
+2416,3440,2.00e-04,4 - four,Sneaker
+2417,2131,2.00e-04,3 - three,Pullover
+2418,335,2.00e-04,5 - five,Bag
+2419,2551,2.00e-04,2 - two,Ankle boot
+2420,1748,2.00e-04,0 - zero,Coat
+2421,3563,2.00e-04,3 - three,Pullover
+2422,3116,2.00e-04,2 - two,Ankle boot
+2423,3609,2.00e-04,7 - seven,Shirt
+2424,1401,2.00e-04,7 - seven,T-shirt/top
+2425,4000,2.00e-04,1 - one,Sandal
+2426,4701,2.00e-04,5 - five,Shirt
+2427,1315,2.00e-04,3 - three,Pullover
+2428,1612,2.00e-04,7 - seven,Shirt
+2429,2916,2.00e-04,6 - six,Bag
+2430,2784,2.00e-04,9 - nine,Shirt
+2431,1715,2.00e-04,8 - eight,T-shirt/top
+2432,4490,2.00e-04,4 - four,Sneaker
+2433,3859,2.00e-04,3 - three,Pullover
+2434,402,2.00e-04,0 - zero,Pullover
+2435,24,2.00e-04,2 - two,Ankle boot
+2436,4916,2.00e-04,5 - five,Ankle boot
+2437,617,2.00e-04,6 - six,Dress
+2438,94,2.00e-04,1 - one,Trouser
+2439,2247,2.00e-04,8 - eight,Dress
+2440,2686,2.00e-04,6 - six,Shirt
+2441,966,2.00e-04,1 - one,Trouser
+2442,2052,2.00e-04,7 - seven,T-shirt/top
+2443,4547,2.00e-04,3 - three,Pullover
+2444,3677,2.00e-04,7 - seven,Trouser
+2445,3495,2.00e-04,1 - one,Sandal
+2446,4067,2.00e-04,5 - five,Bag
+2447,525,2.00e-04,0 - zero,Pullover
+2448,564,2.00e-04,7 - seven,Trouser
+2449,4379,2.00e-04,2 - two,Ankle boot
+2450,2363,2.00e-04,3 - three,Shirt
+2451,322,2.00e-04,8 - eight,Trouser
+2452,793,2.00e-04,1 - one,Sandal
+2453,1293,2.00e-04,7 - seven,T-shirt/top
+2454,2414,2.00e-04,4 - four,Sneaker
+2455,595,2.00e-04,8 - eight,Dress
+2456,2875,2.00e-04,3 - three,Shirt
+2457,1619,2.00e-04,3 - three,Coat
+2458,2408,2.00e-04,5 - five,Shirt
+2459,4519,2.00e-04,2 - two,Ankle boot
+2460,191,2.00e-04,7 - seven,Shirt
+2461,2081,2.00e-04,4 - four,Sneaker
+2462,4530,2.00e-04,5 - five,Bag
+2463,2534,2.00e-04,8 - eight,Dress
+2464,3114,2.00e-04,7 - seven,T-shirt/top
+2465,2677,2.00e-04,3 - three,Ankle boot
+2466,1595,2.00e-04,6 - six,Dress
+2467,204,2.00e-04,7 - seven,Shirt
+2468,3904,2.00e-04,6 - six,Pullover
+2469,3710,2.00e-04,5 - five,Bag
+2470,4060,2.00e-04,5 - five,Bag
+2471,2592,2.00e-04,3 - three,Ankle boot
+2472,1773,2.00e-04,6 - six,Dress
+2473,469,2.00e-04,1 - one,Ankle boot
+2474,4066,2.00e-04,7 - seven,Trouser
+2475,3733,2.00e-04,8 - eight,Dress
+2476,4255,2.00e-04,7 - seven,Shirt
+2477,3738,2.00e-04,7 - seven,Shirt
+2478,2476,2.00e-04,5 - five,Sandal
+2479,599,2.00e-04,9 - nine,Trouser
+2480,725,2.00e-04,4 - four,Sneaker
+2481,65,2.00e-04,4 - four,Sneaker
+2482,2524,2.00e-04,7 - seven,Shirt
+2483,423,2.00e-04,0 - zero,Coat
+2484,1685,2.00e-04,8 - eight,Pullover
+2485,1631,2.00e-04,7 - seven,Bag
+2486,536,2.00e-04,8 - eight,Dress
+2487,2300,2.00e-04,7 - seven,T-shirt/top
+2488,255,2.00e-04,1 - one,Sandal
+2489,1730,2.00e-04,9 - nine,T-shirt/top
+2490,3135,2.00e-04,3 - three,Pullover
+2491,4352,2.00e-04,4 - four,Bag
+2492,4176,2.00e-04,0 - zero,Coat
+2493,3470,2.00e-04,9 - nine,Trouser
+2494,1860,2.00e-04,6 - six,Bag
+2495,217,2.00e-04,6 - six,Dress
+2496,2855,2.00e-04,5 - five,Bag
+2497,4418,2.00e-04,1 - one,Sandal
+2498,1009,2.00e-04,1 - one,Sandal
+2499,981,2.00e-04,0 - zero,Coat
+2500,2491,2.00e-04,0 - zero,Coat
+2501,2315,2.00e-04,7 - seven,T-shirt/top
+2502,2367,2.00e-04,3 - three,Pullover
+2503,4309,2.00e-04,4 - four,Sneaker
+2504,2630,2.00e-04,3 - three,Pullover
+2505,433,2.00e-04,0 - zero,Coat
+2506,4275,2.00e-04,8 - eight,Dress
+2507,2190,2.00e-04,6 - six,Bag
+2508,1636,2.00e-04,6 - six,Bag
+2509,3836,2.00e-04,1 - one,Dress
+2510,2089,2.00e-04,2 - two,Bag
+2511,4591,2.00e-04,7 - seven,T-shirt/top
+2512,2439,2.00e-04,1 - one,Sneaker
+2513,3772,2.00e-04,9 - nine,Trouser
+2514,39,2.00e-04,0 - zero,Coat
+2515,2217,2.00e-04,4 - four,Sneaker
+2516,3922,2.00e-04,9 - nine,Dress
+2517,2733,2.00e-04,0 - zero,Coat
+2518,2251,2.00e-04,3 - three,Dress
+2519,4966,2.00e-04,7 - seven,T-shirt/top
+2520,1656,2.00e-04,2 - two,Bag
+2521,1882,2.00e-04,0 - zero,Coat
+2522,3017,2.00e-04,7 - seven,Shirt
+2523,391,2.00e-04,0 - zero,Coat
+2524,4013,2.00e-04,9 - nine,Trouser
+2525,4581,2.00e-04,6 - six,Dress
+2526,2614,2.00e-04,9 - nine,Trouser
+2527,4892,2.00e-04,8 - eight,Dress
+2528,2056,2.00e-04,0 - zero,Coat
+2529,4804,2.00e-04,2 - two,Ankle boot
+2530,4699,2.00e-04,6 - six,Bag
+2531,249,2.00e-04,3 - three,Pullover
+2532,4397,2.00e-04,0 - zero,Coat
+2533,3724,2.00e-04,1 - one,Sandal
+2534,519,2.00e-04,1 - one,Ankle boot
+2535,2168,2.00e-04,8 - eight,Bag
+2536,672,2.00e-04,9 - nine,Shirt
+2537,1062,2.00e-04,6 - six,Dress
+2538,1482,2.00e-04,2 - two,Bag
+2539,1729,2.00e-04,9 - nine,Trouser
+2540,2419,2.00e-04,7 - seven,T-shirt/top
+2541,3638,2.00e-04,5 - five,T-shirt/top
+2542,2852,2.00e-04,2 - two,Ankle boot
+2543,411,2.00e-04,8 - eight,T-shirt/top
+2544,1528,2.00e-04,5 - five,Sandal
+2545,3077,2.00e-04,4 - four,Sneaker
+2546,1126,2.00e-04,4 - four,Sneaker
+2547,3841,2.00e-04,8 - eight,T-shirt/top
+2548,4963,2.00e-04,7 - seven,Shirt
+2549,1097,2.00e-04,2 - two,Bag
+2550,4228,2.00e-04,6 - six,Bag
+2551,4006,2.00e-04,4 - four,Sneaker
+2552,3157,2.00e-04,2 - two,Ankle boot
+2553,2064,2.00e-04,7 - seven,Shirt
+2554,1076,2.00e-04,3 - three,Pullover
+2555,2590,2.00e-04,8 - eight,T-shirt/top
+2556,1249,2.00e-04,0 - zero,Coat
+2557,1019,2.00e-04,4 - four,Sneaker
+2558,2060,2.00e-04,0 - zero,Pullover
+2559,451,2.00e-04,8 - eight,T-shirt/top
+2560,4002,2.00e-04,4 - four,Sneaker
+2561,548,2.00e-04,9 - nine,Pullover
+2562,2993,2.00e-04,5 - five,Bag
+2563,1935,2.00e-04,0 - zero,Pullover
+2564,1828,2.00e-04,6 - six,Dress
+2565,2941,2.00e-04,7 - seven,Shirt
+2566,4365,2.00e-04,3 - three,Ankle boot
+2567,1359,2.00e-04,9 - nine,Trouser
+2568,1426,2.00e-04,3 - three,Bag
+2569,4782,2.00e-04,1 - one,Sandal
+2570,1954,2.00e-04,3 - three,Shirt
+2571,4953,2.00e-04,8 - eight,T-shirt/top
+2572,3253,2.00e-04,3 - three,Pullover
+2573,1434,2.00e-04,4 - four,Bag
+2574,2671,2.00e-04,9 - nine,Trouser
+2575,2176,2.00e-04,6 - six,Shirt
+2576,1877,2.00e-04,4 - four,Sneaker
+2577,2067,2.00e-04,8 - eight,Dress
+2578,4578,2.00e-04,5 - five,T-shirt/top
+2579,1679,2.00e-04,4 - four,Sneaker
+2580,4292,2.00e-04,6 - six,Bag
+2581,1879,2.00e-04,3 - three,Pullover
+2582,1973,2.00e-04,2 - two,Ankle boot
+2583,859,2.00e-04,0 - zero,Pullover
+2584,349,2.00e-04,1 - one,Sandal
+2585,132,2.00e-04,8 - eight,Dress
+2586,4030,2.00e-04,6 - six,Shirt
+2587,487,2.00e-04,3 - three,T-shirt/top
+2588,481,2.00e-04,3 - three,Dress
+2589,4246,2.00e-04,8 - eight,Dress
+2590,557,2.00e-04,7 - seven,T-shirt/top
+2591,2621,2.00e-04,7 - seven,Sandal
+2592,102,2.00e-04,7 - seven,Sandal
+2593,1279,2.00e-04,5 - five,Sandal
+2594,1115,2.00e-04,4 - four,Sneaker
+2595,1421,2.00e-04,8 - eight,T-shirt/top
+2596,375,2.00e-04,4 - four,Sneaker
+2597,3018,2.00e-04,0 - zero,Pullover
+2598,3099,2.00e-04,3 - three,Pullover
+2599,4488,2.00e-04,7 - seven,Shirt
+2600,4534,2.00e-04,1 - one,Sandal
+2601,3714,2.00e-04,2 - two,Ankle boot
+2602,1448,2.00e-04,6 - six,Bag
+2603,2205,2.00e-04,4 - four,Sneaker
+2604,846,2.00e-04,4 - four,Sneaker
+2605,527,2.00e-04,3 - three,Pullover
+2606,2140,2.00e-04,8 - eight,Dress
+2607,1734,2.00e-04,1 - one,Trouser
+2608,1358,2.00e-04,1 - one,Sneaker
+2609,670,2.00e-04,4 - four,Sneaker
+2610,3425,2.00e-04,5 - five,Sandal
+2611,267,2.00e-04,8 - eight,Dress
+2612,3250,2.00e-04,2 - two,Ankle boot
+2613,1492,2.00e-04,3 - three,Pullover
+2614,4059,2.00e-04,1 - one,Sandal
+2615,4227,2.00e-04,1 - one,Sneaker
+2616,1911,2.00e-04,7 - seven,T-shirt/top
+2617,2837,2.00e-04,0 - zero,Pullover
+2618,3275,2.00e-04,7 - seven,T-shirt/top
+2619,3254,2.00e-04,2 - two,Ankle boot
+2620,1072,2.00e-04,5 - five,Sandal
+2621,4836,2.00e-04,9 - nine,Trouser
+2622,2644,2.00e-04,3 - three,T-shirt/top
+2623,1641,2.00e-04,4 - four,Bag
+2624,333,2.00e-04,6 - six,Bag
+2625,2087,2.00e-04,5 - five,Bag
+2626,4251,2.00e-04,8 - eight,Dress
+2627,2358,2.00e-04,7 - seven,Shirt
+2628,1553,2.00e-04,3 - three,Pullover
+2629,3400,2.00e-04,1 - one,Sandal
+2630,2432,2.00e-04,2 - two,Ankle boot
+2631,4920,2.00e-04,7 - seven,Trouser
+2632,1670,2.00e-04,8 - eight,Dress
+2633,1536,2.00e-04,0 - zero,Coat
+2634,1485,2.00e-04,6 - six,Dress
+2635,3979,2.00e-04,1 - one,Sandal
+2636,4805,2.00e-04,5 - five,Pullover
+2637,3542,2.00e-04,3 - three,Pullover
+2638,74,2.00e-04,6 - six,Pullover
+2639,4550,2.00e-04,2 - two,Ankle boot
+2640,3127,2.00e-04,6 - six,Dress
+2641,4218,2.00e-04,3 - three,Pullover
+2642,61,2.00e-04,1 - one,Sneaker
+2643,1411,2.00e-04,3 - three,Dress
+2644,4267,2.00e-04,4 - four,Sneaker
+2645,337,2.00e-04,4 - four,Sneaker
+2646,945,2.00e-04,7 - seven,Trouser
+2647,3951,2.00e-04,6 - six,Bag
+2648,4336,2.00e-04,1 - one,Trouser
+2649,1914,2.00e-04,4 - four,Sneaker
+2650,2355,2.00e-04,2 - two,Ankle boot
+2651,4555,2.00e-04,3 - three,T-shirt/top
+2652,1261,2.00e-04,6 - six,Bag
+2653,3932,2.00e-04,6 - six,Pullover
+2654,2535,2.00e-04,8 - eight,Pullover
+2655,1918,2.00e-04,9 - nine,Shirt
+2656,2682,2.00e-04,1 - one,Ankle boot
+2657,4582,2.00e-04,5 - five,Bag
+2658,3637,2.00e-04,4 - four,Sandal
+2659,3080,2.00e-04,0 - zero,Coat
+2660,1545,2.00e-04,1 - one,Ankle boot
+2661,3426,2.00e-04,4 - four,Sneaker
+2662,2894,2.00e-04,4 - four,Sneaker
+2663,3398,2.00e-04,4 - four,Sneaker
+2664,3235,2.00e-04,5 - five,Pullover
+2665,1399,2.00e-04,6 - six,Dress
+2666,4327,2.00e-04,5 - five,T-shirt/top
+2667,2058,2.00e-04,6 - six,Pullover
+2668,3323,2.00e-04,0 - zero,Coat
+2669,1890,2.00e-04,9 - nine,Dress
+2670,4907,2.00e-04,3 - three,Ankle boot
+2671,3647,2.00e-04,8 - eight,Dress
+2672,4940,2.00e-04,4 - four,Sandal
+2673,890,2.00e-04,2 - two,Ankle boot
+2674,1947,2.00e-04,7 - seven,Shirt
+2675,3940,2.00e-04,0 - zero,Coat
+2676,2692,2.00e-04,3 - three,Ankle boot
+2677,931,2.00e-04,1 - one,Sandal
+2678,2456,2.00e-04,6 - six,Dress
+2679,588,2.00e-04,7 - seven,Shirt
+2680,3625,2.00e-04,6 - six,Dress
+2681,3497,2.00e-04,4 - four,Sneaker
+2682,982,2.00e-04,3 - three,Ankle boot
+2683,3225,2.00e-04,2 - two,Ankle boot
+2684,911,2.00e-04,8 - eight,Dress
+2685,1236,2.00e-04,4 - four,Sneaker
+2686,256,2.00e-04,5 - five,Bag
+2687,2867,2.00e-04,3 - three,Pullover
+2688,3668,2.00e-04,4 - four,Sneaker
+2689,4102,2.00e-04,5 - five,Bag
+2690,2517,2.00e-04,4 - four,Shirt
+2691,4992,2.00e-04,9 - nine,Trouser
+2692,2183,2.00e-04,1 - one,Trouser
+2693,4808,2.00e-04,6 - six,Dress
+2694,2964,2.00e-04,9 - nine,Trouser
+2695,276,2.00e-04,6 - six,Shirt
+2696,3227,2.00e-04,4 - four,Sneaker
+2697,867,2.00e-04,5 - five,Ankle boot
+2698,2040,2.00e-04,3 - three,Shirt
+2699,1684,2.00e-04,8 - eight,T-shirt/top
+2700,678,2.00e-04,4 - four,Sneaker
+2701,3090,2.00e-04,3 - three,Shirt
+2702,2763,2.00e-04,9 - nine,Dress
+2703,2889,2.00e-04,4 - four,Sneaker
+2704,4663,2.00e-04,8 - eight,T-shirt/top
+2705,967,2.00e-04,9 - nine,Dress
+2706,4945,2.00e-04,5 - five,Sandal
+2707,3813,2.00e-04,5 - five,Ankle boot
+2708,3215,2.00e-04,6 - six,Sneaker
+2709,4638,2.00e-04,0 - zero,Coat
+2710,2418,2.00e-04,1 - one,Sandal
+2711,3698,2.00e-04,4 - four,Sneaker
+2712,3408,2.00e-04,7 - seven,Shirt
+2713,2306,2.00e-04,2 - two,Coat
+2714,3363,2.00e-04,3 - three,Coat
+2715,2584,2.00e-04,9 - nine,Trouser
+2716,3155,2.00e-04,3 - three,Pullover
+2717,3862,2.00e-04,5 - five,T-shirt/top
+2718,621,2.00e-04,8 - eight,Dress
+2719,1832,2.00e-04,7 - seven,T-shirt/top
+2720,4531,2.00e-04,9 - nine,Trouser
+2721,4001,2.00e-04,8 - eight,T-shirt/top
+2722,4822,2.00e-04,6 - six,Pullover
+2723,1833,2.00e-04,8 - eight,T-shirt/top
+2724,152,2.00e-04,0 - zero,Coat
+2725,2812,2.00e-04,2 - two,Ankle boot
+2726,1876,2.00e-04,1 - one,Sandal
+2727,1004,2.00e-04,5 - five,Bag
+2728,1768,2.00e-04,4 - four,Sneaker
+2729,1471,2.00e-04,0 - zero,Coat
+2730,1286,2.00e-04,4 - four,Sneaker
+2731,3595,2.00e-04,0 - zero,Coat
+2732,2082,2.00e-04,1 - one,Sandal
+2733,2163,2.00e-04,4 - four,Sneaker
+2734,2216,2.00e-04,4 - four,Sneaker
+2735,1222,2.00e-04,6 - six,Bag
+2736,3949,2.00e-04,7 - seven,Shirt
+2737,4748,2.00e-04,3 - three,Dress
+2738,3666,2.00e-04,0 - zero,Coat
+2739,2536,2.00e-04,4 - four,Sneaker
+2740,1154,2.00e-04,3 - three,Pullover
+2741,4185,2.00e-04,7 - seven,Shirt
+2742,624,2.00e-04,4 - four,Sneaker
+2743,3304,2.00e-04,4 - four,Sneaker
+2744,4201,2.00e-04,5 - five,Shirt
+2745,2550,2.00e-04,8 - eight,Dress
+2746,3343,2.00e-04,0 - zero,Coat
+2747,4160,2.00e-04,8 - eight,Pullover
+2748,2645,2.00e-04,2 - two,Ankle boot
+2749,3586,2.00e-04,2 - two,Pullover
+2750,1024,2.00e-04,6 - six,Shirt
+2751,3183,2.00e-04,8 - eight,T-shirt/top
+2752,2193,2.00e-04,2 - two,Ankle boot
+2753,3719,2.00e-04,8 - eight,T-shirt/top
+2754,1802,2.00e-04,5 - five,Sandal
+2755,298,2.00e-04,3 - three,Dress
+2756,495,2.00e-04,3 - three,Pullover
+2757,1884,2.00e-04,6 - six,Dress
+2758,4394,2.00e-04,1 - one,Sneaker
+2759,1949,2.00e-04,3 - three,Pullover
+2760,3545,2.00e-04,0 - zero,Coat
+2761,4537,2.00e-04,0 - zero,Coat
+2762,2620,2.00e-04,6 - six,Bag
+2763,1873,2.00e-04,5 - five,Shirt
+2764,3086,2.00e-04,8 - eight,T-shirt/top
+2765,3541,2.00e-04,2 - two,Ankle boot
+2766,4821,2.00e-04,5 - five,Bag
+2767,2240,2.00e-04,2 - two,Ankle boot
+2768,1719,2.00e-04,0 - zero,Coat
+2769,2651,2.00e-04,2 - two,Ankle boot
+2770,4839,2.00e-04,2 - two,Bag
+2771,2965,2.00e-04,3 - three,T-shirt/top
+2772,1993,2.00e-04,9 - nine,Dress
+2773,1424,2.00e-04,7 - seven,Shirt
+2774,3222,2.00e-04,4 - four,Sneaker
+2775,4643,2.00e-04,3 - three,Coat
+2776,1181,2.00e-04,4 - four,Sandal
+2777,62,2.00e-04,7 - seven,T-shirt/top
+2778,589,2.00e-04,5 - five,Shirt
+2779,4223,2.00e-04,8 - eight,T-shirt/top
+2780,4615,2.00e-04,8 - eight,T-shirt/top
+2781,4961,2.00e-04,5 - five,T-shirt/top
+2782,2603,2.00e-04,9 - nine,Trouser
+2783,3918,2.00e-04,6 - six,Shirt
+2784,2433,2.00e-04,3 - three,Pullover
+2785,2904,2.00e-04,6 - six,Pullover
+2786,699,2.00e-04,1 - one,Sneaker
+2787,2393,2.00e-04,2 - two,Ankle boot
+2788,4797,2.00e-04,2 - two,Ankle boot
+2789,1760,2.00e-04,5 - five,Bag
+2790,3669,2.00e-04,5 - five,Pullover
+2791,237,2.00e-04,7 - seven,Trouser
+2792,950,2.00e-04,6 - six,Shirt
+2793,2284,2.00e-04,2 - two,Ankle boot
+2794,2455,2.00e-04,4 - four,Sneaker
+2795,4977,2.00e-04,5 - five,T-shirt/top
+2796,3711,2.00e-04,4 - four,Sneaker
+2797,1031,2.00e-04,6 - six,Shirt
+2798,1344,2.00e-04,4 - four,Shirt
+2799,2624,2.00e-04,1 - one,Sandal
+2800,4795,2.00e-04,7 - seven,Shirt
+2801,124,2.00e-04,6 - six,Bag
+2802,2928,2.00e-04,6 - six,Dress
+2803,3185,2.00e-04,5 - five,T-shirt/top
+2804,3818,2.00e-04,8 - eight,T-shirt/top
+2805,26,2.00e-04,9 - nine,Trouser
+2806,2827,2.00e-04,6 - six,Bag
+2807,225,2.00e-04,4 - four,Sneaker
+2808,3900,2.00e-04,2 - two,Ankle boot
+2809,3308,2.00e-04,9 - nine,Dress
+2810,3280,2.00e-04,9 - nine,Trouser
+2811,2214,2.00e-04,5 - five,Bag
+2812,3173,2.00e-04,7 - seven,Shirt
+2813,3832,2.00e-04,4 - four,Sneaker
+2814,898,2.00e-04,7 - seven,Trouser
+2815,4301,2.00e-04,9 - nine,Trouser
+2816,4756,2.00e-04,3 - three,Pullover
+2817,129,2.00e-04,1 - one,Sandal
+2818,4477,2.00e-04,4 - four,Sneaker
+2819,2394,2.00e-04,8 - eight,T-shirt/top
+2820,2805,2.00e-04,9 - nine,Shirt
+2821,3763,2.00e-04,8 - eight,Dress
+2822,1623,2.00e-04,1 - one,Dress
+2823,4850,2.00e-04,9 - nine,Trouser
+2824,2039,2.00e-04,8 - eight,Dress
+2825,1813,2.00e-04,2 - two,Ankle boot
+2826,1686,2.00e-04,3 - three,Shirt
+2827,754,2.00e-04,7 - seven,Shirt
+2828,2018,2.00e-04,9 - nine,Trouser
+2829,1932,2.00e-04,1 - one,Trouser
+2830,1635,2.00e-04,7 - seven,T-shirt/top
+2831,4024,2.00e-04,2 - two,Ankle boot
+2832,3271,2.00e-04,8 - eight,Dress
+2833,632,2.00e-04,1 - one,Sandal
+2834,4444,2.00e-04,5 - five,Shirt
+2835,197,2.00e-04,0 - zero,Coat
+2836,1544,2.00e-04,7 - seven,Sandal
+2837,4095,2.00e-04,3 - three,Coat
+2838,242,2.00e-04,1 - one,Sneaker
+2839,2022,2.00e-04,4 - four,Sneaker
+2840,3500,2.00e-04,5 - five,Sandal
+2841,3199,2.00e-04,1 - one,Sandal
+2842,1562,2.00e-04,5 - five,Bag
+2843,2988,2.00e-04,9 - nine,Trouser
+2844,2848,2.00e-04,0 - zero,Pullover
+2845,1863,2.00e-04,5 - five,Bag
+2846,2331,2.00e-04,0 - zero,Coat
+2847,4868,2.00e-04,0 - zero,Coat
+2848,2678,2.00e-04,4 - four,Sneaker
+2849,4719,2.00e-04,3 - three,Ankle boot
+2850,2660,2.00e-04,5 - five,T-shirt/top
+2851,4956,2.00e-04,4 - four,Bag
+2852,860,2.00e-04,2 - two,Bag
+2853,2134,2.00e-04,5 - five,Bag
+2854,4385,2.00e-04,5 - five,Shirt
+2855,2207,2.00e-04,5 - five,Sandal
+2856,2038,2.00e-04,2 - two,Bag
+2857,1157,2.00e-04,3 - three,Coat
+2858,2990,2.00e-04,4 - four,Bag
+2859,3805,2.00e-04,8 - eight,Dress
+2860,1207,2.00e-04,2 - two,Ankle boot
+2861,3293,2.00e-04,9 - nine,Trouser
+2862,3450,2.00e-04,7 - seven,Shirt
+2863,1365,2.00e-04,8 - eight,Dress
+2864,1889,2.00e-04,0 - zero,Coat
+2865,4969,2.00e-04,0 - zero,Pullover
+2866,3602,2.00e-04,5 - five,Sandal
+2867,3268,2.00e-04,2 - two,Ankle boot
+2868,494,2.00e-04,0 - zero,Coat
+2869,3768,2.00e-04,2 - two,Bag
+2870,2325,2.00e-04,5 - five,Bag
+2871,3930,2.00e-04,8 - eight,T-shirt/top
+2872,991,2.00e-04,9 - nine,Trouser
+2873,49,2.00e-04,4 - four,Sneaker
+2874,1135,2.00e-04,4 - four,Sneaker
+2875,3073,2.00e-04,3 - three,Dress
+2876,4583,2.00e-04,0 - zero,Coat
+2877,797,2.00e-04,3 - three,Pullover
+2878,1549,2.00e-04,8 - eight,T-shirt/top
+2879,3347,2.00e-04,9 - nine,Shirt
+2880,1195,2.00e-04,2 - two,Ankle boot
+2881,4928,2.00e-04,0 - zero,Coat
+2882,2413,2.00e-04,4 - four,Sneaker
+2883,1334,2.00e-04,9 - nine,Dress
+2884,3201,2.00e-04,9 - nine,Trouser
+2885,3535,2.00e-04,3 - three,Pullover
+2886,3682,2.00e-04,7 - seven,Bag
+2887,2667,2.00e-04,7 - seven,Dress
+2888,4968,2.00e-04,6 - six,Coat
+2889,1885,2.00e-04,0 - zero,Coat
+2890,3540,2.00e-04,8 - eight,Dress
+2891,4498,2.00e-04,1 - one,Sandal
+2892,489,2.00e-04,2 - two,Ankle boot
+2893,733,2.00e-04,9 - nine,Sneaker
+2894,3098,2.00e-04,4 - four,Sandal
+2895,1849,2.00e-04,1 - one,Sandal
+2896,166,2.00e-04,7 - seven,T-shirt/top
+2897,1398,2.00e-04,3 - three,Pullover
+2898,1299,2.00e-04,7 - seven,T-shirt/top
+2899,1168,2.00e-04,9 - nine,Trouser
+2900,2426,2.00e-04,7 - seven,Shirt
+2901,2842,2.00e-04,3 - three,Shirt
+2902,147,2.00e-04,6 - six,Dress
+2903,3419,2.00e-04,1 - one,Sandal
+2904,3257,2.00e-04,1 - one,Trouser
+2905,2975,2.00e-04,6 - six,Pullover
+2906,409,2.00e-04,2 - two,Bag
+2907,3355,2.00e-04,5 - five,Sandal
+2908,4746,2.00e-04,5 - five,T-shirt/top
+2909,2443,2.00e-04,6 - six,Pullover
+2910,3517,2.00e-04,0 - zero,Coat
+2911,2865,2.00e-04,8 - eight,Dress
+2912,493,2.00e-04,2 - two,Bag
+2913,534,2.00e-04,1 - one,Sandal
+2914,3490,2.00e-04,4 - four,Sandal
+2915,2337,2.00e-04,2 - two,Ankle boot
+2916,1317,2.00e-04,5 - five,Sandal
+2917,60,2.00e-04,3 - three,Pullover
+2918,3126,2.00e-04,1 - one,Trouser
+2919,756,2.00e-04,9 - nine,Dress
+2920,2857,2.00e-04,2 - two,Bag
+2921,2563,2.00e-04,0 - zero,Pullover
+2922,3827,2.00e-04,7 - seven,Shirt
+2923,1493,2.00e-04,5 - five,T-shirt/top
+2924,1224,2.00e-04,9 - nine,Trouser
+2925,4428,2.00e-04,1 - one,Sandal
+2926,1225,2.00e-04,4 - four,Sneaker
+2927,1347,2.00e-04,7 - seven,Shirt
+2928,4846,2.00e-04,8 - eight,T-shirt/top
+2929,3106,2.00e-04,1 - one,Sandal
+2930,3069,2.00e-04,1 - one,Ankle boot
+2931,1123,2.00e-04,2 - two,Bag
+2932,3217,2.00e-04,8 - eight,T-shirt/top
+2933,83,2.00e-04,3 - three,Pullover
+2934,3995,2.00e-04,2 - two,Coat
+2935,4392,2.00e-04,6 - six,Pullover
+2936,2010,2.00e-04,1 - one,Sneaker
+2937,185,2.00e-04,5 - five,Bag
+2938,508,2.00e-04,4 - four,Pullover
+2939,2357,2.00e-04,7 - seven,Shirt
+2940,1201,2.00e-04,5 - five,Sandal
+2941,523,2.00e-04,3 - three,T-shirt/top
+2942,4442,2.00e-04,7 - seven,Sandal
+2943,4616,2.00e-04,3 - three,Ankle boot
+2944,1257,2.00e-04,3 - three,Pullover
+2945,4538,2.00e-04,0 - zero,Pullover
+2946,200,2.00e-04,4 - four,Sneaker
+2947,824,2.00e-04,2 - two,Bag
+2948,2559,2.00e-04,9 - nine,Trouser
+2949,1560,2.00e-04,9 - nine,Trouser
+2950,3266,2.00e-04,8 - eight,Ankle boot
+2951,3041,2.00e-04,9 - nine,Shirt
+2952,4730,2.00e-04,2 - two,Ankle boot
+2953,190,2.00e-04,2 - two,Pullover
+2954,823,2.00e-04,1 - one,Sandal
+2955,1708,2.00e-04,7 - seven,T-shirt/top
+2956,4954,2.00e-04,9 - nine,Trouser
+2957,3322,2.00e-04,5 - five,Sandal
+2958,4283,2.00e-04,8 - eight,Ankle boot
+2959,1628,2.00e-04,3 - three,Dress
+2960,4411,2.00e-04,1 - one,Sneaker
+2961,4258,2.00e-04,7 - seven,Shirt
+2962,3791,2.00e-04,6 - six,Dress
+2963,2398,2.00e-04,4 - four,Sneaker
+2964,1709,2.00e-04,0 - zero,Coat
+2965,795,2.00e-04,0 - zero,Pullover
+2966,4842,2.00e-04,0 - zero,Coat
+2967,1557,2.00e-04,0 - zero,Coat
+2968,851,2.00e-04,9 - nine,Trouser
+2969,4975,2.00e-04,2 - two,Ankle boot
+2970,4514,2.00e-04,7 - seven,Shirt
+2971,3780,2.00e-04,0 - zero,Coat
+2972,4737,2.00e-04,0 - zero,Coat
+2973,305,2.00e-04,0 - zero,Coat
+2974,1994,2.00e-04,0 - zero,Pullover
+2975,2334,2.00e-04,8 - eight,Dress
+2976,3005,2.00e-04,8 - eight,Dress
+2977,3913,2.00e-04,8 - eight,T-shirt/top
+2978,1128,2.00e-04,9 - nine,Trouser
+2979,192,2.00e-04,5 - five,Bag
+2980,1320,2.00e-04,8 - eight,Dress
+2981,4505,2.00e-04,6 - six,Bag
+2982,3456,2.00e-04,4 - four,Sneaker
+2983,2802,2.00e-04,7 - seven,Trouser
+2984,3482,2.00e-04,7 - seven,T-shirt/top
+2985,3973,2.00e-04,2 - two,Ankle boot
+2986,363,2.00e-04,1 - one,Sandal
+2987,2370,2.00e-04,8 - eight,Dress
+2988,3174,2.00e-04,6 - six,Pullover
+2989,1540,2.00e-04,7 - seven,T-shirt/top
+2990,777,2.00e-04,4 - four,Sandal
+2991,4919,2.00e-04,7 - seven,T-shirt/top
+2992,151,2.00e-04,3 - three,Pullover
+2993,794,2.00e-04,6 - six,Shirt
+2994,2119,2.00e-04,0 - zero,Coat
+2995,1883,2.00e-04,5 - five,Bag
+2996,294,2.00e-04,9 - nine,Trouser
+2997,3565,2.00e-04,3 - three,Pullover
+2998,3829,2.00e-04,6 - six,Shirt
+2999,1707,2.00e-04,4 - four,Sneaker
+3000,3331,2.00e-04,1 - one,Sneaker
+3001,1152,2.00e-04,9 - nine,Trouser
+3002,4022,2.00e-04,9 - nine,Bag
+3003,4044,2.00e-04,5 - five,Shirt
+3004,4913,2.00e-04,7 - seven,Shirt
+3005,526,2.00e-04,2 - two,Bag
+3006,4541,2.00e-04,7 - seven,Shirt
+3007,3118,2.00e-04,5 - five,Shirt
+3008,1503,2.00e-04,7 - seven,T-shirt/top
+3009,2245,2.00e-04,1 - one,Trouser
+3010,1751,2.00e-04,2 - two,Ankle boot
+3011,3169,2.00e-04,1 - one,Dress
+3012,4784,2.00e-04,5 - five,Bag
+3013,2166,2.00e-04,8 - eight,Pullover
+3014,582,2.00e-04,8 - eight,Dress
+3015,4523,2.00e-04,6 - six,Coat
+3016,4189,2.00e-04,3 - three,Pullover
+3017,3370,2.00e-04,5 - five,Bag
+3018,4792,2.00e-04,8 - eight,Pullover
+3019,2023,2.00e-04,3 - three,T-shirt/top
+3020,2573,2.00e-04,4 - four,Sneaker
+3021,1253,2.00e-04,6 - six,Shirt
+3022,1230,2.00e-04,4 - four,Shirt
+3023,2130,2.00e-04,8 - eight,T-shirt/top
+3024,302,2.00e-04,1 - one,Sandal
+3025,1500,2.00e-04,6 - six,Ankle boot
+3026,3514,2.00e-04,0 - zero,Pullover
+3027,1266,2.00e-04,8 - eight,Dress
+3028,1153,2.00e-04,2 - two,Coat
+3029,2033,2.00e-04,8 - eight,Pullover
+3030,2779,2.00e-04,9 - nine,Trouser
+3031,1210,2.00e-04,2 - two,Coat
+3032,960,2.00e-04,6 - six,Shirt
+3033,773,2.00e-04,0 - zero,Coat
+3034,3351,2.00e-04,7 - seven,T-shirt/top
+3035,3579,2.00e-04,5 - five,Bag
+3036,3019,2.00e-04,4 - four,Sneaker
+3037,2444,2.00e-04,8 - eight,T-shirt/top
+3038,394,2.00e-04,1 - one,Trouser
+3039,1772,2.00e-04,4 - four,Sneaker
+3040,4151,2.00e-04,4 - four,Sneaker
+3041,412,2.00e-04,3 - three,T-shirt/top
+3042,3068,2.00e-04,7 - seven,T-shirt/top
+3043,1996,2.00e-04,1 - one,Sandal
+3044,637,2.00e-04,5 - five,Bag
+3045,3084,2.00e-04,4 - four,Sandal
+3046,3899,2.00e-04,4 - four,Sneaker
+3047,2542,2.00e-04,9 - nine,Trouser
+3048,888,2.00e-04,5 - five,T-shirt/top
+3049,4371,2.00e-04,2 - two,Ankle boot
+3050,1868,2.00e-04,3 - three,Coat
+3051,1554,2.00e-04,5 - five,Shirt
+3052,1459,2.00e-04,7 - seven,Trouser
+3053,4092,2.00e-04,5 - five,Bag
+3054,1313,2.00e-04,1 - one,Dress
+3055,2009,2.00e-04,6 - six,Dress
+3056,2161,2.00e-04,1 - one,Sandal
+3057,81,2.00e-04,9 - nine,Dress
+3058,2570,2.00e-04,7 - seven,Shirt
+3059,758,2.00e-04,1 - one,Trouser
+3060,1189,2.00e-04,4 - four,Sneaker
+3061,915,2.00e-04,0 - zero,Coat
+3062,1208,2.00e-04,1 - one,Sneaker
+3063,2864,2.00e-04,7 - seven,T-shirt/top
+3064,722,2.00e-04,8 - eight,T-shirt/top
+3065,4858,2.00e-04,3 - three,Pullover
+3066,3699,2.00e-04,0 - zero,Pullover
+3067,3508,2.00e-04,7 - seven,T-shirt/top
+3068,1753,2.00e-04,4 - four,Shirt
+3069,1942,2.00e-04,9 - nine,Trouser
+3070,2272,2.00e-04,9 - nine,Trouser
+3071,4874,2.00e-04,1 - one,Sandal
+3072,4303,2.00e-04,8 - eight,Dress
+3073,4692,2.00e-04,9 - nine,Trouser
+3074,376,2.00e-04,0 - zero,Coat
+3075,1352,2.00e-04,2 - two,Ankle boot
+3076,3193,2.00e-04,4 - four,Sneaker
+3077,229,2.00e-04,1 - one,Dress
+3078,925,2.00e-04,2 - two,Bag
+3079,2588,2.00e-04,0 - zero,Coat
+3080,4777,2.00e-04,1 - one,Sandal
+3081,2834,2.00e-04,4 - four,Sneaker
+3082,4558,2.00e-04,6 - six,Dress
+3083,4798,2.00e-04,5 - five,Shirt
+3084,3852,2.00e-04,0 - zero,Coat
+3085,2165,2.00e-04,1 - one,Sandal
+3086,600,2.00e-04,6 - six,Shirt
+3087,118,2.00e-04,4 - four,Bag
+3088,2890,2.00e-04,1 - one,Ankle boot
+3089,323,2.00e-04,2 - two,Ankle boot
+3090,1965,2.00e-04,1 - one,Sandal
+3091,2977,2.00e-04,1 - one,Sandal
+3092,4825,2.00e-04,3 - three,Coat
+3093,4210,2.00e-04,9 - nine,Trouser
+3094,1755,2.00e-04,3 - three,Pullover
+3095,4446,2.00e-04,1 - one,Sneaker
+3096,3297,2.00e-04,1 - one,Trouser
+3097,223,2.00e-04,6 - six,Shirt
+3098,4993,2.00e-04,3 - three,Dress
+3099,3925,2.00e-04,7 - seven,Sandal
+3100,4329,2.00e-04,6 - six,Dress
+3101,4622,2.00e-04,0 - zero,Coat
+3102,4980,2.00e-04,0 - zero,Coat
+3103,1171,2.00e-04,7 - seven,T-shirt/top
+3104,2088,2.00e-04,9 - nine,Trouser
+3105,1681,2.00e-04,7 - seven,T-shirt/top
+3106,4148,2.00e-04,1 - one,Sneaker
+3107,2326,2.00e-04,2 - two,Ankle boot
+3108,2248,2.00e-04,6 - six,Dress
+3109,1862,2.00e-04,0 - zero,Coat
+3110,3560,2.00e-04,6 - six,Shirt
+3111,418,2.00e-04,5 - five,Sandal
+3112,2115,2.00e-04,7 - seven,T-shirt/top
+3113,3785,2.00e-04,3 - three,Pullover
+3114,963,2.00e-04,9 - nine,Dress
+3115,2691,2.00e-04,3 - three,Dress
+3116,1986,2.00e-04,9 - nine,Trouser
+3117,729,2.00e-04,5 - five,T-shirt/top
+3118,1099,2.00e-04,1 - one,Sandal
+3119,3303,2.00e-04,7 - seven,Shirt
+3120,293,2.00e-04,2 - two,Ankle boot
+3121,263,2.00e-04,3 - three,Pullover
+3122,1599,2.00e-04,4 - four,Sneaker
+3123,2513,2.00e-04,7 - seven,Trouser
+3124,3709,2.00e-04,9 - nine,Trouser
+3125,2425,2.00e-04,0 - zero,Coat
+3126,3491,2.00e-04,2 - two,Ankle boot
+3127,47,2.00e-04,7 - seven,Sandal
+3128,3554,2.00e-04,2 - two,Pullover
+3129,1382,2.00e-04,4 - four,Bag
+3130,3443,2.00e-04,9 - nine,Trouser
+3131,120,2.00e-04,1 - one,Sandal
+3132,4300,2.00e-04,7 - seven,Trouser
+3133,3519,2.00e-04,5 - five,Bag
+3134,1228,2.00e-04,2 - two,Bag
+3135,4130,2.00e-04,6 - six,Bag
+3136,1929,2.00e-04,3 - three,Shirt
+3137,4391,2.00e-04,3 - three,Pullover
+3138,3531,2.00e-04,5 - five,T-shirt/top
+3139,2980,2.00e-04,1 - one,Trouser
+3140,891,2.00e-04,8 - eight,Dress
+3141,779,2.00e-04,1 - one,Sandal
+3142,1916,2.00e-04,6 - six,Sandal
+3143,1237,2.00e-04,7 - seven,T-shirt/top
+3144,4310,2.00e-04,8 - eight,T-shirt/top
+3145,2065,2.00e-04,8 - eight,Shirt
+3146,2607,2.00e-04,1 - one,Trouser
+3147,3103,2.00e-04,3 - three,Shirt
+3148,843,2.00e-04,7 - seven,Bag
+3149,620,2.00e-04,4 - four,Sandal
+3150,4921,2.00e-04,4 - four,Bag
+3151,1801,2.00e-04,3 - three,Shirt
+3152,1779,2.00e-04,0 - zero,Coat
+3153,1608,2.00e-04,0 - zero,Coat
+3154,3996,2.00e-04,3 - three,Coat
+3155,3614,2.00e-04,9 - nine,Shirt
+3156,4522,2.00e-04,6 - six,Dress
+3157,2684,2.00e-04,8 - eight,T-shirt/top
+3158,2409,2.00e-04,6 - six,Coat
+3159,4443,2.00e-04,3 - three,T-shirt/top
+3160,2544,2.00e-04,7 - seven,Bag
+3161,2870,2.00e-04,8 - eight,Ankle boot
+3162,4405,2.00e-04,0 - zero,Coat
+3163,3749,2.00e-04,7 - seven,Shirt
+3164,3831,2.00e-04,6 - six,Dress
+3165,4192,2.00e-04,9 - nine,Trouser
+3166,40,2.00e-04,4 - four,Sneaker
+3167,91,2.00e-04,2 - two,Ankle boot
+3168,3756,2.00e-04,6 - six,Dress
+3169,4911,2.00e-04,1 - one,Trouser
+3170,903,2.00e-04,0 - zero,Pullover
+3171,1837,2.00e-04,9 - nine,Trouser
+3172,3140,2.00e-04,2 - two,Ankle boot
+3173,4137,2.00e-04,5 - five,Bag
+3174,4875,2.00e-04,2 - two,Ankle boot
+3175,1049,2.00e-04,8 - eight,T-shirt/top
+3176,2741,2.00e-04,1 - one,Sandal
+3177,3028,2.00e-04,3 - three,Pullover
+3178,3779,2.00e-04,7 - seven,T-shirt/top
+3179,654,2.00e-04,0 - zero,Coat
+3180,2191,2.00e-04,3 - three,Pullover
+3181,1298,2.00e-04,0 - zero,Coat
+3182,4627,2.00e-04,4 - four,Sneaker
+3183,3803,2.00e-04,0 - zero,Coat
+3184,614,2.00e-04,1 - one,Trouser
+3185,4271,2.00e-04,4 - four,Sneaker
+3186,246,2.00e-04,4 - four,Sneaker
+3187,4901,2.00e-04,9 - nine,Trouser
+3188,1414,2.00e-04,7 - seven,T-shirt/top
+3189,3274,2.00e-04,5 - five,Shirt
+3190,4054,2.00e-04,6 - six,Bag
+3191,4998,2.00e-04,7 - seven,T-shirt/top
+3192,2881,2.00e-04,3 - three,Shirt
+3193,4238,2.00e-04,5 - five,Bag
+3194,465,2.00e-04,5 - five,Sandal
+3195,1843,2.00e-04,6 - six,Dress
+3196,2602,2.00e-04,7 - seven,T-shirt/top
+3197,2893,2.00e-04,9 - nine,Dress
+3198,3467,2.00e-04,5 - five,Bag
+3199,4266,2.00e-04,5 - five,Sandal
+3200,3340,2.00e-04,6 - six,Dress
+3201,4486,2.00e-04,1 - one,Trouser
+3202,4824,2.00e-04,8 - eight,T-shirt/top
+3203,4406,2.00e-04,0 - zero,Coat
+3204,992,2.00e-04,2 - two,Ankle boot
+3205,1040,2.00e-04,2 - two,Ankle boot
+3206,3673,2.00e-04,7 - seven,Shirt
+3207,491,2.00e-04,1 - one,Dress
+3208,2215,2.00e-04,3 - three,Ankle boot
+3209,4776,2.00e-04,1 - one,Sandal
+3210,3159,2.00e-04,4 - four,Shirt
+3211,4229,2.00e-04,7 - seven,T-shirt/top
+3212,3133,2.00e-04,6 - six,Shirt
+3213,1777,2.00e-04,7 - seven,Shirt
+3214,4685,2.00e-04,9 - nine,Trouser
+3215,3670,2.00e-04,8 - eight,Shirt
+3216,2887,2.00e-04,8 - eight,Ankle boot
+3217,2028,2.00e-04,4 - four,Sneaker
+3218,4682,2.00e-04,5 - five,Bag
+3219,2735,2.00e-04,0 - zero,Coat
+3220,3025,2.00e-04,0 - zero,Coat
+3221,3131,2.00e-04,4 - four,Sandal
+3222,4307,2.00e-04,9 - nine,Shirt
+3223,4290,2.00e-04,5 - five,Sandal
+3224,3220,2.00e-04,0 - zero,Coat
+3225,103,2.00e-04,1 - one,Sandal
+3226,974,2.00e-04,1 - one,Sandal
+3227,3523,2.00e-04,4 - four,Sneaker
+3228,1987,2.00e-04,9 - nine,Trouser
+3229,4485,2.00e-04,5 - five,Bag
+3230,1589,2.00e-04,6 - six,Sandal
+3231,4611,2.00e-04,6 - six,Bag
+3232,1690,2.00e-04,7 - seven,T-shirt/top
+3233,2753,2.00e-04,4 - four,Sneaker
+3234,2514,2.00e-04,5 - five,Bag
+3235,385,2.00e-04,7 - seven,T-shirt/top
+3236,633,2.00e-04,3 - three,Coat
+3237,880,2.00e-04,3 - three,Dress
+3238,1380,2.00e-04,4 - four,Sneaker
+3239,4714,2.00e-04,1 - one,Sandal
+3240,4575,2.00e-04,1 - one,Trouser
+3241,1585,2.00e-04,4 - four,Sneaker
+3242,913,2.00e-04,6 - six,Bag
+3243,2932,2.00e-04,3 - three,Shirt
+3244,4814,2.00e-04,7 - seven,T-shirt/top
+3245,518,2.00e-04,9 - nine,Trouser
+3246,33,2.00e-04,3 - three,Pullover
+3247,1937,2.00e-04,2 - two,Bag
+3248,1946,2.00e-04,5 - five,T-shirt/top
+3249,266,2.00e-04,8 - eight,T-shirt/top
+3250,3344,2.00e-04,0 - zero,Coat
+3251,4453,2.00e-04,2 - two,Ankle boot
+3252,1867,2.00e-04,7 - seven,T-shirt/top
+3253,203,2.00e-04,8 - eight,Dress
+3254,1767,2.00e-04,2 - two,Ankle boot
+3255,1613,2.00e-04,9 - nine,Trouser
+3256,3654,2.00e-04,1 - one,Sandal
+3257,1330,2.00e-04,1 - one,Sandal
+3258,4769,2.00e-04,4 - four,Sneaker
+3259,2257,2.00e-04,2 - two,Ankle boot
+3260,552,2.00e-04,1 - one,Sandal
+3261,1881,2.00e-04,7 - seven,T-shirt/top
+3262,924,2.00e-04,7 - seven,T-shirt/top
+3263,935,2.00e-04,7 - seven,Sandal
+3264,2473,2.00e-04,6 - six,Sneaker
+3265,2968,2.00e-04,0 - zero,Coat
+3266,3800,2.00e-04,9 - nine,Trouser
+3267,4370,2.00e-04,1 - one,Sneaker
+3268,4017,2.00e-04,2 - two,Ankle boot
+3269,714,2.00e-04,1 - one,Sandal
+3270,325,2.00e-04,1 - one,Sandal
+3271,3395,2.00e-04,4 - four,Sandal
+3272,1417,2.00e-04,1 - one,Sneaker
+3273,4388,2.00e-04,4 - four,Sneaker
+3274,3030,2.00e-04,1 - one,Trouser
+3275,1442,2.00e-04,9 - nine,Trouser
+3276,1744,2.00e-04,6 - six,Dress
+3277,2349,2.00e-04,6 - six,Dress
+3278,3878,2.00e-04,2 - two,Ankle boot
+3279,4123,2.00e-04,7 - seven,Shirt
+3280,2638,2.00e-04,9 - nine,Trouser
+3281,4552,2.00e-04,2 - two,Ankle boot
+3282,3048,2.00e-04,3 - three,Pullover
+3283,4111,2.00e-04,1 - one,Sandal
+3284,1865,2.00e-04,9 - nine,Trouser
+3285,4224,2.00e-04,4 - four,Bag
+3286,3895,2.00e-04,9 - nine,Trouser
+3287,3078,2.00e-04,6 - six,Dress
+3288,2989,2.00e-04,7 - seven,T-shirt/top
+3289,4204,2.00e-04,2 - two,Ankle boot
+3290,2819,2.00e-04,6 - six,Shirt
+3291,4387,2.00e-04,2 - two,Ankle boot
+3292,3178,2.00e-04,6 - six,Dress
+3293,2801,2.00e-04,1 - one,Trouser
+3294,295,2.00e-04,3 - three,Pullover
+3295,2237,2.00e-04,1 - one,Sneaker
+3296,4315,2.00e-04,7 - seven,Trouser
+3297,2411,2.00e-04,6 - six,Shirt
+3298,3958,2.00e-04,8 - eight,Dress
+3299,2324,2.00e-04,7 - seven,T-shirt/top
+3300,1395,2.00e-04,3 - three,Pullover
+3301,1638,2.00e-04,6 - six,Shirt
+3302,3067,2.00e-04,1 - one,Sandal
+3303,3333,2.00e-04,3 - three,Pullover
+3304,4658,2.00e-04,9 - nine,Trouser
+3305,2905,2.00e-04,8 - eight,Dress
+3306,2851,2.00e-04,0 - zero,Coat
+3307,1470,2.00e-04,4 - four,Bag
+3308,2527,2.00e-04,0 - zero,Coat
+3309,565,2.00e-04,2 - two,Bag
+3310,4574,2.00e-04,4 - four,Bag
+3311,3578,2.00e-04,5 - five,Shirt
+3312,2484,2.00e-04,7 - seven,Trouser
+3313,2153,2.00e-04,5 - five,T-shirt/top
+3314,583,2.00e-04,7 - seven,Shirt
+3315,4463,2.00e-04,8 - eight,T-shirt/top
+3316,3915,2.00e-04,4 - four,Bag
+3317,155,2.00e-04,5 - five,Sandal
+3318,4999,2.00e-04,1 - one,Sandal
+3319,2227,2.00e-04,6 - six,Bag
+3320,4156,2.00e-04,5 - five,Bag
+3321,2285,2.00e-04,7 - seven,Shirt
+3322,2202,2.00e-04,7 - seven,Shirt
+3323,1903,2.00e-04,0 - zero,Coat
+3324,4034,2.00e-04,0 - zero,Pullover
+3325,559,2.00e-04,2 - two,Ankle boot
+3326,14,2.00e-04,5 - five,Sandal
+3327,2061,2.00e-04,2 - two,Ankle boot
+3328,3181,2.00e-04,1 - one,Sandal
+3329,4991,2.00e-04,0 - zero,Coat
+3330,4656,2.00e-04,3 - three,T-shirt/top
+3331,4510,2.00e-04,4 - four,Sneaker
+3332,1923,2.00e-04,0 - zero,Coat
+3333,4602,2.00e-04,1 - one,Trouser
+3334,4835,2.00e-04,2 - two,Ankle boot
+3335,2281,2.00e-04,8 - eight,T-shirt/top
+3336,788,2.00e-04,0 - zero,Coat
+3337,657,2.00e-04,1 - one,Sandal
+3338,1550,2.00e-04,8 - eight,Dress
+3339,1964,2.00e-04,5 - five,Bag
+3340,3793,2.00e-04,5 - five,Shirt
+3341,1783,2.00e-04,9 - nine,Dress
+3342,4618,2.00e-04,9 - nine,Trouser
+3343,3267,2.00e-04,4 - four,Sneaker
+3344,577,2.00e-04,3 - three,Dress
+3345,609,2.00e-04,5 - five,Sandal
+3346,4943,2.00e-04,7 - seven,T-shirt/top
+3347,995,2.00e-04,0 - zero,Coat
+3348,1742,2.00e-04,5 - five,Bag
+3349,1689,2.00e-04,7 - seven,Shirt
+3350,568,2.00e-04,0 - zero,Coat
+3351,1824,2.00e-04,3 - three,Pullover
+3352,2712,2.00e-04,2 - two,Ankle boot
+3353,2734,2.00e-04,7 - seven,Shirt
+3354,4217,2.00e-04,8 - eight,T-shirt/top
+3355,2030,2.00e-04,5 - five,Bag
+3356,1067,2.00e-04,9 - nine,Trouser
+3357,1277,2.00e-04,2 - two,Bag
+3358,735,2.00e-04,0 - zero,Coat
+3359,1853,2.00e-04,4 - four,Sneaker
+3360,1726,2.00e-04,2 - two,Ankle boot
+3361,1892,2.00e-04,8 - eight,Dress
+3362,1650,2.00e-04,1 - one,Ankle boot
+3363,3319,2.00e-04,2 - two,Ankle boot
+3364,201,2.00e-04,4 - four,Bag
+3365,768,2.00e-04,6 - six,Dress
+3366,2631,2.00e-04,2 - two,Ankle boot
+3367,1766,2.00e-04,6 - six,Bag
+3368,4704,2.00e-04,7 - seven,T-shirt/top
+3369,1226,2.00e-04,0 - zero,Coat
+3370,1447,2.00e-04,5 - five,Bag
+3371,3561,2.00e-04,2 - two,Ankle boot
+3372,2913,2.00e-04,0 - zero,Coat
+3373,4202,2.00e-04,1 - one,Sandal
+3374,2339,2.00e-04,4 - four,Sandal
+3375,2922,2.00e-04,9 - nine,Trouser
+3376,2229,2.00e-04,7 - seven,Dress
+3377,1668,2.00e-04,4 - four,Sneaker
+3378,1643,2.00e-04,1 - one,Trouser
+3379,4994,2.00e-04,9 - nine,Trouser
+3380,1917,2.00e-04,2 - two,Pullover
+3381,1180,2.00e-04,1 - one,Sandal
+3382,2246,2.00e-04,0 - zero,Coat
+3383,1600,2.00e-04,2 - two,Ankle boot
+3384,35,2.00e-04,0 - zero,Coat
+3385,4629,2.00e-04,7 - seven,Shirt
+3386,3130,2.00e-04,0 - zero,Coat
+3387,2151,2.00e-04,7 - seven,Shirt
+3388,1143,2.00e-04,2 - two,Ankle boot
+3389,3693,2.00e-04,8 - eight,Pullover
+3390,4705,2.00e-04,0 - zero,Pullover
+3391,2314,2.00e-04,2 - two,Ankle boot
+3392,4973,2.00e-04,9 - nine,Trouser
+3393,1106,2.00e-04,4 - four,Sneaker
+3394,2083,2.00e-04,3 - three,Coat
+3395,2546,2.00e-04,1 - one,Sandal
+3396,2042,2.00e-04,2 - two,Ankle boot
+3397,743,2.00e-04,3 - three,Ankle boot
+3398,3906,2.00e-04,7 - seven,Sandal
+3399,4763,2.00e-04,6 - six,Bag
+3400,3087,2.00e-04,3 - three,Pullover
+3401,4610,2.00e-04,2 - two,Ankle boot
+3402,1221,2.00e-04,1 - one,Ankle boot
+3403,4335,2.00e-04,9 - nine,Trouser
+3404,4549,2.00e-04,5 - five,Sandal
+3405,1704,2.00e-04,3 - three,Trouser
+3406,1637,2.00e-04,1 - one,Sandal
+3407,4749,2.00e-04,4 - four,Sneaker
+3408,3686,2.00e-04,8 - eight,Dress
+3409,3727,2.00e-04,2 - two,Ankle boot
+3410,334,2.00e-04,4 - four,Sneaker
+3411,4426,2.00e-04,5 - five,Sandal
+3412,1548,2.00e-04,0 - zero,Coat
+3413,2384,2.00e-04,0 - zero,Pullover
+3414,4882,2.00e-04,1 - one,Sandal
+3415,1842,2.00e-04,0 - zero,Pullover
+3416,1731,2.00e-04,1 - one,Sneaker
+3417,4649,2.00e-04,6 - six,Sneaker
+3418,76,2.00e-04,0 - zero,Pullover
+3419,2937,2.00e-04,1 - one,Trouser
+3420,4396,2.00e-04,1 - one,Sandal
+3421,1572,2.00e-04,5 - five,T-shirt/top
+3422,646,2.00e-04,6 - six,Bag
+3423,1963,2.00e-04,7 - seven,Trouser
+3424,275,2.00e-04,3 - three,Shirt
+3425,690,2.00e-04,4 - four,Sneaker
+3426,1936,2.00e-04,1 - one,Sandal
+3427,965,2.00e-04,8 - eight,Dress
+3428,3833,2.00e-04,7 - seven,Shirt
+3429,2955,2.00e-04,2 - two,Bag
+3430,937,2.00e-04,4 - four,Sneaker
+3431,3570,2.00e-04,4 - four,Sandal
+3432,3043,2.00e-04,9 - nine,Trouser
+3433,4841,2.00e-04,3 - three,Pullover
+3434,635,2.00e-04,5 - five,Shirt
+3435,2275,2.00e-04,0 - zero,Coat
+3436,365,2.00e-04,9 - nine,Trouser
+3437,2917,2.00e-04,6 - six,Shirt
+3438,3233,2.00e-04,9 - nine,Trouser
+3439,814,2.00e-04,5 - five,T-shirt/top
+3440,1581,2.00e-04,7 - seven,Shirt
+3441,2940,2.00e-04,0 - zero,Coat
+3442,841,2.00e-04,8 - eight,Dress
+3443,2944,2.00e-04,2 - two,Ankle boot
+3444,11,2.00e-04,8 - eight,Dress
+3445,4464,2.00e-04,0 - zero,Coat
+3446,3786,2.00e-04,4 - four,Sandal
+3447,4781,2.00e-04,6 - six,Coat
+3448,1420,2.00e-04,0 - zero,Coat
+3449,4526,2.00e-04,6 - six,Sneaker
+3450,3168,2.00e-04,9 - nine,Trouser
+3451,2984,2.00e-04,2 - two,Ankle boot
+3452,3336,2.00e-04,2 - two,Ankle boot
+3453,1069,2.00e-04,5 - five,T-shirt/top
+3454,1975,2.00e-04,4 - four,Sandal
+3455,3571,2.00e-04,5 - five,T-shirt/top
+3456,2832,2.00e-04,2 - two,Ankle boot
+3457,1659,2.00e-04,0 - zero,Coat
+3458,2541,2.00e-04,2 - two,Ankle boot
+3459,3182,2.00e-04,9 - nine,Trouser
+3460,218,2.00e-04,7 - seven,Trouser
+3461,1776,2.00e-04,4 - four,Sneaker
+3462,2643,2.00e-04,9 - nine,Sneaker
+3463,1527,2.00e-04,9 - nine,Trouser
+3464,46,2.00e-04,0 - zero,Coat
+3465,2078,2.00e-04,1 - one,Trouser
+3466,988,2.00e-04,1 - one,Sandal
+3467,1524,2.00e-04,8 - eight,T-shirt/top
+3468,4811,2.00e-04,8 - eight,T-shirt/top
+3469,3285,2.00e-04,3 - three,Ankle boot
+3470,4311,2.00e-04,2 - two,Ankle boot
+3471,3129,2.00e-04,0 - zero,Coat
+3472,1343,2.00e-04,9 - nine,Dress
+3473,499,2.00e-04,8 - eight,Pullover
+3474,573,2.00e-04,2 - two,Ankle boot
+3475,2059,2.00e-04,5 - five,Bag
+3476,581,2.00e-04,5 - five,T-shirt/top
+3477,4047,2.00e-04,9 - nine,Trouser
+3478,3651,2.00e-04,3 - three,Ankle boot
+3479,4342,2.00e-04,4 - four,Sneaker
+3480,810,2.00e-04,0 - zero,Bag
+3481,2723,2.00e-04,5 - five,Shirt
+3482,1466,2.00e-04,5 - five,Bag
+3483,2464,2.00e-04,7 - seven,Trouser
+3484,4014,2.00e-04,8 - eight,Dress
+3485,316,2.00e-04,7 - seven,Trouser
+3486,3289,2.00e-04,0 - zero,Coat
+3487,3589,2.00e-04,5 - five,T-shirt/top
+3488,1969,2.00e-04,3 - three,Pullover
+3489,3857,2.00e-04,2 - two,Ankle boot
+3490,1634,2.00e-04,1 - one,Sandal
+3491,1061,2.00e-04,9 - nine,Trouser
+3492,4100,2.00e-04,0 - zero,Pullover
+3493,2167,2.00e-04,4 - four,Sneaker
+3494,4364,2.00e-04,1 - one,Sandal
+3495,666,2.00e-04,5 - five,T-shirt/top
+3496,3981,2.00e-04,1 - one,Trouser
+3497,1717,2.00e-04,1 - one,Sandal
+3498,393,2.00e-04,9 - nine,Trouser
+3499,4232,2.00e-04,6 - six,Coat
+3500,2316,2.00e-04,7 - seven,Shirt
+3501,3581,2.00e-04,2 - two,Bag
+3502,2817,2.00e-04,1 - one,Sandal
+3503,916,2.00e-04,2 - two,Ankle boot
+3504,4625,2.00e-04,1 - one,Sneaker
+3505,1632,2.00e-04,9 - nine,Trouser
+3506,4213,2.00e-04,6 - six,Shirt
+3507,3952,2.00e-04,2 - two,Ankle boot
+3508,803,2.00e-04,8 - eight,T-shirt/top
+3509,1104,2.00e-04,4 - four,Sneaker
+3510,3863,2.00e-04,2 - two,Pullover
+3511,2730,2.00e-04,1 - one,Sneaker
+3512,1627,2.00e-04,9 - nine,Dress
+3513,1822,2.00e-04,6 - six,Dress
+3514,1227,2.00e-04,7 - seven,Shirt
+3515,448,2.00e-04,8 - eight,Pullover
+3516,3189,2.00e-04,1 - one,Sandal
+3517,3692,2.00e-04,6 - six,Pullover
+3518,680,2.00e-04,7 - seven,T-shirt/top
+3519,1164,2.00e-04,7 - seven,T-shirt/top
+3520,122,2.00e-04,7 - seven,Shirt
+3521,2891,2.00e-04,2 - two,Ankle boot
+3522,3815,2.00e-04,6 - six,Shirt
+3523,4019,2.00e-04,0 - zero,Pullover
+3524,2374,2.00e-04,4 - four,Sneaker
+3525,3757,2.00e-04,8 - eight,T-shirt/top
+3526,1526,2.00e-04,5 - five,Bag
+3527,4958,2.00e-04,3 - three,Ankle boot
+3528,3429,2.00e-04,5 - five,Bag
+3529,4248,2.00e-04,3 - three,Pullover
+3530,2722,2.00e-04,7 - seven,Shirt
+3531,1437,2.00e-04,0 - zero,Pullover
+3532,4133,2.00e-04,8 - eight,T-shirt/top
+3533,3341,2.00e-04,1 - one,Ankle boot
+3534,4826,2.00e-04,0 - zero,Coat
+3535,1609,2.00e-04,1 - one,Sandal
+3536,3501,2.00e-04,6 - six,Sneaker
+3537,4072,2.00e-04,8 - eight,Dress
+3538,2200,2.00e-04,9 - nine,Dress
+3539,4817,2.00e-04,9 - nine,Trouser
+3540,2467,2.00e-04,4 - four,Sneaker
+3541,4887,2.00e-04,8 - eight,Dress
+3542,3269,2.00e-04,1 - one,Sandal
+3543,2282,2.00e-04,0 - zero,Pullover
+3544,3824,2.00e-04,3 - three,Pullover
+3545,1601,2.00e-04,1 - one,Sandal
+3546,2340,2.00e-04,1 - one,Sandal
+3547,2936,2.00e-04,6 - six,Shirt
+3548,910,2.00e-04,9 - nine,Shirt
+3549,123,2.00e-04,1 - one,Sandal
+3550,554,2.00e-04,9 - nine,Trouser
+3551,143,2.00e-04,4 - four,Bag
+3552,1714,2.00e-04,8 - eight,T-shirt/top
+3553,2181,2.00e-04,4 - four,Sneaker
+3554,4660,2.00e-04,0 - zero,Coat
+3555,4787,2.00e-04,8 - eight,T-shirt/top
+3556,3014,2.00e-04,4 - four,Sneaker
+3557,284,2.00e-04,9 - nine,Shirt
+3558,2198,2.00e-04,9 - nine,Trouser
+3559,97,2.00e-04,6 - six,Shirt
+3560,1538,2.00e-04,4 - four,Shirt
+3561,781,2.00e-04,1 - one,Sandal
+3562,327,2.00e-04,4 - four,Bag
+3563,3989,2.00e-04,8 - eight,T-shirt/top
+3564,3446,2.00e-04,1 - one,Ankle boot
+3565,3057,2.00e-04,4 - four,Sandal
+3566,3300,2.00e-04,0 - zero,Coat
+3567,3513,2.00e-04,9 - nine,Shirt
+3568,3674,2.00e-04,1 - one,Sandal
+3569,4065,2.00e-04,4 - four,Sneaker
+3570,4662,2.00e-04,7 - seven,Shirt
+3571,2178,2.00e-04,5 - five,T-shirt/top
+3572,180,2.00e-04,9 - nine,Trouser
+3573,4640,2.00e-04,1 - one,Trouser
+3574,1522,2.00e-04,9 - nine,Shirt
+3575,137,2.00e-04,0 - zero,Coat
+3576,252,2.00e-04,2 - two,Ankle boot
+3577,3960,2.00e-04,8 - eight,T-shirt/top
+3578,1667,2.00e-04,1 - one,Sandal
+3579,3282,2.00e-04,6 - six,Shirt
+3580,3547,2.00e-04,4 - four,Shirt
+3581,1252,2.00e-04,4 - four,Sandal
+3582,1285,2.00e-04,0 - zero,Coat
+3583,2379,2.00e-04,9 - nine,Trouser
+3584,2069,2.00e-04,8 - eight,T-shirt/top
+3585,1565,2.00e-04,1 - one,Sandal
+3586,3006,2.00e-04,4 - four,Sneaker
+3587,77,2.00e-04,5 - five,Bag
+3588,2201,2.00e-04,0 - zero,Coat
+3589,3095,2.00e-04,0 - zero,Coat
+3590,1663,2.00e-04,7 - seven,Shirt
+3591,4897,2.00e-04,8 - eight,Dress
+3592,1577,2.00e-04,7 - seven,Shirt
+3593,219,2.00e-04,5 - five,Bag
+3594,2540,2.00e-04,1 - one,Sandal
+3595,1642,2.00e-04,3 - three,Ankle boot
+3596,1796,2.00e-04,4 - four,Sneaker
+3597,3629,2.00e-04,8 - eight,T-shirt/top
+3598,1427,2.00e-04,3 - three,Pullover
+3599,3861,2.00e-04,2 - two,Ankle boot
+3600,1191,2.00e-04,0 - zero,Coat
+3601,1354,2.00e-04,7 - seven,Shirt
+3602,435,2.00e-04,2 - two,Ankle boot
+3603,2126,2.00e-04,3 - three,Pullover
+3604,874,2.00e-04,4 - four,Bag
+3605,4758,2.00e-04,5 - five,Bag
+3606,3639,2.00e-04,3 - three,Pullover
+3607,1736,2.00e-04,2 - two,Ankle boot
+3608,4659,2.00e-04,1 - one,Sandal
+3609,455,2.00e-04,1 - one,Sneaker
+3610,1218,2.00e-04,6 - six,Bag
+3611,2800,2.00e-04,0 - zero,Coat
+3612,4950,2.00e-04,7 - seven,Shirt
+3613,1389,2.00e-04,4 - four,Sneaker
+3614,1478,2.00e-04,1 - one,Sandal
+3615,139,2.00e-04,1 - one,Sandal
+3616,1292,2.00e-04,8 - eight,T-shirt/top
+3617,2125,2.00e-04,7 - seven,T-shirt/top
+3618,3421,2.00e-04,9 - nine,Trouser
+3619,1979,2.00e-04,7 - seven,T-shirt/top
+3620,2263,2.00e-04,8 - eight,Dress
+3621,3373,2.00e-04,3 - three,Pullover
+3622,156,2.00e-04,1 - one,Sneaker
+3623,710,2.00e-04,4 - four,Sneaker
+3624,2659,2.00e-04,3 - three,Pullover
+3625,54,2.00e-04,9 - nine,Dress
+3626,2759,2.00e-04,0 - zero,Coat
+3627,1523,2.00e-04,1 - one,Sandal
+3628,4362,2.00e-04,6 - six,Shirt
+3629,3223,2.00e-04,1 - one,Sandal
+3630,3115,2.00e-04,1 - one,Sandal
+3631,4585,2.00e-04,2 - two,Ankle boot
+3632,943,2.00e-04,5 - five,Bag
+3633,3171,2.00e-04,4 - four,Sneaker
+3634,4989,2.00e-04,8 - eight,Dress
+3635,1431,2.00e-04,1 - one,Sandal
+3636,1138,2.00e-04,1 - one,Sneaker
+3637,1396,2.00e-04,7 - seven,T-shirt/top
+3638,4834,2.00e-04,1 - one,Sandal
+3639,3796,2.00e-04,5 - five,Bag
+3640,668,2.00e-04,3 - three,Pullover
+3641,4780,2.00e-04,8 - eight,Dress
+3642,4345,2.00e-04,5 - five,Bag
+3643,2079,2.00e-04,2 - two,Ankle boot
+3644,57,2.00e-04,1 - one,Sandal
+3645,4807,2.00e-04,9 - nine,Shirt
+3646,4644,2.00e-04,4 - four,Sandal
+3647,1696,2.00e-04,4 - four,Sneaker
+3648,3868,2.00e-04,4 - four,Pullover
+3649,2709,2.00e-04,8 - eight,Dress
+3650,2583,2.00e-04,4 - four,Bag
+3651,2164,2.00e-04,1 - one,Sandal
+3652,2791,2.00e-04,9 - nine,Trouser
+3653,4899,2.00e-04,7 - seven,T-shirt/top
+3654,1232,2.00e-04,5 - five,Sandal
+3655,1701,2.00e-04,1 - one,Dress
+3656,1381,2.00e-04,3 - three,Coat
+3657,1412,2.00e-04,4 - four,Sneaker
+3658,1750,2.00e-04,3 - three,Pullover
+3659,2635,2.00e-04,5 - five,Sandal
+3660,3059,2.00e-04,8 - eight,Pullover
+3661,2688,2.00e-04,4 - four,Sneaker
+3662,1338,2.00e-04,9 - nine,Trouser
+3663,1836,2.00e-04,5 - five,Bag
+3664,2846,2.00e-04,9 - nine,Trouser
+3665,479,2.00e-04,9 - nine,Trouser
+3666,3447,2.00e-04,2 - two,Ankle boot
+3667,486,2.00e-04,9 - nine,Dress
+3668,2380,2.00e-04,0 - zero,Coat
+3669,452,2.00e-04,2 - two,Ankle boot
+3670,2967,2.00e-04,8 - eight,T-shirt/top
+3671,533,2.00e-04,2 - two,Ankle boot
+3672,362,2.00e-04,1 - one,Sandal
+3673,2797,2.00e-04,2 - two,Ankle boot
+3674,3880,2.00e-04,8 - eight,Dress
+3675,4735,2.00e-04,4 - four,Sneaker
+3676,3026,2.00e-04,0 - zero,Coat
+3677,1083,2.00e-04,8 - eight,Ankle boot
+3678,4214,2.00e-04,8 - eight,T-shirt/top
+3679,3619,2.00e-04,7 - seven,Shirt
+3680,1705,2.00e-04,8 - eight,Pullover
+3681,2301,2.00e-04,8 - eight,Shirt
+3682,3587,2.00e-04,5 - five,Pullover
+3683,1771,2.00e-04,0 - zero,Bag
+3684,3089,2.00e-04,1 - one,Sandal
+3685,1458,2.00e-04,9 - nine,Trouser
+3686,1214,2.00e-04,2 - two,Ankle boot
+3687,2796,2.00e-04,9 - nine,Shirt
+3688,1812,2.00e-04,6 - six,Dress
+3689,971,2.00e-04,9 - nine,Trouser
+3690,3321,2.00e-04,9 - nine,Trouser
+3691,1053,2.00e-04,7 - seven,Shirt
+3692,2983,2.00e-04,1 - one,Sneaker
+3693,4710,2.00e-04,1 - one,Sandal
+3694,1682,2.00e-04,0 - zero,Coat
+3695,1441,2.00e-04,0 - zero,Coat
+3696,2718,2.00e-04,0 - zero,Coat
+3697,4883,2.00e-04,6 - six,Coat
+3698,3486,2.00e-04,6 - six,Dress
+3699,3327,2.00e-04,1 - one,Sandal
+3700,1570,2.00e-04,7 - seven,Shirt
+3701,560,2.00e-04,6 - six,Pullover
+3702,2312,2.00e-04,7 - seven,Sandal
+3703,3122,2.00e-04,2 - two,Ankle boot
+3704,866,2.00e-04,0 - zero,Coat
+3705,1284,2.00e-04,1 - one,Sneaker
+3706,2469,2.00e-04,4 - four,Sneaker
+3707,1312,2.00e-04,0 - zero,Coat
+3708,2381,2.00e-04,0 - zero,Pullover
+3709,2843,2.00e-04,9 - nine,Shirt
+3710,45,2.00e-04,2 - two,Ankle boot
+3711,3471,2.00e-04,0 - zero,Coat
+3712,4058,2.00e-04,0 - zero,Coat
+3713,3414,2.00e-04,6 - six,Coat
+3714,2150,2.00e-04,8 - eight,T-shirt/top
+3715,374,2.00e-04,2 - two,Ankle boot
+3716,1390,2.00e-04,5 - five,T-shirt/top
+3717,4466,2.00e-04,8 - eight,Dress
+3718,4073,2.00e-04,1 - one,Trouser
+3719,4088,2.00e-04,2 - two,Ankle boot
+3720,2769,2.00e-04,3 - three,Pullover
+3721,1087,2.00e-04,7 - seven,T-shirt/top
+3722,3983,2.00e-04,5 - five,T-shirt/top
+3723,4422,2.00e-04,8 - eight,Dress
+3724,340,2.00e-04,2 - two,Pullover
+3725,1190,2.00e-04,7 - seven,Shirt
+3726,470,2.00e-04,9 - nine,Shirt
+3727,1161,2.00e-04,1 - one,Sandal
+3728,2868,2.00e-04,9 - nine,Trouser
+3729,3997,2.00e-04,9 - nine,Trouser
+3730,3596,2.00e-04,0 - zero,Coat
+3731,1677,2.00e-04,1 - one,Sandal
+3732,2025,2.00e-04,7 - seven,Shirt
+3733,959,2.00e-04,0 - zero,Coat
+3734,3259,2.00e-04,2 - two,Ankle boot
+3735,1118,2.00e-04,8 - eight,Dress
+3736,2291,2.00e-04,7 - seven,Shirt
+3737,3392,2.00e-04,7 - seven,Shirt
+3738,4413,2.00e-04,3 - three,Pullover
+3739,2032,2.00e-04,0 - zero,Coat
+3740,2770,2.00e-04,8 - eight,Dress
+3741,3483,2.00e-04,6 - six,Shirt
+3742,1177,2.00e-04,5 - five,T-shirt/top
+3743,4721,2.00e-04,6 - six,Shirt
+3744,2071,2.00e-04,8 - eight,Dress
+3745,1491,2.00e-04,8 - eight,T-shirt/top
+3746,2958,2.00e-04,0 - zero,Coat
+3747,545,2.00e-04,5 - five,Sandal
+3748,975,2.00e-04,9 - nine,Trouser
+3749,4114,2.00e-04,8 - eight,T-shirt/top
+3750,3052,2.00e-04,8 - eight,Dress
+3751,2463,2.00e-04,5 - five,Bag
+3752,1433,2.00e-04,5 - five,Sandal
+3753,4410,2.00e-04,1 - one,Trouser
+3754,198,2.00e-04,1 - one,Sandal
+3755,4884,2.00e-04,5 - five,Ankle boot
+3756,3684,2.00e-04,7 - seven,T-shirt/top
+3757,1342,2.00e-04,2 - two,Bag
+3758,4521,2.00e-04,4 - four,Pullover
+3759,2511,2.00e-04,4 - four,Sneaker
+3760,2646,2.00e-04,1 - one,Trouser
+3761,4401,2.00e-04,8 - eight,Dress
+3762,1904,2.00e-04,6 - six,Coat
+3763,723,2.00e-04,9 - nine,Shirt
+3764,339,2.00e-04,5 - five,Shirt
+3765,4340,2.00e-04,0 - zero,Coat
+3766,1134,2.00e-04,8 - eight,Coat
+3767,658,2.00e-04,8 - eight,T-shirt/top
+3768,3512,2.00e-04,2 - two,Ankle boot
+3769,2182,2.00e-04,9 - nine,Trouser
+3770,4424,2.00e-04,9 - nine,Trouser
+3771,4279,2.00e-04,2 - two,Ankle boot
+3772,2601,2.00e-04,1 - one,Sandal
+3773,1938,2.00e-04,1 - one,Sandal
+3774,3993,2.00e-04,0 - zero,Coat
+3775,2186,2.00e-04,2 - two,Pullover
+3776,4809,2.00e-04,3 - three,Shirt
+3777,1999,2.00e-04,2 - two,Bag
+3778,3394,2.00e-04,0 - zero,Coat
+3779,3428,2.00e-04,0 - zero,Coat
+3780,3807,2.00e-04,9 - nine,Trouser
+3781,3775,2.00e-04,9 - nine,Trouser
+3782,1625,2.00e-04,4 - four,Sneaker
+3783,4752,2.00e-04,4 - four,Sneaker
+3784,2666,2.00e-04,1 - one,Trouser
+3785,1481,2.00e-04,5 - five,Pullover
+3786,4181,2.00e-04,6 - six,Shirt
+3787,1598,2.00e-04,6 - six,Shirt
+3788,2371,2.00e-04,9 - nine,Dress
+3789,306,2.00e-04,8 - eight,Dress
+3790,3837,2.00e-04,2 - two,Bag
+3791,2605,2.00e-04,7 - seven,Sandal
+3792,1451,2.00e-04,7 - seven,Shirt
+3793,2255,2.00e-04,1 - one,Sandal
+3794,1939,2.00e-04,7 - seven,Shirt
+3795,1374,2.00e-04,5 - five,Bag
+3796,634,2.00e-04,8 - eight,Dress
+3797,182,2.00e-04,8 - eight,Dress
+3798,3616,2.00e-04,4 - four,Sneaker
+3799,3950,2.00e-04,2 - two,Coat
+3800,1940,2.00e-04,3 - three,Dress
+3801,2548,2.00e-04,3 - three,Pullover
+3802,3986,2.00e-04,1 - one,Sandal
+3803,3846,2.00e-04,2 - two,Ankle boot
+3804,2399,2.00e-04,5 - five,Sandal
+3805,1400,2.00e-04,7 - seven,Shirt
+3806,3854,2.00e-04,5 - five,Sandal
+3807,2756,2.00e-04,9 - nine,Shirt
+3808,591,2.00e-04,4 - four,Sneaker
+3809,4049,2.00e-04,6 - six,Sandal
+3810,1259,2.00e-04,3 - three,Dress
+3811,3479,2.00e-04,4 - four,Sneaker
+3812,2333,2.00e-04,8 - eight,Dress
+3813,1749,2.00e-04,2 - two,Ankle boot
+3814,4289,2.00e-04,0 - zero,Coat
+3815,1037,2.00e-04,1 - one,Sandal
+3816,2738,2.00e-04,6 - six,Sandal
+3817,4694,2.00e-04,8 - eight,T-shirt/top
+3818,3608,2.00e-04,6 - six,Coat
+3819,3008,2.00e-04,1 - one,Sandal
+3820,4570,2.00e-04,8 - eight,T-shirt/top
+3821,2020,2.00e-04,7 - seven,Shirt
+3822,2155,2.00e-04,0 - zero,Pullover
+3823,169,2.00e-04,4 - four,Sneaker
+3824,37,2.00e-04,8 - eight,T-shirt/top
+3825,2350,2.00e-04,4 - four,Sneaker
+3826,3120,2.00e-04,3 - three,Pullover
+3827,3582,2.00e-04,6 - six,Pullover
+3828,1605,2.00e-04,5 - five,Bag
+3829,2026,2.00e-04,0 - zero,Coat
+3830,1265,2.00e-04,7 - seven,Shirt
+3831,2923,2.00e-04,9 - nine,Trouser
+3832,3291,2.00e-04,5 - five,Shirt
+3833,3035,2.00e-04,4 - four,Bag
+3834,3607,2.00e-04,2 - two,Bag
+3835,4419,2.00e-04,1 - one,Sandal
+3836,1908,2.00e-04,0 - zero,Pullover
+3837,1363,2.00e-04,9 - nine,Trouser
+3838,836,2.00e-04,7 - seven,T-shirt/top
+3839,1384,2.00e-04,3 - three,Shirt
+3840,1404,2.00e-04,9 - nine,Trouser
+3841,506,2.00e-04,7 - seven,T-shirt/top
+3842,1506,2.00e-04,1 - one,Sneaker
+3843,179,2.00e-04,3 - three,Pullover
+3844,1907,2.00e-04,0 - zero,Coat
+3845,236,2.00e-04,2 - two,Ankle boot
+3846,1539,2.00e-04,1 - one,Sneaker
+3847,4482,2.00e-04,0 - zero,Coat
+3848,2549,2.00e-04,4 - four,Sneaker
+3849,3708,2.00e-04,9 - nine,Dress
+3850,1818,2.00e-04,7 - seven,Sandal
+3851,92,2.00e-04,0 - zero,Coat
+3852,4293,2.00e-04,0 - zero,Coat
+3853,2199,2.00e-04,8 - eight,T-shirt/top
+3854,4713,2.00e-04,7 - seven,Shirt
+3855,1464,2.00e-04,1 - one,Trouser
+3856,4657,2.00e-04,1 - one,Ankle boot
+3857,338,2.00e-04,6 - six,Bag
+3858,1530,2.00e-04,2 - two,Ankle boot
+3859,3645,2.00e-04,4 - four,Sneaker
+3860,4736,2.00e-04,2 - two,Bag
+3861,2106,2.00e-04,0 - zero,Pullover
+3862,2046,2.00e-04,7 - seven,T-shirt/top
+3863,1559,2.00e-04,9 - nine,Trouser
+3864,274,2.00e-04,8 - eight,Dress
+3865,691,2.00e-04,6 - six,Shirt
+3866,4454,2.00e-04,4 - four,Sneaker
+3867,131,2.00e-04,2 - two,Ankle boot
+3868,2626,2.00e-04,3 - three,Dress
+3869,1066,2.00e-04,9 - nine,Trouser
+3870,4358,2.00e-04,4 - four,Sneaker
+3871,269,2.00e-04,3 - three,T-shirt/top
+3872,1084,2.00e-04,6 - six,Dress
+3873,2911,2.00e-04,2 - two,Bag
+3874,3359,2.00e-04,3 - three,Pullover
+3875,4508,2.00e-04,4 - four,Sneaker
+3876,453,2.00e-04,3 - three,Pullover
+3877,2574,2.00e-04,0 - zero,Coat
+3878,2523,2.00e-04,2 - two,Ankle boot
+3879,984,2.00e-04,5 - five,Bag
+3880,2128,2.00e-04,9 - nine,Trouser
+3881,3205,2.00e-04,9 - nine,Trouser
+3882,297,2.00e-04,8 - eight,Dress
+3883,4967,2.00e-04,6 - six,Bag
+3884,2258,2.00e-04,4 - four,Bag
+3885,312,2.00e-04,4 - four,Sneaker
+3886,2289,2.00e-04,0 - zero,Coat
+3887,3825,2.00e-04,0 - zero,Coat
+3888,3848,2.00e-04,4 - four,Sneaker
+3889,3759,2.00e-04,6 - six,Shirt
+3890,2120,2.00e-04,0 - zero,Coat
+3891,785,2.00e-04,7 - seven,Shirt
+3892,1093,2.00e-04,5 - five,Bag
+3893,4601,2.00e-04,3 - three,Pullover
+3894,2296,2.00e-04,1 - one,Sandal
+3895,209,2.00e-04,6 - six,Dress
+3896,1569,2.00e-04,5 - five,T-shirt/top
+3897,3326,2.00e-04,3 - three,Coat
+3898,247,2.00e-04,1 - one,Trouser
+3899,2799,2.00e-04,8 - eight,Pullover
+3900,4234,2.00e-04,7 - seven,Shirt
+3901,1794,2.00e-04,4 - four,Sneaker
+3902,2625,2.00e-04,2 - two,Coat
+3903,4894,2.00e-04,5 - five,Shirt
+3904,695,2.00e-04,1 - one,Sandal
+3905,2051,2.00e-04,3 - three,T-shirt/top
+3906,4853,2.00e-04,7 - seven,Trouser
+3907,4182,2.00e-04,9 - nine,Dress
+3908,679,2.00e-04,1 - one,Trouser
+3909,3907,2.00e-04,5 - five,Shirt
+3910,2579,2.00e-04,6 - six,Dress
+3911,3801,2.00e-04,2 - two,Ankle boot
+3912,2459,2.00e-04,8 - eight,T-shirt/top
+3913,3022,2.00e-04,9 - nine,Trouser
+3914,3658,2.00e-04,9 - nine,Trouser
+3915,503,2.00e-04,9 - nine,Trouser
+3916,1477,2.00e-04,1 - one,Sandal
+3917,2475,2.00e-04,9 - nine,Trouser
+3918,2266,2.00e-04,2 - two,Bag
+3919,692,2.00e-04,6 - six,Sneaker
+3920,651,2.00e-04,0 - zero,Coat
+3921,2013,2.00e-04,4 - four,Sneaker
+3922,3237,2.00e-04,7 - seven,Sandal
+3923,3546,2.00e-04,1 - one,Trouser
+3924,2839,2.00e-04,0 - zero,Coat
+3925,1661,2.00e-04,5 - five,Ankle boot
+3926,3893,2.00e-04,2 - two,Ankle boot
+3927,4313,2.00e-04,8 - eight,Dress
+3928,3448,2.00e-04,2 - two,Ankle boot
+3929,862,2.00e-04,0 - zero,Coat
+3930,4747,2.00e-04,4 - four,Sneaker
+3931,4849,2.00e-04,2 - two,Coat
+3932,4885,2.00e-04,6 - six,Bag
+3933,3332,2.00e-04,0 - zero,Coat
+3934,4138,2.00e-04,0 - zero,Coat
+3935,2158,2.00e-04,7 - seven,Trouser
+3936,3141,2.00e-04,9 - nine,Trouser
+3937,2366,2.00e-04,4 - four,Sneaker
+3938,546,2.00e-04,2 - two,Coat
+3939,2267,2.00e-04,6 - six,Bag
+3940,1325,2.00e-04,1 - one,Sandal
+3941,2241,2.00e-04,4 - four,Sandal
+3942,4683,2.00e-04,8 - eight,Dress
+3943,1604,2.00e-04,0 - zero,Coat
+3944,4350,2.00e-04,4 - four,Sneaker
+3945,4166,2.00e-04,5 - five,Shirt
+3946,1791,2.00e-04,3 - three,Dress
+3947,3919,2.00e-04,1 - one,Sneaker
+3948,59,2.00e-04,1 - one,Sandal
+3949,1377,2.00e-04,2 - two,Ankle boot
+3950,3219,2.00e-04,5 - five,Ankle boot
+3951,2169,2.00e-04,8 - eight,T-shirt/top
+3952,270,2.00e-04,6 - six,Dress
+3953,21,2.00e-04,9 - nine,Trouser
+3954,854,2.00e-04,1 - one,Sandal
+3955,3994,2.00e-04,4 - four,Bag
+3956,1366,2.00e-04,4 - four,Sneaker
+3957,2538,2.00e-04,5 - five,Bag
+3958,1655,2.00e-04,5 - five,Ankle boot
+3959,2170,2.00e-04,1 - one,Sneaker
+3960,1402,2.00e-04,4 - four,Shirt
+3961,955,2.00e-04,1 - one,Ankle boot
+3962,2945,2.00e-04,1 - one,Sandal
+3963,2830,2.00e-04,3 - three,Pullover
+3964,1349,2.00e-04,3 - three,Coat
+3965,1318,2.00e-04,7 - seven,Shirt
+3966,2768,2.00e-04,9 - nine,Trouser
+3967,2765,2.00e-04,8 - eight,T-shirt/top
+3968,1765,2.00e-04,0 - zero,Coat
+3969,986,2.00e-04,3 - three,Pullover
+3970,3353,2.00e-04,3 - three,Shirt
+3971,2218,2.00e-04,9 - nine,Shirt
+3972,208,2.00e-04,6 - six,Bag
+3973,598,2.00e-04,6 - six,Shirt
+3974,1283,2.00e-04,8 - eight,Dress
+3975,2452,2.00e-04,7 - seven,T-shirt/top
+3976,561,2.00e-04,4 - four,Sneaker
+3977,732,2.00e-04,6 - six,Shirt
+3978,774,2.00e-04,7 - seven,T-shirt/top
+3979,1051,2.00e-04,1 - one,Sandal
+3980,3458,2.00e-04,6 - six,Dress
+3981,2608,2.00e-04,8 - eight,T-shirt/top
+3982,3744,2.00e-04,9 - nine,Dress
+3983,484,2.00e-04,6 - six,Bag
+3984,1367,2.00e-04,5 - five,Ankle boot
+3985,4567,2.00e-04,8 - eight,Dress
+3986,1355,2.00e-04,6 - six,Sneaker
+3987,1119,2.00e-04,3 - three,Pullover
+3988,1480,2.00e-04,3 - three,Pullover
+3989,1268,2.00e-04,3 - three,Pullover
+3990,4143,2.00e-04,2 - two,Coat
+3991,653,2.00e-04,1 - one,Sneaker
+3992,3137,2.00e-04,5 - five,Shirt
+3993,1443,2.00e-04,9 - nine,Trouser
+3994,1287,2.00e-04,2 - two,Ankle boot
+3995,4955,2.00e-04,2 - two,Bag
+3996,2049,2.00e-04,1 - one,Sneaker
+3997,2950,2.00e-04,3 - three,Pullover
+3998,757,2.00e-04,4 - four,Sneaker
+3999,1587,2.00e-04,0 - zero,Coat
+4000,4038,2.00e-04,8 - eight,Dress
+4001,36,2.00e-04,4 - four,Sneaker
+4002,2803,2.00e-04,5 - five,Bag
+4003,2238,2.00e-04,4 - four,Sneaker
+4004,929,2.00e-04,3 - three,Dress
+4005,2157,2.00e-04,4 - four,Sneaker
+4006,1294,2.00e-04,5 - five,T-shirt/top
+4007,1805,2.00e-04,3 - three,Dress
+4008,145,2.00e-04,7 - seven,Trouser
+4009,1610,2.00e-04,2 - two,Pullover
+4010,3325,2.00e-04,0 - zero,Coat
+4011,1151,2.00e-04,8 - eight,Dress
+4012,1327,2.00e-04,7 - seven,Shirt
+4013,98,2.00e-04,5 - five,Bag
+4014,1351,2.00e-04,1 - one,Trouser
+4015,1728,2.00e-04,7 - seven,Shirt
+4016,2555,2.00e-04,2 - two,Ankle boot
+4017,3555,2.00e-04,2 - two,Ankle boot
+4018,939,2.00e-04,4 - four,Sneaker
+4019,3357,2.00e-04,9 - nine,Trouser
+4020,4244,2.00e-04,1 - one,Sandal
+4021,1194,2.00e-04,7 - seven,Shirt
+4022,4393,2.00e-04,4 - four,Sneaker
+4023,3903,2.00e-04,2 - two,Ankle boot
+4024,1291,2.00e-04,6 - six,Dress
+4025,345,2.00e-04,4 - four,Bag
+4026,2029,2.00e-04,9 - nine,Trouser
+4027,3010,2.00e-04,2 - two,Ankle boot
+4028,3656,2.00e-04,6 - six,Dress
+4029,15,2.00e-04,5 - five,Sandal
+4030,1364,2.00e-04,2 - two,Ankle boot
+4031,4127,2.00e-04,4 - four,Sneaker
+4032,1021,2.00e-04,7 - seven,T-shirt/top
+4033,1385,2.00e-04,4 - four,Sneaker
+4034,1045,2.00e-04,6 - six,Dress
+4035,2024,2.00e-04,2 - two,Ankle boot
+4036,2609,2.00e-04,7 - seven,T-shirt/top
+4037,3864,2.00e-04,6 - six,T-shirt/top
+4038,927,2.00e-04,8 - eight,T-shirt/top
+4039,113,2.00e-04,6 - six,Dress
+4040,908,2.00e-04,4 - four,Shirt
+4041,3953,2.00e-04,9 - nine,Trouser
+4042,1817,2.00e-04,8 - eight,T-shirt/top
+4043,3405,2.00e-04,5 - five,T-shirt/top
+4044,3771,2.00e-04,4 - four,Sneaker
+4045,3980,2.00e-04,9 - nine,Trouser
+4046,2836,2.00e-04,6 - six,Shirt
+4047,1630,2.00e-04,7 - seven,T-shirt/top
+4048,4010,2.00e-04,9 - nine,Trouser
+4049,1469,2.00e-04,7 - seven,Shirt
+4050,1193,2.00e-04,7 - seven,Trouser
+4051,3094,2.00e-04,2 - two,Bag
+4052,184,2.00e-04,1 - one,Sneaker
+4053,3671,2.00e-04,6 - six,Bag
+4054,4768,2.00e-04,4 - four,Bag
+4055,1541,2.00e-04,9 - nine,Trouser
+4056,1379,2.00e-04,6 - six,Bag
+4057,3150,2.00e-04,4 - four,Sneaker
+4058,956,2.00e-04,3 - three,Pullover
+4059,1336,2.00e-04,8 - eight,Coat
+4060,1274,2.00e-04,8 - eight,T-shirt/top
+4061,3872,2.00e-04,6 - six,Bag
+4062,970,2.00e-04,8 - eight,T-shirt/top
+4063,2062,2.00e-04,6 - six,Shirt
+4064,3436,2.00e-04,6 - six,Bag
+4065,3593,2.00e-04,9 - nine,Trouser
+4066,4046,2.00e-04,0 - zero,Coat
+4067,2992,2.00e-04,4 - four,Sneaker
+4068,3396,2.00e-04,4 - four,Sneaker
+4069,1243,2.00e-04,1 - one,Sneaker
+4070,2970,2.00e-04,0 - zero,Coat
+4071,390,2.00e-04,3 - three,Shirt
+4072,164,2.00e-04,2 - two,Ankle boot
+4073,4356,2.00e-04,5 - five,Sandal
+4074,3251,2.00e-04,4 - four,Bag
+4075,744,2.00e-04,6 - six,Dress
+4076,3599,2.00e-04,1 - one,Sandal
+4077,1746,2.00e-04,6 - six,Bag
+4078,2280,2.00e-04,4 - four,Sneaker
+4079,471,2.00e-04,7 - seven,T-shirt/top
+4080,1497,2.00e-04,2 - two,Ankle boot
+4081,4436,2.00e-04,8 - eight,T-shirt/top
+4082,818,2.00e-04,2 - two,Coat
+4083,4597,2.00e-04,2 - two,Ankle boot
+4084,386,2.00e-04,4 - four,Sneaker
+4085,1542,2.00e-04,9 - nine,Dress
+4086,4561,2.00e-04,4 - four,Sneaker
+4087,3937,2.00e-04,5 - five,Bag
+4088,1309,2.00e-04,7 - seven,Shirt
+4089,4599,2.00e-04,6 - six,Pullover
+4090,3834,2.00e-04,2 - two,Ankle boot
+4091,4620,2.00e-04,2 - two,Bag
+4092,2742,2.00e-04,7 - seven,T-shirt/top
+4093,4079,2.00e-04,4 - four,Bag
+4094,2328,2.00e-04,3 - three,Pullover
+4095,2554,2.00e-04,2 - two,Ankle boot
+4096,110,2.00e-04,2 - two,Ankle boot
+4097,3573,2.00e-04,3 - three,T-shirt/top
+4098,1905,2.00e-04,8 - eight,T-shirt/top
+4099,100,2.00e-04,5 - five,Bag
+4100,1187,2.00e-04,6 - six,Shirt
+4101,4612,2.00e-04,0 - zero,Coat
+4102,3000,2.00e-04,5 - five,Bag
+4103,4879,2.00e-04,1 - one,Sandal
+4104,4896,2.00e-04,0 - zero,Coat
+4105,2448,2.00e-04,3 - three,Pullover
+4106,4075,2.00e-04,9 - nine,Dress
+4107,1273,2.00e-04,7 - seven,T-shirt/top
+4108,446,2.00e-04,3 - three,Dress
+4109,2011,2.00e-04,3 - three,Pullover
+4110,1250,2.00e-04,3 - three,T-shirt/top
+4111,2332,2.00e-04,8 - eight,T-shirt/top
+4112,1048,2.00e-04,6 - six,Bag
+4113,555,2.00e-04,3 - three,T-shirt/top
+4114,855,2.00e-04,8 - eight,Dress
+4115,1583,2.00e-04,1 - one,Sandal
+4116,2930,2.00e-04,5 - five,Bag
+4117,405,2.00e-04,5 - five,Sandal
+4118,1090,2.00e-04,1 - one,Sandal
+4119,3620,2.00e-04,2 - two,Bag
+4120,2402,2.00e-04,2 - two,Ankle boot
+4121,2748,2.00e-04,2 - two,Ankle boot
+4122,4831,2.00e-04,1 - one,Sandal
+4123,1102,2.00e-04,7 - seven,Sandal
+4124,608,2.00e-04,6 - six,Pullover
+4125,133,2.00e-04,0 - zero,Coat
+4126,3524,2.00e-04,5 - five,T-shirt/top
+4127,1428,2.00e-04,0 - zero,Pullover
+4128,3713,2.00e-04,8 - eight,T-shirt/top
+4129,1711,2.00e-04,3 - three,Coat
+4130,1149,2.00e-04,3 - three,Coat
+4131,998,2.00e-04,8 - eight,T-shirt/top
+4132,2162,2.00e-04,1 - one,Sandal
+4133,1537,2.00e-04,4 - four,Sneaker
+4134,4562,2.00e-04,5 - five,Sandal
+4135,1251,2.00e-04,7 - seven,T-shirt/top
+4136,4997,2.00e-04,6 - six,Shirt
+4137,1370,2.00e-04,4 - four,Sneaker
+4138,1055,2.00e-04,5 - five,T-shirt/top
+4139,1531,2.00e-04,7 - seven,T-shirt/top
+4140,895,2.00e-04,4 - four,Sneaker
+4141,2102,2.00e-04,5 - five,Shirt
+4142,2808,2.00e-04,1 - one,Sandal
+4143,2492,2.00e-04,5 - five,Bag
+4144,2373,2.00e-04,5 - five,Bag
+4145,4837,2.00e-04,8 - eight,Pullover
+4146,1300,2.00e-04,5 - five,Bag
+4147,2133,2.00e-04,7 - seven,T-shirt/top
+4148,883,2.00e-04,0 - zero,Coat
+4149,4122,2.00e-04,9 - nine,Trouser
+4150,3004,2.00e-04,5 - five,Shirt
+4151,2262,2.00e-04,7 - seven,Trouser
+4152,1372,2.00e-04,1 - one,Sandal
+4153,4760,2.00e-04,7 - seven,T-shirt/top
+4154,575,2.00e-04,1 - one,Sandal
+4155,865,2.00e-04,3 - three,Pullover
+4156,415,2.00e-04,6 - six,Bag
+4157,1301,2.00e-04,4 - four,Bag
+4158,3628,2.00e-04,6 - six,Bag
+4159,2771,2.00e-04,0 - zero,Coat
+4160,4800,2.00e-04,1 - one,Sneaker
+4161,1043,2.00e-04,9 - nine,Trouser
+4162,661,2.00e-04,3 - three,Dress
+4163,715,2.00e-04,7 - seven,Trouser
+4164,4554,2.00e-04,6 - six,Shirt
+4165,3653,2.00e-04,9 - nine,Trouser
+4166,3998,2.00e-04,0 - zero,Coat
+4167,1302,2.00e-04,4 - four,Sneaker
+4168,4930,2.00e-04,6 - six,Bag
+4169,1798,2.00e-04,8 - eight,T-shirt/top
+4170,445,2.00e-04,1 - one,Sandal
+4171,1175,2.00e-04,0 - zero,Coat
+4172,2353,2.00e-04,1 - one,Sandal
+4173,897,2.00e-04,1 - one,Trouser
+4174,1543,2.00e-04,6 - six,Shirt
+4175,178,2.00e-04,0 - zero,Coat
+4176,3703,2.00e-04,3 - three,Pullover
+4177,977,2.00e-04,8 - eight,T-shirt/top
+4178,1368,2.00e-04,7 - seven,Shirt
+4179,4668,2.00e-04,4 - four,Sneaker
+4180,1653,2.00e-04,6 - six,Shirt
+4181,2996,2.00e-04,4 - four,Sneaker
+4182,4946,2.00e-04,0 - zero,Coat
+4183,1148,2.00e-04,6 - six,Dress
+4184,819,2.00e-04,1 - one,Sandal
+4185,863,2.00e-04,0 - zero,Coat
+4186,2208,2.00e-04,6 - six,Sneaker
+4187,318,2.00e-04,4 - four,Bag
+4188,287,2.00e-04,1 - one,Sandal
+4189,4085,2.00e-04,2 - two,Ankle boot
+4190,4256,2.00e-04,9 - nine,Dress
+4191,989,2.00e-04,6 - six,Dress
+4192,4132,2.00e-04,7 - seven,Shirt
+4193,3001,2.00e-04,3 - three,Coat
+4194,4995,2.00e-04,9 - nine,Trouser
+4195,2147,2.00e-04,9 - nine,Shirt
+4196,2138,2.00e-04,3 - three,T-shirt/top
+4197,3556,2.00e-04,6 - six,Pullover
+4198,522,2.00e-04,8 - eight,T-shirt/top
+4199,4169,2.00e-04,1 - one,Trouser
+4200,2737,2.00e-04,4 - four,Sneaker
+4201,1988,2.00e-04,2 - two,Ankle boot
+4202,4532,2.00e-04,3 - three,Shirt
+4203,1948,2.00e-04,1 - one,Trouser
+4204,4383,2.00e-04,4 - four,Sandal
+4205,3334,2.00e-04,7 - seven,Sandal
+4206,1713,2.00e-04,4 - four,Sneaker
+4207,2195,2.00e-04,8 - eight,Dress
+4208,1357,2.00e-04,5 - five,Bag
+4209,882,2.00e-04,7 - seven,T-shirt/top
+4210,4457,2.00e-04,3 - three,Dress
+4211,748,2.00e-04,5 - five,Shirt
+4212,3732,2.00e-04,4 - four,Sneaker
+4213,4274,2.00e-04,5 - five,T-shirt/top
+4214,730,2.00e-04,0 - zero,Coat
+4215,830,2.00e-04,0 - zero,Coat
+4216,1866,2.00e-04,0 - zero,Coat
+4217,951,2.00e-04,6 - six,Pullover
+4218,2206,2.00e-04,8 - eight,T-shirt/top
+4219,3243,2.00e-04,9 - nine,Trouser
+4220,4171,2.00e-04,9 - nine,Trouser
+4221,2591,2.00e-04,2 - two,Coat
+4222,1804,2.00e-04,0 - zero,Coat
+4223,1059,2.00e-04,4 - four,Sneaker
+4224,1607,2.00e-04,2 - two,Ankle boot
+4225,1146,2.00e-04,5 - five,T-shirt/top
+4226,1068,2.00e-04,7 - seven,Shirt
+4227,1079,2.00e-04,7 - seven,T-shirt/top
+4228,747,2.00e-04,9 - nine,Trouser
+4229,2015,2.00e-04,4 - four,Sneaker
+4230,2519,2.00e-04,7 - seven,T-shirt/top
+4231,1013,2.00e-04,7 - seven,Trouser
+4232,1275,2.00e-04,8 - eight,Dress
+4233,3830,2.00e-04,9 - nine,Shirt
+4234,4650,2.00e-04,1 - one,Dress
+4235,1886,2.00e-04,7 - seven,T-shirt/top
+4236,1130,2.00e-04,1 - one,Trouser
+4237,2561,2.00e-04,5 - five,Bag
+4238,980,2.00e-04,5 - five,Bag
+4239,2286,2.00e-04,1 - one,Trouser
+4240,2557,2.00e-04,5 - five,Bag
+4241,1071,2.00e-04,1 - one,Ankle boot
+4242,3042,2.00e-04,7 - seven,Shirt
+4243,1337,2.00e-04,1 - one,Sandal
+4244,964,2.00e-04,7 - seven,T-shirt/top
+4245,3032,2.00e-04,8 - eight,T-shirt/top
+4246,3518,2.00e-04,8 - eight,T-shirt/top
+4247,4765,2.00e-04,2 - two,Ankle boot
+4248,705,2.00e-04,1 - one,Trouser
+4249,1896,2.00e-04,4 - four,Sneaker
+4250,2871,2.00e-04,8 - eight,Dress
+4251,2918,2.00e-04,6 - six,Bag
+4252,2180,2.00e-04,2 - two,Ankle boot
+4253,3204,2.00e-04,7 - seven,Shirt
+4254,1091,2.00e-04,4 - four,Sneaker
+4255,1786,2.00e-04,2 - two,Ankle boot
+4256,759,2.00e-04,9 - nine,Trouser
+4257,4369,2.00e-04,8 - eight,Dress
+4258,2595,2.00e-04,9 - nine,Trouser
+4259,805,2.00e-04,7 - seven,Shirt
+4260,1107,2.00e-04,4 - four,Sneaker
+4261,3088,2.00e-04,3 - three,Ankle boot
+4262,1910,2.00e-04,3 - three,Pullover
+4263,456,2.00e-04,4 - four,Sneaker
+4264,789,2.00e-04,3 - three,Ankle boot
+4265,4869,2.00e-04,2 - two,Ankle boot
+4266,4186,2.00e-04,9 - nine,Trouser
+4267,2279,2.00e-04,3 - three,Shirt
+4268,1122,2.00e-04,2 - two,Bag
+4269,1463,2.00e-04,4 - four,Shirt
+4270,3037,2.00e-04,4 - four,Shirt
+4271,2008,2.00e-04,8 - eight,Ankle boot
+4272,1204,2.00e-04,4 - four,Sneaker
+4273,1116,2.00e-04,7 - seven,T-shirt/top
+4274,1807,2.00e-04,6 - six,Bag
+4275,979,2.00e-04,6 - six,Shirt
+4276,2501,2.00e-04,7 - seven,T-shirt/top
+4277,1234,2.00e-04,5 - five,Bag
+4278,2390,2.00e-04,6 - six,Bag
+4279,721,2.00e-04,7 - seven,T-shirt/top
+4280,1185,2.00e-04,4 - four,Sneaker
+4281,870,2.00e-04,9 - nine,Trouser
+4282,4560,2.00e-04,1 - one,Trouser
+4283,3191,2.00e-04,4 - four,Sneaker
+4284,1303,2.00e-04,1 - one,Sneaker
+4285,3231,2.00e-04,1 - one,Sandal
+4286,84,2.00e-04,6 - six,Shirt
+4287,2587,2.00e-04,3 - three,Pullover
+4288,616,2.00e-04,9 - nine,Trouser
+4289,442,2.00e-04,7 - seven,T-shirt/top
+4290,3432,2.00e-04,8 - eight,Dress
+4291,321,2.00e-04,6 - six,Coat
+4292,3053,2.00e-04,5 - five,T-shirt/top
+4293,1494,2.00e-04,3 - three,Pullover
+4294,4766,2.00e-04,9 - nine,Trouser
+4295,875,2.00e-04,1 - one,Sandal
+4296,3104,2.00e-04,3 - three,Coat
+4297,260,2.00e-04,8 - eight,T-shirt/top
+4298,845,2.00e-04,2 - two,Ankle boot
+4299,2442,2.00e-04,6 - six,Sneaker
+4300,2450,2.00e-04,2 - two,Ankle boot
+4301,3170,2.00e-04,8 - eight,Dress
+4302,1179,2.00e-04,8 - eight,T-shirt/top
+4303,4978,2.00e-04,2 - two,Ankle boot
+4304,3810,2.00e-04,2 - two,Ankle boot
+4305,2177,2.00e-04,4 - four,Sneaker
+4306,79,2.00e-04,1 - one,Sandal
+4307,1183,2.00e-04,9 - nine,Shirt
+4308,667,2.00e-04,2 - two,Ankle boot
+4309,4867,2.00e-04,6 - six,Shirt
+4310,1508,2.00e-04,6 - six,Dress
+4311,1233,2.00e-04,9 - nine,Dress
+4312,1030,2.00e-04,3 - three,Ankle boot
+4313,215,2.00e-04,1 - one,Sneaker
+4314,4718,2.00e-04,6 - six,Dress
+4315,706,2.00e-04,2 - two,Ankle boot
+4316,1406,2.00e-04,9 - nine,Trouser
+4317,1047,2.00e-04,8 - eight,Trouser
+4318,2673,2.00e-04,7 - seven,Trouser
+4319,4833,2.00e-04,1 - one,Sandal
+4320,1517,2.00e-04,5 - five,Shirt
+4321,3750,2.00e-04,2 - two,Bag
+4322,4380,2.00e-04,3 - three,Pullover
+4323,1603,2.00e-04,6 - six,Shirt
+4324,996,2.00e-04,8 - eight,Dress
+4325,2981,2.00e-04,0 - zero,Coat
+4326,2449,2.00e-04,3 - three,Dress
+4327,4461,2.00e-04,9 - nine,Trouser
+4328,4284,2.00e-04,8 - eight,T-shirt/top
+4329,4848,2.00e-04,2 - two,Bag
+4330,2487,2.00e-04,3 - three,T-shirt/top
+4331,4669,2.00e-04,5 - five,Shirt
+4332,1017,2.00e-04,6 - six,Coat
+4333,233,2.00e-04,9 - nine,Dress
+4334,1196,2.00e-04,2 - two,Ankle boot
+4335,1445,2.00e-04,4 - four,Sneaker
+4336,2576,2.00e-04,2 - two,Ankle boot
+4337,3,2.00e-04,6 - six,Dress
+4338,488,2.00e-04,0 - zero,Pullover
+4339,3477,2.00e-04,2 - two,Ankle boot
+4340,716,2.00e-04,9 - nine,Shirt
+4341,3696,2.00e-04,6 - six,Bag
+4342,2094,2.00e-04,0 - zero,Coat
+4343,4927,2.00e-04,0 - zero,Coat
+4344,257,2.00e-04,2 - two,Ankle boot
+4345,3945,2.00e-04,6 - six,Sneaker
+4346,746,2.00e-04,9 - nine,Shirt
+4347,590,2.00e-04,9 - nine,Shirt
+4348,3773,2.00e-04,6 - six,Shirt
+4349,4472,2.00e-04,3 - three,Pullover
+4350,2478,2.00e-04,6 - six,Dress
+4351,4209,2.00e-04,1 - one,Sandal
+4352,1697,2.00e-04,5 - five,Bag
+4353,1502,2.00e-04,5 - five,T-shirt/top
+4354,3224,2.00e-04,9 - nine,Trouser
+4355,3049,2.00e-04,2 - two,Ankle boot
+4356,4772,2.00e-04,4 - four,Sneaker
+4357,1900,2.00e-04,8 - eight,T-shirt/top
+4358,3478,2.00e-04,0 - zero,Coat
+4359,973,2.00e-04,2 - two,Coat
+4360,696,2.00e-04,1 - one,Sneaker
+4361,3195,2.00e-04,6 - six,Shirt
+4362,643,2.00e-04,2 - two,Ankle boot
+4363,2396,2.00e-04,6 - six,Dress
+4364,2960,2.00e-04,0 - zero,Pullover
+4365,3409,2.00e-04,1 - one,Trouser
+4366,2143,2.00e-04,0 - zero,Coat
+4367,821,2.00e-04,7 - seven,Trouser
+4368,3681,2.00e-04,2 - two,Ankle boot
+4369,2308,2.00e-04,1 - one,Sandal
+4370,1967,2.00e-04,6 - six,Bag
+4371,3970,2.00e-04,6 - six,Bag
+4372,116,2.00e-04,1 - one,Sandal
+4373,1085,2.00e-04,2 - two,Ankle boot
+4374,853,2.00e-04,9 - nine,Trouser
+4375,3346,2.00e-04,3 - three,T-shirt/top
+4376,2925,2.00e-04,8 - eight,Dress
+4377,709,2.00e-04,2 - two,Ankle boot
+4378,556,2.00e-04,8 - eight,T-shirt/top
+4379,3627,2.00e-04,0 - zero,Coat
+4380,4337,2.00e-04,0 - zero,Coat
+4381,1961,2.00e-04,5 - five,Bag
+4382,2076,2.00e-04,4 - four,Bag
+4383,382,2.00e-04,2 - two,Ankle boot
+4384,764,2.00e-04,6 - six,Dress
+4385,4031,2.00e-04,7 - seven,Trouser
+4386,936,2.00e-04,3 - three,Pullover
+4387,1778,2.00e-04,0 - zero,Pullover
+4388,2831,2.00e-04,8 - eight,Dress
+4389,3867,2.00e-04,7 - seven,Shirt
+4390,1834,2.00e-04,7 - seven,Shirt
+4391,2704,2.00e-04,1 - one,Sandal
+4392,1360,2.00e-04,3 - three,Pullover
+4393,3272,2.00e-04,8 - eight,Ankle boot
+4394,1787,2.00e-04,6 - six,Dress
+4395,719,2.00e-04,7 - seven,Shirt
+4396,4007,2.00e-04,3 - three,Pullover
+4397,454,2.00e-04,1 - one,Trouser
+4398,1529,2.00e-04,1 - one,Sandal
+4399,2963,2.00e-04,8 - eight,T-shirt/top
+4400,4854,2.00e-04,2 - two,Ankle boot
+4401,3972,2.00e-04,4 - four,Bag
+4402,1244,2.00e-04,1 - one,Sneaker
+4403,2037,2.00e-04,5 - five,Bag
+4404,1454,2.00e-04,6 - six,Shirt
+4405,899,2.00e-04,7 - seven,Trouser
+4406,4420,2.00e-04,6 - six,Bag
+4407,626,2.00e-04,7 - seven,T-shirt/top
+4408,75,2.00e-04,7 - seven,Shirt
+4409,842,2.00e-04,0 - zero,Pullover
+4410,2838,2.00e-04,1 - one,Trouser
+4411,3102,2.00e-04,6 - six,Shirt
+4412,2493,2.00e-04,2 - two,Pullover
+4413,1788,2.00e-04,9 - nine,Dress
+4414,769,2.00e-04,2 - two,Coat
+4415,181,2.00e-04,1 - one,Sneaker
+4416,1092,2.00e-04,9 - nine,Shirt
+4417,4499,2.00e-04,0 - zero,Coat
+4418,731,2.00e-04,1 - one,Trouser
+4419,3649,2.00e-04,5 - five,Shirt
+4420,3368,2.00e-04,3 - three,Coat
+4421,917,2.00e-04,4 - four,Sneaker
+4422,2907,2.00e-04,4 - four,Sneaker
+4423,1490,2.00e-04,9 - nine,Dress
+4424,4815,2.00e-04,7 - seven,T-shirt/top
+4425,4097,2.00e-04,0 - zero,Coat
+4426,792,2.00e-04,8 - eight,T-shirt/top
+4427,562,2.00e-04,9 - nine,Trouser
+4428,2547,2.00e-04,6 - six,Shirt
+4429,1513,2.00e-04,4 - four,Sneaker
+4430,357,2.00e-04,7 - seven,Shirt
+4431,72,2.00e-04,0 - zero,Coat
+4432,2231,2.00e-04,7 - seven,Sandal
+4433,259,2.00e-04,5 - five,Ankle boot
+4434,373,2.00e-04,9 - nine,Trouser
+4435,4480,2.00e-04,4 - four,Sneaker
+4436,4269,2.00e-04,3 - three,T-shirt/top
+4437,353,2.00e-04,8 - eight,T-shirt/top
+4438,569,2.00e-04,8 - eight,T-shirt/top
+4439,1676,2.00e-04,0 - zero,Coat
+4440,728,2.00e-04,1 - one,Trouser
+4441,2095,2.00e-04,6 - six,Pullover
+4442,3152,2.00e-04,8 - eight,T-shirt/top
+4443,2611,2.00e-04,3 - three,Shirt
+4444,4476,2.00e-04,0 - zero,Coat
+4445,1588,2.00e-04,3 - three,Pullover
+4446,4642,2.00e-04,5 - five,T-shirt/top
+4447,4579,2.00e-04,6 - six,Bag
+4448,4744,2.00e-04,9 - nine,Trouser
+4449,4774,2.00e-04,1 - one,Sandal
+4450,829,2.00e-04,5 - five,Bag
+4451,2230,2.00e-04,4 - four,Shirt
+4452,4264,2.00e-04,0 - zero,Coat
+4453,3991,2.00e-04,1 - one,Sandal
+4454,881,2.00e-04,0 - zero,Coat
+4455,2814,2.00e-04,3 - three,T-shirt/top
+4456,4959,2.00e-04,6 - six,Sneaker
+4457,3982,2.00e-04,4 - four,Sneaker
+4458,3211,2.00e-04,6 - six,Pullover
+4459,4020,2.00e-04,8 - eight,T-shirt/top
+4460,1855,2.00e-04,7 - seven,T-shirt/top
+4461,2496,2.00e-04,7 - seven,Shirt
+4462,1998,2.00e-04,8 - eight,Dress
+4463,1887,2.00e-04,2 - two,Ankle boot
+4464,532,2.00e-04,7 - seven,Shirt
+4465,150,2.00e-04,0 - zero,Coat
+4466,1169,2.00e-04,2 - two,Ankle boot
+4467,4697,2.00e-04,2 - two,Ankle boot
+4468,3525,2.00e-04,4 - four,Sneaker
+4469,1898,2.00e-04,7 - seven,Trouser
+4470,949,2.00e-04,7 - seven,T-shirt/top
+4471,4788,2.00e-04,8 - eight,T-shirt/top
+4472,4571,2.00e-04,0 - zero,Coat
+4473,2755,2.00e-04,4 - four,Sneaker
+4474,1114,2.00e-04,9 - nine,Dress
+4475,713,2.00e-04,3 - three,Pullover
+4476,2662,2.00e-04,1 - one,Sandal
+4477,1474,2.00e-04,6 - six,Shirt
+4478,4247,2.00e-04,8 - eight,Dress
+4479,3817,2.00e-04,4 - four,Sneaker
+4480,2642,2.00e-04,8 - eight,Dress
+4481,1197,2.00e-04,1 - one,Sandal
+4482,1308,2.00e-04,3 - three,T-shirt/top
+4483,444,2.00e-04,2 - two,Ankle boot
+4484,969,2.00e-04,2 - two,Ankle boot
+4485,1546,2.00e-04,5 - five,Bag
+4486,3411,2.00e-04,6 - six,Bag
+4487,222,2.00e-04,4 - four,Sneaker
+4488,4771,2.00e-04,3 - three,Pullover
+4489,3592,2.00e-04,3 - three,Pullover
+4490,3350,2.00e-04,7 - seven,T-shirt/top
+4491,2090,2.00e-04,1 - one,Sandal
+4492,737,2.00e-04,1 - one,Sandal
+4493,2440,2.00e-04,8 - eight,T-shirt/top
+4494,511,2.00e-04,9 - nine,Trouser
+4495,3544,2.00e-04,5 - five,Sandal
+4496,873,2.00e-04,9 - nine,Trouser
+4497,4200,2.00e-04,9 - nine,Trouser
+4498,4219,2.00e-04,4 - four,Sneaker
+4499,1124,2.00e-04,4 - four,Sneaker
+4500,425,2.00e-04,4 - four,Sneaker
+4501,3292,2.00e-04,5 - five,Bag
+4502,3702,2.00e-04,1 - one,Sandal
+4503,644,2.00e-04,1 - one,Sandal
+4504,808,2.00e-04,3 - three,Coat
+4505,1141,2.00e-04,6 - six,Shirt
+4506,3374,2.00e-04,0 - zero,Coat
+4507,1518,2.00e-04,9 - nine,Trouser
+4508,3910,2.00e-04,2 - two,Ankle boot
+4509,760,2.00e-04,8 - eight,Dress
+4510,4803,2.00e-04,8 - eight,Dress
+4511,914,2.00e-04,1 - one,Dress
+4512,1288,2.00e-04,4 - four,Sneaker
+4513,1591,2.00e-04,1 - one,Trouser
+4514,742,2.00e-04,8 - eight,Dress
+4515,521,2.00e-04,7 - seven,T-shirt/top
+4516,1652,2.00e-04,3 - three,Pullover
+4517,1606,2.00e-04,5 - five,T-shirt/top
+4518,361,2.00e-04,2 - two,Ankle boot
+4519,1859,2.00e-04,0 - zero,Pullover
+4520,4938,2.00e-04,4 - four,Sneaker
+4521,3522,2.00e-04,8 - eight,Dress
+4522,31,2.00e-04,3 - three,Pullover
+4523,3539,2.00e-04,8 - eight,Dress
+4524,1231,2.00e-04,2 - two,Bag
+4525,2888,2.00e-04,9 - nine,Trouser
+4526,1240,2.00e-04,2 - two,Bag
+4527,3262,2.00e-04,2 - two,Bag
+4528,804,2.00e-04,3 - three,Trouser
+4529,3124,2.00e-04,8 - eight,Dress
+4530,1724,2.00e-04,1 - one,Trouser
+4531,1838,2.00e-04,9 - nine,Trouser
+4532,2293,2.00e-04,2 - two,Coat
+4533,665,2.00e-04,6 - six,Bag
+4534,2091,2.00e-04,1 - one,Sandal
+4535,904,2.00e-04,8 - eight,Dress
+4536,1200,2.00e-04,8 - eight,Dress
+4537,4898,2.00e-04,4 - four,Bag
+4538,3814,2.00e-04,6 - six,Dress
+4539,206,2.00e-04,5 - five,Sandal
+4540,4812,2.00e-04,6 - six,Dress
+4541,611,2.00e-04,6 - six,Bag
+4542,424,2.00e-04,5 - five,Shirt
+4543,2447,2.00e-04,9 - nine,Dress
+4544,1692,2.00e-04,0 - zero,Coat
+4545,4220,2.00e-04,7 - seven,T-shirt/top
+4546,2471,2.00e-04,0 - zero,Coat
+4547,1022,2.00e-04,1 - one,Sandal
+4548,1959,2.00e-04,2 - two,Bag
+4549,1657,2.00e-04,2 - two,Ankle boot
+4550,3505,2.00e-04,4 - four,Bag
+4551,708,2.00e-04,8 - eight,Coat
+4552,1328,2.00e-04,4 - four,Sneaker
+4553,1029,2.00e-04,3 - three,Shirt
+4554,3101,2.00e-04,0 - zero,Coat
+4555,420,2.00e-04,8 - eight,T-shirt/top
+4556,1861,2.00e-04,5 - five,Shirt
+4557,1006,2.00e-04,0 - zero,Coat
+4558,3758,2.00e-04,8 - eight,T-shirt/top
+4559,685,2.00e-04,3 - three,Ankle boot
+4560,2114,2.00e-04,0 - zero,Pullover
+4561,515,2.00e-04,4 - four,Sneaker
+4562,677,2.00e-04,1 - one,Sandal
+4563,4891,2.00e-04,7 - seven,T-shirt/top
+4564,3239,2.00e-04,6 - six,Sneaker
+4565,3481,2.00e-04,0 - zero,Coat
+4566,1761,2.00e-04,1 - one,Trouser
+4567,4425,2.00e-04,9 - nine,Dress
+4568,922,2.00e-04,5 - five,Shirt
+4569,2876,2.00e-04,2 - two,Ankle boot
+4570,3568,2.00e-04,3 - three,Ankle boot
+4571,2929,2.00e-04,0 - zero,Coat
+4572,1120,2.00e-04,9 - nine,Trouser
+4573,694,2.00e-04,4 - four,Sneaker
+4574,2483,2.00e-04,5 - five,Bag
+4575,4608,2.00e-04,5 - five,Shirt
+4576,2127,2.00e-04,3 - three,T-shirt/top
+4577,4197,2.00e-04,5 - five,Ankle boot
+4578,1435,2.00e-04,2 - two,Ankle boot
+4579,282,2.00e-04,7 - seven,Trouser
+4580,121,2.00e-04,1 - one,Sneaker
+4581,544,2.00e-04,3 - three,Ankle boot
+4582,3420,2.00e-04,6 - six,Shirt
+4583,1346,2.00e-04,4 - four,Sneaker
+4584,1307,2.00e-04,8 - eight,Dress
+4585,2424,2.00e-04,7 - seven,Shirt
+4586,603,2.00e-04,4 - four,Bag
+4587,1721,2.00e-04,4 - four,Sneaker
+4588,4062,2.00e-04,9 - nine,Dress
+4589,3652,2.00e-04,2 - two,Ankle boot
+4590,3569,2.00e-04,0 - zero,Coat
+4591,3055,2.00e-04,8 - eight,Ankle boot
+4592,4972,2.00e-04,8 - eight,Pullover
+4593,1028,2.00e-04,6 - six,Coat
+4594,4348,2.00e-04,1 - one,Sandal
+4595,1416,2.00e-04,7 - seven,T-shirt/top
+4596,3902,2.00e-04,8 - eight,T-shirt/top
+4597,1735,2.00e-04,4 - four,Sneaker
+4598,401,2.00e-04,2 - two,Bag
+4599,2658,2.00e-04,1 - one,Sandal
+4600,676,2.00e-04,6 - six,Shirt
+4601,23,2.00e-04,1 - one,Trouser
+4602,1727,2.00e-04,9 - nine,Dress
+4603,1499,2.00e-04,8 - eight,Dress
+4604,3046,2.00e-04,6 - six,Dress
+4605,2634,2.00e-04,4 - four,Sneaker
+4606,4299,2.00e-04,3 - three,Ankle boot
+4607,994,2.00e-04,8 - eight,T-shirt/top
+4608,1691,2.00e-04,0 - zero,Coat
+4609,625,2.00e-04,2 - two,Ankle boot
+4610,3418,2.00e-04,0 - zero,Coat
+4611,1991,2.00e-04,4 - four,Sneaker
+4612,872,2.00e-04,8 - eight,T-shirt/top
+4613,645,2.00e-04,5 - five,Sandal
+4614,238,2.00e-04,0 - zero,Coat
+4615,3265,2.00e-04,5 - five,Ankle boot
+4616,574,2.00e-04,9 - nine,Trouser
+4617,4349,2.00e-04,0 - zero,Coat
+4618,3270,2.00e-04,8 - eight,Dress
+4619,458,2.00e-04,4 - four,Sneaker
+4620,368,2.00e-04,0 - zero,Bag
+4621,2617,2.00e-04,0 - zero,Pullover
+4622,4193,2.00e-04,9 - nine,Trouser
+4623,1010,2.00e-04,8 - eight,T-shirt/top
+4624,466,2.00e-04,7 - seven,T-shirt/top
+4625,885,2.00e-04,2 - two,Bag
+4626,1248,2.00e-04,7 - seven,T-shirt/top
+4627,799,2.00e-04,4 - four,Sneaker
+4628,1725,2.00e-04,0 - zero,Coat
+4629,1167,2.00e-04,4 - four,Sandal
+4630,211,2.00e-04,3 - three,Pullover
+4631,280,2.00e-04,4 - four,Sneaker
+4632,22,2.00e-04,4 - four,Sneaker
+4633,4691,2.00e-04,7 - seven,T-shirt/top
+4634,879,2.00e-04,3 - three,Pullover
+4635,1436,2.00e-04,6 - six,Shirt
+4636,220,2.00e-04,6 - six,Shirt
+4637,2075,2.00e-04,8 - eight,Dress
+4638,2243,2.00e-04,8 - eight,Dress
+4639,3632,2.00e-04,3 - three,Pullover
+4640,3012,2.00e-04,7 - seven,Shirt
+4641,221,2.00e-04,4 - four,Sneaker
+4642,2782,2.00e-04,9 - nine,Trouser
+4643,4432,2.00e-04,4 - four,Sneaker
+4644,3498,2.00e-04,1 - one,Trouser
+4645,2307,2.00e-04,7 - seven,Shirt
+4646,2462,2.00e-04,3 - three,Coat
+4647,4272,2.00e-04,8 - eight,Dress
+4648,3407,2.00e-04,8 - eight,Dress
+4649,3431,2.00e-04,5 - five,T-shirt/top
+4650,4873,2.00e-04,4 - four,Sneaker
+4651,563,2.00e-04,7 - seven,Sandal
+4652,429,2.00e-04,0 - zero,Coat
+4653,4592,2.00e-04,4 - four,Bag
+4654,1081,2.00e-04,8 - eight,T-shirt/top
+4655,3506,2.00e-04,6 - six,Dress
+4656,4056,2.00e-04,9 - nine,Trouser
+4657,1282,2.00e-04,3 - three,T-shirt/top
+4658,968,2.00e-04,9 - nine,Trouser
+4659,806,2.00e-04,4 - four,Sneaker
+4660,1065,2.00e-04,9 - nine,Trouser
+4661,2092,2.00e-04,5 - five,Bag
+4662,1826,2.00e-04,2 - two,Pullover
+4663,1930,2.00e-04,4 - four,Sneaker
+4664,932,2.00e-04,9 - nine,Trouser
+4665,2698,2.00e-04,1 - one,Sandal
+4666,41,2.00e-04,7 - seven,T-shirt/top
+4667,1419,2.00e-04,2 - two,Ankle boot
+4668,3955,2.00e-04,8 - eight,Trouser
+4669,2382,2.00e-04,1 - one,Sandal
+4670,377,2.00e-04,8 - eight,Dress
+4671,3033,2.00e-04,2 - two,Ankle boot
+4672,3511,2.00e-04,7 - seven,Trouser
+4673,1621,2.00e-04,7 - seven,Shirt
+4674,584,2.00e-04,4 - four,Sneaker
+4675,594,2.00e-04,5 - five,Sandal
+4676,1452,2.00e-04,3 - three,Pullover
+4677,3188,2.00e-04,8 - eight,Dress
+4678,2811,2.00e-04,0 - zero,Coat
+4679,457,2.00e-04,6 - six,Dress
+4680,2100,2.00e-04,7 - seven,T-shirt/top
+4681,4556,2.00e-04,6 - six,Sneaker
+4682,9,2.00e-04,6 - six,Dress
+4683,2670,2.00e-04,5 - five,T-shirt/top
+4684,2259,2.00e-04,6 - six,Sneaker
+4685,146,2.00e-04,2 - two,Pullover
+4686,2639,2.00e-04,0 - zero,Coat
+4687,3399,2.00e-04,9 - nine,Trouser
+4688,1033,2.00e-04,9 - nine,Dress
+4689,585,2.00e-04,9 - nine,Dress
+4690,416,2.00e-04,1 - one,Sandal
+4691,5,2.00e-04,1 - one,Sandal
+4692,2736,2.00e-04,4 - four,Sneaker
+4693,3330,2.00e-04,5 - five,Bag
+4694,4135,2.00e-04,4 - four,Sneaker
+4695,2283,2.00e-04,8 - eight,Pullover
+4696,310,2.00e-04,1 - one,Sandal
+4697,4416,2.00e-04,9 - nine,Shirt
+4698,3036,2.00e-04,2 - two,Ankle boot
+4699,2949,2.00e-04,8 - eight,Dress
+4700,1077,2.00e-04,3 - three,Coat
+4701,3475,2.00e-04,7 - seven,Trouser
+4702,341,2.00e-04,5 - five,Dress
+4703,1455,2.00e-04,7 - seven,T-shirt/top
+4704,2172,2.00e-04,7 - seven,Shirt
+4705,1246,2.00e-04,5 - five,Sandal
+4706,434,2.00e-04,1 - one,Sandal
+4707,1276,2.00e-04,7 - seven,Shirt
+4708,1468,2.00e-04,5 - five,Sandal
+4709,3739,2.00e-04,7 - seven,Bag
+4710,1568,2.00e-04,6 - six,Sneaker
+4711,1533,2.00e-04,7 - seven,Shirt
+4712,912,2.00e-04,0 - zero,Coat
+4713,272,2.00e-04,7 - seven,Shirt
+4714,2141,2.00e-04,9 - nine,Trouser
+4715,4832,2.00e-04,4 - four,Sneaker
+4716,1254,2.00e-04,3 - three,Shirt
+4717,4914,2.00e-04,4 - four,Bag
+4718,656,2.00e-04,6 - six,Shirt
+4719,4321,2.00e-04,5 - five,Bag
+4720,3318,2.00e-04,3 - three,Ankle boot
+4721,175,2.00e-04,9 - nine,Trouser
+4722,1672,2.00e-04,9 - nine,Trouser
+4723,130,2.00e-04,7 - seven,T-shirt/top
+4724,501,2.00e-04,0 - zero,Pullover
+4725,765,2.00e-04,7 - seven,Shirt
+4726,2265,2.00e-04,8 - eight,Dress
+4727,529,2.00e-04,0 - zero,Coat
+4728,1192,2.00e-04,9 - nine,Trouser
+4729,3577,2.00e-04,5 - five,Shirt
+4730,622,2.00e-04,8 - eight,T-shirt/top
+4731,3260,2.00e-04,1 - one,Sandal
+4732,4344,2.00e-04,3 - three,Pullover
+4733,468,2.00e-04,1 - one,Sandal
+4734,1199,2.00e-04,7 - seven,Shirt
+4735,3494,2.00e-04,5 - five,Bag
+4736,4626,2.00e-04,2 - two,Coat
+4737,1311,2.00e-04,2 - two,Ankle boot
+4738,861,2.00e-04,8 - eight,T-shirt/top
+4739,1488,2.00e-04,9 - nine,Trouser
+4740,1558,2.00e-04,5 - five,Ankle boot
+4741,273,2.00e-04,1 - one,Sandal
+4742,3064,2.00e-04,6 - six,Shirt
+4743,432,2.00e-04,7 - seven,T-shirt/top
+4744,961,2.00e-04,6 - six,Dress
+4745,2310,2.00e-04,6 - six,Coat
+4746,440,2.00e-04,1 - one,Trouser
+4747,509,2.00e-04,5 - five,Shirt
+4748,627,2.00e-04,6 - six,Sneaker
+4749,1738,2.00e-04,0 - zero,Coat
+4750,1858,2.00e-04,3 - three,Pullover
+4751,1521,2.00e-04,3 - three,Pullover
+4752,343,2.00e-04,4 - four,Sneaker
+4753,309,2.00e-04,5 - five,Sandal
+4754,3249,2.00e-04,6 - six,Bag
+4755,1278,2.00e-04,8 - eight,T-shirt/top
+4756,4474,2.00e-04,0 - zero,Coat
+4757,1723,2.00e-04,7 - seven,Trouser
+4758,962,2.00e-04,7 - seven,T-shirt/top
+4759,2795,2.00e-04,8 - eight,Dress
+4760,63,2.00e-04,6 - six,Shirt
+4761,4637,2.00e-04,2 - two,Ankle boot
+4762,3755,2.00e-04,4 - four,Sneaker
+4763,2303,2.00e-04,9 - nine,Trouser
+4764,381,2.00e-04,1 - one,Sandal
+4765,1162,2.00e-04,7 - seven,Shirt
+4766,2235,2.00e-04,5 - five,Shirt
+4767,283,2.00e-04,1 - one,Trouser
+4768,2710,2.00e-04,6 - six,Coat
+4769,2021,2.00e-04,8 - eight,Dress
+4770,2997,2.00e-04,1 - one,Sandal
+4771,2145,2.00e-04,1 - one,Ankle boot
+4772,1353,2.00e-04,4 - four,Sneaker
+4773,2543,2.00e-04,7 - seven,T-shirt/top
+4774,1136,2.00e-04,7 - seven,Shirt
+4775,1622,2.00e-04,5 - five,Bag
+4776,315,2.00e-04,1 - one,Sandal
+4777,1260,2.00e-04,8 - eight,T-shirt/top
+4778,288,2.00e-04,2 - two,Ankle boot
+4779,825,2.00e-04,7 - seven,Shirt
+4780,314,2.00e-04,9 - nine,Trouser
+4781,347,2.00e-04,1 - one,Sandal
+4782,126,2.00e-04,0 - zero,Pullover
+4783,711,2.00e-04,7 - seven,Trouser
+4784,4298,2.00e-04,0 - zero,Coat
+4785,4743,2.00e-04,7 - seven,Shirt
+4786,4050,2.00e-04,1 - one,Sandal
+4787,682,2.00e-04,0 - zero,Pullover
+4788,1165,2.00e-04,1 - one,Sandal
+4789,4693,2.00e-04,6 - six,Bag
+4790,2703,2.00e-04,7 - seven,Shirt
+4791,2189,2.00e-04,2 - two,Pullover
+4792,4566,2.00e-04,9 - nine,Trouser
+4793,1809,2.00e-04,9 - nine,Trouser
+4794,976,2.00e-04,5 - five,Sandal
+4795,4708,2.00e-04,8 - eight,T-shirt/top
+4796,2637,2.00e-04,1 - one,Trouser
+4797,3894,2.00e-04,4 - four,Sneaker
+4798,905,2.00e-04,4 - four,Bag
+4799,3175,2.00e-04,9 - nine,Shirt
+4800,292,2.00e-04,6 - six,Shirt
+4801,613,2.00e-04,6 - six,Shirt
+4802,1489,2.00e-04,0 - zero,Coat
+4803,4036,2.00e-04,1 - one,Sneaker
+4804,3473,2.00e-04,8 - eight,Dress
+4805,1144,2.00e-04,9 - nine,Dress
+4806,2192,2.00e-04,4 - four,Sneaker
+4807,1439,2.00e-04,0 - zero,Pullover
+4808,1042,2.00e-04,1 - one,Trouser
+4809,2596,2.00e-04,4 - four,Sneaker
+4810,1808,2.00e-04,9 - nine,Shirt
+4811,299,2.00e-04,9 - nine,Trouser
+4812,771,2.00e-04,1 - one,Dress
+4813,952,2.00e-04,5 - five,Sandal
+4814,2423,2.00e-04,4 - four,Sneaker
+4815,356,2.00e-04,0 - zero,Coat
+4816,4390,2.00e-04,4 - four,Sneaker
+4817,4750,2.00e-04,8 - eight,T-shirt/top
+4818,370,2.00e-04,0 - zero,Coat
+4819,2636,2.00e-04,4 - four,Sneaker
+4820,892,2.00e-04,3 - three,Pullover
+4821,244,2.00e-04,2 - two,Ankle boot
+4822,1304,2.00e-04,9 - nine,Trouser
+4823,570,2.00e-04,2 - two,Bag
+4824,4674,2.00e-04,1 - one,Sandal
+4825,328,2.00e-04,2 - two,Pullover
+4826,342,2.00e-04,7 - seven,T-shirt/top
+4827,2252,2.00e-04,4 - four,Shirt
+4828,2175,2.00e-04,3 - three,Dress
+4829,2278,2.00e-04,1 - one,Sneaker
+4830,172,2.00e-04,7 - seven,Bag
+4831,2849,2.00e-04,3 - three,T-shirt/top
+4832,1592,2.00e-04,9 - nine,Trouser
+4833,171,2.00e-04,0 - zero,Coat
+4834,3464,2.00e-04,0 - zero,Pullover
+4835,3636,2.00e-04,5 - five,Bag
+4836,630,2.00e-04,9 - nine,Trouser
+4837,629,2.00e-04,1 - one,Sandal
+4838,4939,2.00e-04,3 - three,Pullover
+4839,1552,2.00e-04,2 - two,Ankle boot
+4840,426,2.00e-04,9 - nine,Dress
+4841,4215,2.00e-04,7 - seven,T-shirt/top
+4842,3926,2.00e-04,2 - two,Ankle boot
+4843,896,2.00e-04,5 - five,Sandal
+4844,1519,2.00e-04,8 - eight,Dress
+4845,380,2.00e-04,6 - six,Dress
+4846,1039,2.00e-04,1 - one,Sandal
+4847,1952,2.00e-04,9 - nine,Trouser
+4848,4987,2.00e-04,5 - five,Sandal
+4849,3840,2.00e-04,8 - eight,T-shirt/top
+4850,1163,2.00e-04,6 - six,Coat
+4851,4786,2.00e-04,1 - one,Sandal
+4852,3302,2.00e-04,5 - five,T-shirt/top
+4853,1590,2.00e-04,8 - eight,Dress
+4854,2318,2.00e-04,1 - one,Sneaker
+4855,1602,2.00e-04,4 - four,Shirt
+4856,3968,2.00e-04,6 - six,Coat
+4857,2233,2.00e-04,1 - one,Sandal
+4858,669,2.00e-04,1 - one,Sandal
+4859,1080,2.00e-04,8 - eight,Coat
+4860,3142,2.00e-04,2 - two,Bag
+4861,942,2.00e-04,9 - nine,Dress
+4862,675,2.00e-04,0 - zero,Coat
+4863,160,2.00e-04,2 - two,Ankle boot
+4864,4702,2.00e-04,7 - seven,T-shirt/top
+4865,2287,2.00e-04,0 - zero,Coat
+4866,1393,2.00e-04,7 - seven,Shirt
+4867,400,2.00e-04,5 - five,Bag
+4868,2569,2.00e-04,4 - four,Sneaker
+4869,3208,2.00e-04,0 - zero,Coat
+4870,330,2.00e-04,8 - eight,Coat
+4871,642,2.00e-04,0 - zero,Coat
+4872,726,2.00e-04,2 - two,Ankle boot
+4873,618,2.00e-04,9 - nine,Trouser
+4874,4039,2.00e-04,8 - eight,T-shirt/top
+4875,549,2.00e-04,9 - nine,Shirt
+4876,2335,2.00e-04,2 - two,Coat
+4877,134,2.00e-04,8 - eight,Dress
+4878,289,2.00e-04,1 - one,Sandal
+4879,849,2.00e-04,0 - zero,Coat
+4880,320,2.00e-04,6 - six,Shirt
+4881,2342,2.00e-04,7 - seven,Shirt
+4882,300,2.00e-04,2 - two,Ankle boot
+4883,1121,2.00e-04,1 - one,Sandal
+4884,809,2.00e-04,0 - zero,Coat
+4885,2751,2.00e-04,0 - zero,Coat
+4886,576,2.00e-04,4 - four,Sneaker
+4887,127,2.00e-04,7 - seven,T-shirt/top
+4888,2406,2.00e-04,8 - eight,Dress
+4889,3352,2.00e-04,6 - six,Dress
+4890,296,2.00e-04,1 - one,Sandal
+4891,3984,2.00e-04,5 - five,T-shirt/top
+4892,3214,2.00e-04,7 - seven,Shirt
+4893,1830,2.00e-04,1 - one,Sandal
+4894,6,2.00e-04,3 - three,Pullover
+4895,4700,2.00e-04,9 - nine,Shirt
+4896,27,2.00e-04,5 - five,Shirt
+4897,1957,2.00e-04,5 - five,Bag
+4898,3066,2.00e-04,9 - nine,Dress
+4899,71,2.00e-04,6 - six,Shirt
+4900,1403,2.00e-04,1 - one,Sandal
+4901,2152,2.00e-04,3 - three,Pullover
+4902,2502,2.00e-04,6 - six,Pullover
+4903,2474,2.00e-04,5 - five,Sandal
+4904,1741,2.00e-04,5 - five,Bag
+4905,2415,2.00e-04,2 - two,Bag
+4906,828,2.00e-04,4 - four,Sneaker
+4907,1008,2.00e-04,3 - three,Coat
+4908,3439,2.00e-04,7 - seven,T-shirt/top
+4909,1913,2.00e-04,0 - zero,Coat
+4910,4888,2.00e-04,6 - six,Pullover
+4911,1852,2.00e-04,4 - four,Sneaker
+4912,3423,2.00e-04,7 - seven,T-shirt/top
+4913,29,2.00e-04,1 - one,Sandal
+4914,1878,2.00e-04,3 - three,T-shirt/top
+4915,1182,2.00e-04,5 - five,Shirt
+4916,4262,2.00e-04,7 - seven,T-shirt/top
+4917,3655,2.00e-04,9 - nine,Shirt
+4918,926,2.00e-04,7 - seven,Shirt
+4919,766,2.00e-04,5 - five,Sandal
+4920,1036,2.00e-04,5 - five,Ankle boot
+4921,3736,2.00e-04,9 - nine,Trouser
+4922,324,2.00e-04,8 - eight,Ankle boot
+4923,439,2.00e-04,3 - three,Pullover
+4924,607,2.00e-04,1 - one,Sneaker
+4925,4150,2.00e-04,0 - zero,Pullover
+4926,4706,2.00e-04,4 - four,Sneaker
+4927,928,2.00e-04,9 - nine,Trouser
+4928,906,2.00e-04,2 - two,Bag
+4929,775,2.00e-04,4 - four,Sneaker
+4930,4924,2.00e-04,7 - seven,T-shirt/top
+4931,1215,2.00e-04,5 - five,Sandal
+4932,1391,2.00e-04,0 - zero,Coat
+4933,3977,2.00e-04,9 - nine,Shirt
+4934,3112,2.00e-04,1 - one,Sandal
+4935,141,2.00e-04,3 - three,Pullover
+4936,194,2.00e-04,8 - eight,T-shirt/top
+4937,4205,2.00e-04,4 - four,Sneaker
+4938,441,2.00e-04,9 - nine,Trouser
+4939,662,2.00e-04,9 - nine,Trouser
+4940,3167,2.00e-04,3 - three,Pullover
+4941,4517,2.00e-04,3 - three,Coat
+4942,517,2.00e-04,6 - six,Bag
+4943,2522,2.00e-04,0 - zero,Coat
+4944,701,2.00e-04,7 - seven,Shirt
+4945,42,2.00e-04,7 - seven,Trouser
+4946,430,2.00e-04,8 - eight,Ankle boot
+4947,3488,2.00e-04,3 - three,Ankle boot
+4948,636,2.00e-04,1 - one,Sandal
+4949,1430,2.00e-04,3 - three,T-shirt/top
+4950,51,2.00e-04,0 - zero,Coat
+4951,3507,2.00e-04,3 - three,Shirt
+4952,3912,2.00e-04,7 - seven,T-shirt/top
+4953,216,2.00e-04,1 - one,Sneaker
+4954,2908,2.00e-04,9 - nine,Dress
+4955,1142,2.00e-04,2 - two,Ankle boot
+4956,3924,2.00e-04,8 - eight,Bag
+4957,2750,2.00e-04,3 - three,Pullover
+4958,4450,2.00e-04,8 - eight,Pullover
+4959,2144,2.00e-04,8 - eight,Dress
+4960,3799,2.00e-04,3 - three,Pullover
+4961,2877,2.00e-04,6 - six,Coat
+4962,712,2.00e-04,0 - zero,Coat
+4963,1038,2.00e-04,1 - one,Sandal
+4964,3527,2.00e-04,8 - eight,Dress
+4965,1212,2.00e-04,4 - four,Shirt
+4966,389,2.00e-04,1 - one,Trouser
+4967,4118,2.00e-04,5 - five,Bag
+4968,647,2.00e-04,7 - seven,T-shirt/top
+4969,1472,2.00e-04,5 - five,Sandal
+4970,3957,2.00e-04,6 - six,Ankle boot
+4971,1934,2.00e-04,5 - five,T-shirt/top
+4972,1615,2.00e-04,2 - two,Bag
+4973,467,2.00e-04,0 - zero,Coat
+4974,918,2.00e-04,0 - zero,Coat
+4975,4985,2.00e-04,6 - six,Dress
+4976,2105,2.00e-04,0 - zero,Coat
+4977,3128,2.00e-04,4 - four,Sneaker
+4978,4447,2.00e-04,5 - five,Bag
+4979,1323,2.00e-04,9 - nine,Trouser
+4980,1456,2.00e-04,9 - nine,Dress
+4981,4339,2.00e-04,6 - six,Pullover
+4982,1955,2.00e-04,9 - nine,Trouser
+4983,1270,2.00e-04,3 - three,Pullover
+4984,2400,2.00e-04,9 - nine,Dress
+4985,1117,2.00e-04,1 - one,Sneaker
+4986,1687,2.00e-04,6 - six,Dress
+4987,869,2.00e-04,8 - eight,Ankle boot
+4988,1174,2.00e-04,2 - two,Ankle boot
+4989,462,2.00e-04,1 - one,Trouser
+4990,1034,2.00e-04,8 - eight,Dress
+4991,1871,2.00e-04,1 - one,Sandal
+4992,839,2.00e-04,8 - eight,Dress
+4993,2683,2.00e-04,6 - six,Pullover
+4994,107,2.00e-04,4 - four,Sneaker
+4995,4081,2.00e-04,0 - zero,Pullover
+4996,1,2.00e-04,8 - eight,T-shirt/top
+4997,3770,2.00e-04,3 - three,Pullover
+4998,2510,2.00e-04,3 - three,Pullover
+4999,2939,2.00e-04,2 - two,Ankle boot
